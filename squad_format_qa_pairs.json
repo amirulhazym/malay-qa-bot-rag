@@ -1,0 +1,510 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Lazada Pembatalan",
+      "paragraphs": [
+        {
+          "context": "Mengikut dasar pembatalan Lazada, anda boleh membatalkan pesanan anda terus dari akaun Lazada anda sebelum pesanan dihantar keluar dari Lazada atau gudang penjual.",
+          "qas": [
+            {
+              "id": "laz_qa_001",
+              "question": "Bagaimana jika saya ingin membatalkan produk LazMall saya?",
+              "answers": [
+                {
+                  "text": "Mengikut dasar pembatalan Lazada, anda boleh membatalkan pesanan anda terus dari akaun Lazada anda sebelum pesanan dihantar keluar dari Lazada atau gudang penjual.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lazada Polisi Pemulangan",
+      "paragraphs": [
+        {
+          "context": "Terdapat 3 jenis Polisi Pemulangan yang tersedia di Lazada, bergantung pada produk dan penjual.",
+          "qas": [
+            {
+              "id": "laz_qa_002",
+              "question": "Berapa jenis Polisi Pemulangan yang tersedia di Lazada?",
+              "answers": [
+                {
+                  "text": "Terdapat 3 jenis Polisi Pemulangan yang tersedia di Lazada, bergantung pada produk dan penjual.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lazada Pemulangan Jimat Borong",
+      "paragraphs": [
+        {
+          "context": "Walau bagaimanapun, jika anda ingin memulangkan item yang telah anda beli di bawah promosi 'Jimat Borong' dan/atau 'Flexi Combo', yang merupakan diskaun yang diterima daripada pembelian secara pukal. Kemudian, anda mesti memulangkan semua item yang telah dihantar dalam satu pakej untuk mengelakkan permintaan anda daripada ditolak.",
+          "qas": [
+            {
+              "id": "laz_qa_003",
+              "question": "Apakah yang perlu saya lakukan jika saya ingin memulangkan item yang dibeli di bawah promosi 'Jimat Borong'?",
+              "answers": [
+                {
+                  "text": "anda mesti memulangkan semua item yang telah dihantar dalam satu pakej untuk mengelakkan permintaan anda daripada ditolak.",
+                  "answer_start": 181
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lazada Tempoh Pemulangan",
+      "paragraphs": [
+        {
+          "context": "LazMall & Choice (selepas 1 Februari 2024) | 30 Hari | 30 Hari",
+          "qas": [
+            {
+              "id": "laz_qa_004",
+              "question": "Berapa lama tempoh pemulangan untuk produk LazMall & Choice selepas 1 Februari 2024?",
+              "answers": [
+                {
+                  "text": "30 Hari",
+                  "answer_start": 43
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Pasaran & LazGlobal (selepas 31 Okt 2024) | 15 Hari | 15 Hari",
+          "qas": [
+            {
+              "id": "laz_qa_005",
+              "question": "Berapa lama tempoh pemulangan untuk produk Pasaran & LazGlobal selepas 31 Oktober 2024?",
+              "answers": [
+                {
+                  "text": "15 Hari",
+                  "answer_start": 42
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Sila ambil perhatian bahawa bermula dari 31 Oktober 2024, tempoh pemulangan pelanggan akan dikemas kini dari 7 hari hingga 15 hari untuk Pasaran Lazada & Penjual LazGlobal.",
+          "qas": [
+            {
+              "id": "laz_qa_008",
+              "question": "Apakah perubahan tempoh pemulangan pelanggan yang dikemas kini bermula dari 31 Oktober 2024?",
+              "answers": [
+                {
+                  "text": "tempoh pemulangan pelanggan akan dikemas kini dari 7 hari hingga 15 hari untuk Pasaran Lazada & Penjual LazGlobal.",
+                  "answer_start": 55
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Taobao | 15 Hari | 15 Hari",
+          "qas": [
+            {
+              "id": "laz_qa_009",
+              "question": "Berapa lama tempoh pemulangan untuk produk Taobao di Lazada?",
+              "answers": [
+                {
+                  "text": "15 Hari",
+                  "answer_start": 9
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lazada Tukar Fikiran",
+      "paragraphs": [
+        {
+          "context": "\"Tukar fikiran\" membolehkan anda memulangkan item jika anda tidak lagi mahu produk tersebut dan mendapati ia tidak sesuai atau ingin membuat pesanan semula dalam varian yang berbeza (contoh: saiz, warna, gaya).",
+          "qas": [
+            {
+              "id": "laz_qa_006",
+              "question": "Apakah maksud \"Tukar fikiran\" dalam dasar pemulangan Lazada?",
+              "answers": [
+                {
+                  "text": "\"Tukar fikiran\" membolehkan anda memulangkan item jika anda tidak lagi mahu produk tersebut dan mendapati ia tidak sesuai atau ingin membuat pesanan semula dalam varian yang berbeza (contoh: saiz, warna, gaya).",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Anda hanya boleh menghantar permintaan pemulangan di bawah alasan \"Tukar fikiran\" jika: - Item yang anda beli mempunyai logo \"Tukar fikiran\" pada Halaman Produk.",
+          "qas": [
+            {
+              "id": "laz_qa_007",
+              "question": "Bilakah saya boleh memulangkan item atas sebab \"Tukar fikiran\"?",
+              "answers": [
+                {
+                  "text": "Anda hanya boleh menghantar permintaan pemulangan di bawah alasan \"Tukar fikiran\" jika: - Item yang anda beli mempunyai logo \"Tukar fikiran\" pada Halaman Produk.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lazada Tukar Fikiran Elektronik",
+      "paragraphs": [
+        {
+          "context": "Produk di bawah Kategori Elektronik hendaklah TIDAK DIBUKA (meterai tidak dikoyak, diusik atau diubah) dan dalam KEADAAN BOLEH DIPERJUALBELI (iaitu, Produk TIDAK mempunyai tanda-tanda: penggunaan, kesan barang dipakai sepeti haus, lusuh dan kemik atau sebarang kerosakan) untuk dianggap layak untuk pulangan \"Tukar fikiran\".",
+          "qas": [
+            {
+              "id": "laz_qa_010",
+              "question": "Apakah yang perlu saya perhatikan sebelum memulangkan produk elektronik atas sebab \"Tukar fikiran\"?",
+              "answers": [
+                {
+                  "text": "Produk di bawah Kategori Elektronik hendaklah TIDAK DIBUKA (meterai tidak dikoyak, diusik atau diubah) dan dalam KEADAAN BOLEH DIPERJUALBELI (iaitu, Produk TIDAK mempunyai tanda-tanda: penggunaan, kesan barang dipakai sepeti haus, lusuh dan kemik atau sebarang kerosakan) untuk dianggap layak untuk pulangan \"Tukar fikiran\".",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Pulangan",
+      "paragraphs": [
+        {
+          "context": "Setelah permohonan pulangan anda diluluskan, anda dikehendaki memilih kaedah penghantaran pulangan yang anda inginkan dalam masa 2 hari dan memulangkan item kepada penjual dalam masa 6 hari berikutnya.",
+          "qas": [
+            {
+              "id": "shopee_qa_001",
+              "question": "Bagaimanakah cara untuk menghantar bungkusan pulangan saya di Shopee?",
+              "answers": [
+                {
+                  "text": "Setelah permohonan pulangan anda diluluskan, anda dikehendaki memilih kaedah penghantaran pulangan yang anda inginkan dalam masa 2 hari dan memulangkan item kepada penjual dalam masa 6 hari berikutnya.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Kaedah Pemulangan",
+      "paragraphs": [
+        {
+          "context": "1. Kaedah drop off (penyerahan)\n2. Kaedah pick up (kutipan)\n3. Kaedah self arrange",
+          "qas": [
+            {
+              "id": "shopee_qa_002",
+              "question": "Apakah kaedah-kaedah pemulangan yang tersedia di Shopee?",
+              "answers": [
+                {
+                  "text": "1. Kaedah drop off (penyerahan)\n2. Kaedah pick up (kutipan)\n3. Kaedah self arrange",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Drop Off",
+      "paragraphs": [
+        {
+          "context": "Anda boleh memulangkan bungkusan anda dengan mudah dengan menghantarnya ke mana-mana rakan logistik Shopee Free Return iaitu SPX Express, Flash Express atau PosLaju.",
+          "qas": [
+            {
+              "id": "shopee_qa_003",
+              "question": "Bagaimanakah cara untuk memulangkan bungkusan melalui kaedah drop off di Shopee?",
+              "answers": [
+                {
+                  "text": "Anda boleh memulangkan bungkusan anda dengan mudah dengan menghantarnya ke mana-mana rakan logistik Shopee Free Return iaitu SPX Express, Flash Express atau PosLaju.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Pick Up",
+      "paragraphs": [
+        {
+          "context": "Untuk SPX Express, parcel mesti 20kg atau kurang untuk diambil. Hanya tersedia di Semenanjung Malaysia sahaja.",
+          "qas": [
+            {
+              "id": "shopee_qa_004",
+              "question": "Apakah syarat untuk menggunakan kaedah pick up (kutipan) dengan SPX Express?",
+              "answers": [
+                {
+                  "text": "Untuk SPX Express, parcel mesti 20kg atau kurang untuk diambil. Hanya tersedia di Semenanjung Malaysia sahaja.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Self Arrange",
+      "paragraphs": [
+        {
+          "context": "Harap maklum bahawa untuk kaedah pemulangan ini, anda perlu menanggung kos penghantaran pemulangan terlebih dahulu. Walau bagaimanapun, anda boleh mengemukakan tuntutan kepada Shopee untuk mendapatkan bayaran balik kos penghantaran setelah pemulangan diproses.",
+          "qas": [
+            {
+              "id": "shopee_qa_005",
+              "question": "Apakah yang perlu saya ketahui tentang kaedah self arrange untuk pemulangan di Shopee?",
+              "answers": [
+                {
+                  "text": "Harap maklum bahawa untuk kaedah pemulangan ini, anda perlu menanggung kos penghantaran pemulangan terlebih dahulu. Walau bagaimanapun, anda boleh mengemukakan tuntutan kepada Shopee untuk mendapatkan bayaran balik kos penghantaran setelah pemulangan diproses.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Pulangan Keadaan Asal",
+      "paragraphs": [
+        {
+          "context": "Mulai 06 Disember 2024, anda boleh memohon pulangan/bayaran balik dengan sebab - 'Ingin memulangkan barang dalam keadaan asal / masih belum dibuka' bagi semua kategori di Shopee.",
+          "qas": [
+            {
+              "id": "shopee_qa_006",
+              "question": "Bolehkah saya buat permohonan pulangan/bayaran balik jika saya ingin memulangkan barang dalam keadaan asal di Shopee?",
+              "answers": [
+                {
+                  "text": "Mulai 06 Disember 2024, anda boleh memohon pulangan/bayaran balik dengan sebab - 'Ingin memulangkan barang dalam keadaan asal / masih belum dibuka' bagi semua kategori di Shopee.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Cara Pulangan Keadaan Asal",
+      "paragraphs": [
+        {
+          "context": "Langkah 1: Pergi ke tab Saya\nLangkah 2: Pilih Untuk Diterima\nLangkah 3: Pilih Pesanan\nLangkah 4: Klik pada butang Pulangan/Bayaran Balik\nLangkah 5: Pilih alasan \"Lain-lain\" untuk alasan pemulangan/pemulangan wang anda\nLangkah 6: Pilih Ingin memulangkan barang dalam keadaan asal / masih belum dibuka\nLangkah 7: Klik pada Sah\nLangkah 8: Huraikan permintaan anda (tidak wajib) dan sediakan foto/video\nLangkah 9: Klik pada Hantar",
+          "qas": [
+            {
+              "id": "shopee_qa_007",
+              "question": "Bagaimanakah cara untuk membuat permohonan pulangan/bayaran balik dengan alasan 'Ingin memulangkan barang dalam keadaan asal'?",
+              "answers": [
+                {
+                  "text": "Langkah 1: Pergi ke tab Saya\nLangkah 2: Pilih Untuk Diterima\nLangkah 3: Pilih Pesanan\nLangkah 4: Klik pada butang Pulangan/Bayaran Balik\nLangkah 5: Pilih alasan \"Lain-lain\" untuk alasan pemulangan/pemulangan wang anda\nLangkah 6: Pilih Ingin memulangkan barang dalam keadaan asal / masih belum dibuka\nLangkah 7: Klik pada Sah\nLangkah 8: Huraikan permintaan anda (tidak wajib) dan sediakan foto/video\nLangkah 9: Klik pada Hantar",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Kos Penghantaran Pulangan",
+      "paragraphs": [
+        {
+          "context": "Bukan itu sahaja! Dengan alasan 'Ingin memulangkan barang dalam keadaan asal/masih belum dibuka', anda tidak perlu menanggung sebarang kos penghantaran.",
+          "qas": [
+            {
+              "id": "shopee_qa_008",
+              "question": "Adakah saya perlu menanggung kos penghantaran untuk pemulangan dengan alasan 'Ingin memulangkan barang dalam keadaan asal'?",
+              "answers": [
+                {
+                  "text": "Dengan alasan 'Ingin memulangkan barang dalam keadaan asal/masih belum dibuka', anda tidak perlu menanggung sebarang kos penghantaran.",
+                  "answer_start": 17
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Barangan Layak Pulangan",
+      "paragraphs": [
+        {
+          "context": "Barangan yang layak untuk pulangan 'Ingin memulangkan barang dalam keadaan asal / masih belum dibuka' disenaraikan sebagai 15 Hari Pemulangan Percuma tanpa simbol berbentuk bintang (*) manakala barangan yang tidak layak akan disenaraikan sebagai 15 Hari Pemulangan Percuma*.",
+          "qas": [
+            {
+              "id": "shopee_qa_009",
+              "question": "Bagaimanakah cara untuk mengenal pasti barangan yang layak untuk pulangan 'Ingin memulangkan barang dalam keadaan asal'?",
+              "answers": [
+                {
+                  "text": "Barangan yang layak untuk pulangan 'Ingin memulangkan barang dalam keadaan asal / masih belum dibuka' disenaraikan sebagai 15 Hari Pemulangan Percuma tanpa simbol berbentuk bintang (*) manakala barangan yang tidak layak akan disenaraikan sebagai 15 Hari Pemulangan Percuma*.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Syarat Pulangan",
+      "paragraphs": [
+        {
+          "context": "Untuk pulangan/bayaran balik yang lancar, pastikan perkara berikut dipenuhi:\n* Label/tag/meterai asal tidak ditanggalkan\n* Produk di bawah Kategori Elektronik hendaklah TIDAK DIBUKA (meterai tidak dikoyak, diusik atau diubah) dan dalam KEADAAN BOLEH DIPERJUALBELI (iaitu, Produk TIDAK mempunyai tanda-tanda: penggunaan, kesan barang dipakai sepeti haus, lusuh dan kemik atau sebarang kerosakan) untuk dianggap layak untuk pulangan 'Ingin memulangkan barang dalam keadaan asal / masih belum dibuka'.\n* Produk dipulangkan dalam set/kuantiti lengkap\n* Nombor siri tidak ditanggalkan\n* Produk belum dipasang dan dinyahpasang (cth: meterai haba tidak ditanggalkan atau produk belum diasingkan)\n* Produk tidak dikelaskan sebagai bahan berbahaya atau menggunakan cecair/gas mudah terbakar\n* Produk ini bukan produk khusus seperti kotak misteri, kotak kejutan, kotak jenama, produk tersuai atau produk yang dibuat mengikut tempahan",
+          "qas": [
+            {
+              "id": "shopee_qa_010",
+              "question": "Apakah syarat-syarat yang perlu dipenuhi untuk pulangan/bayaran balik yang lancar di Shopee?",
+              "answers": [
+                {
+                  "text": "Untuk pulangan/bayaran balik yang lancar, pastikan perkara berikut dipenuhi:\n* Label/tag/meterai asal tidak ditanggalkan\n* Produk di bawah Kategori Elektronik hendaklah TIDAK DIBUKA (meterai tidak dikoyak, diusik atau diubah) dan dalam KEADAAN BOLEH DIPERJUALBELI (iaitu, Produk TIDAK mempunyai tanda-tanda: penggunaan, kesan barang dipakai sepeti haus, lusuh dan kemik atau sebarang kerosakan) untuk dianggap layak untuk pulangan 'Ingin memulangkan barang dalam keadaan asal / masih belum dibuka'.\n* Produk dipulangkan dalam set/kuantiti lengkap\n* Nombor siri tidak ditanggalkan\n* Produk belum dipasang dan dinyahpasang (cth: meterai haba tidak ditanggalkan atau produk belum diasingkan)\n* Produk tidak dikelaskan sebagai bahan berbahaya atau menggunakan cecair/gas mudah terbakar\n* Produk ini bukan produk khusus seperti kotak misteri, kotak kejutan, kotak jenama, produk tersuai atau produk yang dibuat mengikut tempahan",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Pilihan Pembayaran",
+      "paragraphs": [
+        {
+          "context": "Berikut adalah 10 pilihan pembayaran yang boleh digunakan: \n1. Pembayaran Tunai di Kedai Runcit\n2. Bayar Waktu Terima (COD)\n3. Kad kredit/Debit\n4. Maybank2u\n5. Perbankan Atas Talian\n6. ShopeePay\n7. Ansuran Kad Kredit\n8. SPayLater\n9. Google Pay\n10. Apple Pay",
+          "qas": [
+            {
+              "id": "shopee_qa_011",
+              "question": "Apakah pilihan pembayaran yang boleh digunakan untuk pembayaran di Shopee?",
+              "answers": [
+                {
+                  "text": "Berikut adalah 10 pilihan pembayaran yang boleh digunakan: \n1. Pembayaran Tunai di Kedai Runcit\n2. Bayar Waktu Terima (COD)\n3. Kad kredit/Debit\n4. Maybank2u\n5. Perbankan Atas Talian\n6. ShopeePay\n7. Ansuran Kad Kredit\n8. SPayLater\n9. Google Pay\n10. Apple Pay",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Pembayaran Tunai",
+      "paragraphs": [
+        {
+          "context": "Pembayaran pesanan boleh dilakukan melalui 7-Eleven dan KK Mart di seluruh Malaysia. Anda hanya boleh membuat pembayaran di kedai serbaneka ini jika jumlah pembayaran antara RM1.10 dan RM1,500.",
+          "qas": [
+            {
+              "id": "shopee_qa_012",
+              "question": "Bagaimanakah cara untuk membayar dengan Pembayaran Tunai di Kedai Runcit?",
+              "answers": [
+                {
+                  "text": "Pembayaran pesanan boleh dilakukan melalui 7-Eleven dan KK Mart di seluruh Malaysia. Anda hanya boleh membuat pembayaran di kedai serbaneka ini jika jumlah pembayaran antara RM1.10 dan RM1,500.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee COD",
+      "paragraphs": [
+        {
+          "context": "Kawasan yang boleh dihantar menggunakan Cash on Delivery di bawah saluran penghantaran yang berkenaan adalah seperti berikut:\n| Saluran Penghantaran | Kawasan |\n|---------------------|---------|   \n| | Semenanjung | Sabah dan Sarawak |\n| PosLaju | Semua Negeri | Poskod terpilih |\n| DHL eCommerce | | |\n| Ninja Van | | |\n| SPX Express | Semenanjung | |\n| Flash Express | | |",
+          "qas": [
+            {
+              "id": "shopee_qa_013",
+              "question": "Apakah kawasan yang boleh dihantar menggunakan Cash on Delivery (COD) di Shopee?",
+              "answers": [
+                {
+                  "text": "Untuk PosLaju, DHL eCommerce, dan Ninja Van, perkhidmatan COD tersedia di semua negeri di Semenanjung dan poskod terpilih di Sabah dan Sarawak. Untuk SPX Express dan Flash Express, perkhidmatan ini hanya tersedia di Semenanjung.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee ShopeePay",
+      "paragraphs": [
+        {
+          "context": "ShopeePay adalah dompet digital dalam Aplikasi Shopee. Gunakannya untuk membayar pembelian dalam talian dan luar talian setelah anda mengaktifkan akaun ShopeePay dan menambah baki anda.",
+          "qas": [
+            {
+              "id": "shopee_qa_014",
+              "question": "Apakah ShopeePay dan bagaimana ia berfungsi?",
+              "answers": [
+                {
+                  "text": "ShopeePay adalah dompet digital dalam Aplikasi Shopee. Gunakannya untuk membayar pembelian dalam talian dan luar talian setelah anda mengaktifkan akaun ShopeePay dan menambah baki anda.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shopee Ansuran",
+      "paragraphs": [
+        {
+          "context": "Kaedah pembayaran pelan ansuran hanya boleh dibuat dengan kad kredit Maybank / Public Bank / CIMB dengan jumlah checkout gabungan lebih daripada RM500 dengan penjual yang layak.",
+          "qas": [
+            {
+              "id": "shopee_qa_015",
+              "question": "Apakah syarat untuk membayar menggunakan pelan ansuran di Shopee?",
+              "answers": [
+                {
+                  "text": "Kaedah pembayaran pelan ansuran hanya boleh dibuat dengan kad kredit Maybank / Public Bank / CIMB dengan jumlah checkout gabungan lebih daripada RM500 dengan penjual yang layak.",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

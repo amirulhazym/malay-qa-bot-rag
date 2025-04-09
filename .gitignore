@@ -1,1 +1,32 @@
 malay-qa-model-finetuned/
+# Environments
+p3env/
+venv/
+env/
+
+# Jupyter/Python temp
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archives and Media
+*.zip
+*.png
+
+# Data/CSVs (unless managed by DVC/LFS)
+*.csv
+
+# Old App Versions (Optional but recommended)
+app_old.py
+app_v*.py
+app_v*.py
+
+# Reference Guides (Optional)
+2-Source Selection and QA Pair Creation Guide/
+Source Selection and QA Pair Creation Guide/
+
+# Other OS files
+.DS_Store
+Thumbs.db
