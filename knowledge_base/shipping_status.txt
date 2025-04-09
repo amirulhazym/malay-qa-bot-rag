@@ -1,0 +1,3 @@
+Untuk menyemak status penghantaran pesanan Shopee anda, sila pergi ke aplikasi Shopee, klik pada 'Saya', kemudian 'Pesanan Saya'. Pilih pesanan yang ingin anda semak dan anda akan melihat status terkini serta nombor penjejakan (tracking number) jika ada. Anda juga boleh menekan butang 'Lihat Butiran Penghantaran' untuk maklumat lanjut.
+
+Bagi pesanan Lazada, buka aplikasi Lazada, pergi ke 'Akaun', kemudian 'Pesanan Saya'. Cari pesanan anda dan klik padanya. Status penghantaran akan dipaparkan bersama dengan anggaran tarikh tiba dan nombor penjejakan kurier.
