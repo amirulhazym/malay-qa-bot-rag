@@ -15,7 +15,7 @@ print("--- Starting Local Re-indexing Script ---")
 # --- Configuration (Using relative paths for local execution) ---
 KB_DIR = "knowledge_base" # Assumes 'knowledge_base' is in the same dir as reindex.py
 INDEX_SAVE_PATH = "faiss_malay_ecommerce_kb_index" # Assumes save dir is in the same dir
-EMBEDDING_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+EMBEDDING_MODEL_NAME = "mesolitica/mistral-embedding-191m-8k-contrastive"
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 150
 
