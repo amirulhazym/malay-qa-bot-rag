@@ -16,8 +16,8 @@ print("--- Starting Local Re-indexing Script ---")
 KB_DIR = "knowledge_base" # Assumes 'knowledge_base' is in the same dir as reindex.py
 INDEX_SAVE_PATH = "faiss_malay_ecommerce_kb_index" # Assumes save dir is in the same dir
 EMBEDDING_MODEL_NAME = "mesolitica/mistral-embedding-191m-8k-contrastive"
-CHUNK_SIZE = 1000
-CHUNK_OVERLAP = 150
+CHUNK_SIZE = 100
+CHUNK_OVERLAP = 10
 
 # --- Step 1: Load Documents ---
 print(f"\n[1/4] Loading documents from: '{KB_DIR}'")
