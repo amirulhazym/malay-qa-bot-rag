@@ -7,6 +7,7 @@ import time
 # Use updated imports for newer LangChain versions
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from custom_embedder import MistralDirectEmbeddings # Import your new class
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
@@ -16,8 +17,8 @@ print("--- Starting Local Re-indexing Script ---")
 KB_DIR = "knowledge_base" # Assumes 'knowledge_base' is in the same dir as reindex.py
 INDEX_SAVE_PATH = "faiss_malay_ecommerce_kb_index" # Assumes save dir is in the same dir
 EMBEDDING_MODEL_NAME = "mesolitica/mistral-embedding-191m-8k-contrastive"
-CHUNK_SIZE = 520
-CHUNK_OVERLAP = 70
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 45
 
 # --- Step 1: Load Documents ---
 print(f"\n[1/4] Loading documents from: '{KB_DIR}'")
