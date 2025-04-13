@@ -1,33 +1,89 @@
-malay-qa-model-finetuned/
 # Environments
 p3env/
 venv/
 env/
 
-# Jupyter/Python temp
-.ipynb_checkpoints/
+# Python cache and compiled files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Archives and Media
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+wheels/
+*.tar.gz
+*.whl
+
+# Logs and reports
+*.log
+*.html # Ignore generated reports like profiling
+
+# IDE / OS specific
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# Output directories / Large Files (IGNORED)
+malay-qa-model-finetuned/ # Ignore large saved fine-tuned model
+models/ # Generic models folder often ignored
+# *.joblib # Ignore generic joblib files (like from P1)
+# *.pkl # Ignore generic pickle files
+.hf_cache_st/ # Ignore downloaded embedding model cache
+.cache_st/ # Ignore downloaded embedding model cache (alternative name used)
+.dvc/cache # Ignore DVC cache if DVC is used
+
+# --- Files/Folders to *KEEP* for P3 Deployment ---
+# Ensure these lines are COMMENTED OUT or DELETED:
+# faiss_malay_ecommerce_kb_index/
+# knowledge_base/
+# squad_format_qa_pairs.json # Keep the source data JSON
+# ecommerce_malay_qa.csv # Keep source data CSV (optional if JSON is primary)
+
+# --- Other Ignores ---
+# *.zip # Keep commented if you might commit small zip files
+# *.png # Keep commented if you need specific image assets in repo
+# *.jpg # Keep commented if you need specific image assets in repo
+# app_old.py # Good to ignore backups
+# app_v*.py # Good to ignore backups
+
+# Add these cache folders
+.cache_st/
+.hf_cache_st/
+.hf_cache_st_test/
+
+# Add model output
+malay-qa-model-finetuned/
+
+# Add archives and specific media/temp files if not covered by *.ext
 *.zip
 *.png
 *.jpg
-
-# Data/CSVs (unless managed by DVC/LFS)
-*.csv
-
-# Old App Versions (Optional but recommended)
+Untitled.ipynb
 app_old.py
-app_v*.py
-app_v*.py
+app_v*.py # Covers app_v2.py, app_v3.2.py etc.
+drive1.png
+ecommerce_malay_qa.csv # Ignore CSV if JSON is source
+first*.png
+hf*.png
+inspo*.png
+latest*.png
+new*.png
+revolab*.png
+streamlit*.png
+ui*.jpg
+uiux*.png
 
-# Reference Guides (Optional)
-2-Source Selection and QA Pair Creation Guide/
-Source Selection and QA Pair Creation Guide/
-
-# Other OS files
-.DS_Store
-Thumbs.db
+# Ensure these are still ignored
+p3env/
+__pycache__/
+*.pyc
+# Ensure these are NOT ignored (remove lines if present)
+# faiss_malay_ecommerce_kb_index/
+# knowledge_base/
