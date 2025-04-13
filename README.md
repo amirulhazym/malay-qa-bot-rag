@@ -1,13 +1,16 @@
 ---
-title: Malay Qa Bot Rag Demo
-emoji: 🐢
-colorFrom: green
-colorTo: green
+title: Bot Bantuan E-Dagang (Malay QA)
+emoji: 🛍️🇲🇾
+colorFrom: blue
+colorTo: indigo
 sdk: streamlit
-sdk_version: 1.44.1
-app_file: app.py
+app_file: app_v3.py
 pinned: false
-license: apache-2.0
+# Add python_version if needed, e.g.:
+# python_version: 3.11
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Malay E-commerce QA Bot (Project 3)
+
+Simple RAG demo using LangChain, FAISS, MiniLM, and MT5-Small.
+Knowledge base focuses on Lazada/Shopee policies.
