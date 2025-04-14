@@ -1,0 +1,160 @@
+Action - Source E-commerce Content (Choose ONE source initially):
+
+Identify Source: Go to a major Malaysian e-commerce platform known to have Malay language content. Good candidates:
+
+Lazada Malaysia (lazada.com.my): Check their Help Center/FAQ sections. They often have Malay versions.
+
+Shopee Malaysia (shopee.com.my): Similar to Lazada, explore their Help Centre.
+
+(Less likely but possible) A smaller local Malaysian e-commerce site focusing on specific products might have simpler FAQs.
+
+Select Content: Find a specific FAQ page or a few related product category descriptions. Look for sections covering topics like:
+
+Shipping (Penghantaran)
+
+Payment (Bayaran)
+
+Returns/Refunds (Pemulangan/Bayaran Balik)
+
+Account Management (Akaun Saya)
+
+How to Order (Cara Membuat Pesanan)
+
+Copy Text: Copy 2-3 distinct paragraphs (or FAQ entries) of relevant Malay text from your chosen source. Paste this text into separate files or one consolidated file. This will form your context passages.
+
+Example: You might copy the text explaining Lazada's standard shipping policy, another explaining Shopee's return process, etc. Keep it concise for now.
+
+Action - Create Synthetic QA Pairs (The Core Task):
+
+Objective: Based only on the text you just copied, manually create Question-Answer pairs in the SQuAD format. Aim for 10-20 high-quality pairs total for this initial MVP.
+
+Process for Each Context Paragraph:
+
+Read the Malay context paragraph carefully.
+
+Write 3-5 clear questions in Malay whose answers are explicitly and directly stated within that paragraph.
+
+For each question:
+
+Identify the exact answer text span within the context paragraph. Copy it precisely.
+
+Carefully count the starting character index (0-based) of that answer text within the context paragraph. (Spaces and punctuation count!). You can use an online character counter or a text editor's cursor position indicator.
+
+Structure the Data: Create a CSV file named ecommerce_malay_qa.csv with these columns:
+
+id (A unique ID for each QA pair, e.g., ecomm_qa_001, ecomm_qa_002)
+
+context (The full Malay text paragraph you copied)
+
+question (The Malay question you wrote)
+
+answer_text (The exact Malay answer span you copied)
+
+answer_start (The integer character index you found)
+
+(Optional but good practice) title (e.g., "Lazada Shipping FAQ", "Shopee Return Policy") - helps organize if you use multiple sources.
+
+Example Row in CSV:
+
+id,context,question,answer_text,answer_start,title
+ecomm_qa_001,"Tempoh penghantaran standard untuk Semenanjung Malaysia ialah 3-5 hari bekerja. Untuk Sabah & Sarawak, ia mungkin mengambil masa 5-7 hari bekerja.","Berapa lama tempoh penghantaran ke Sabah?",5-7 hari bekerja,111,"Lazada Shipping FAQ"
+Use code with caution.
+Csv
+(Note: answer_start = 111 is hypothetical, you need to count carefully in your actual context).
+
+Action - Load the Data (Code in Notebook):
+
+Launch Jupyter Lab (jupyter lab in PowerShell if not already running).
+
+Open your notebook (e.g., 01-FineTuning-QA.ipynb).
+
+Place your ecommerce_malay_qa.csv file in the project directory.
+
+Write/adapt the code to load this specific CSV and convert it into the Hugging Face Dataset format, ready for the SQuAD-style preprocessing function from the next step.
+
+import pandas as pd
+from datasets import Dataset, DatasetDict
+import numpy as np # Good practice to import
+
+# --- Load from CSV ---
+data_filepath = 'ecommerce_malay_qa.csv'
+print(f"Loading QA data from: {data_filepath}")
+try:
+    qa_df = pd.read_csv(data_filepath)
+    print(f"Loaded {len(qa_df)} examples.")
+
+    # --- IMPORTANT: Convert to SQuAD-like Dictionary Format ---
+    # The preprocessing function expects 'answers' as a dictionary
+    # containing 'text' (list) and 'answer_start' (list)
+    def format_answers_for_squad(row):
+        return {
+            'answers': {
+                'text': [str(row['answer_text'])], # Ensure text is string
+                'answer_start': [int(row['answer_start'])] # Ensure start is integer
+            }
+        }
+
+    # Apply this function to create the nested 'answers' structure
+    # Note: This creates a list of dictionaries, we need to add it back correctly
+    answers_list = qa_df.apply(format_answers_for_squad, axis=1).tolist()
+
+    # Create Hugging Face Dataset, adding the 'answers' column correctly
+    # First, create from the main DataFrame WITHOUT the answer text/start columns
+    # Ensure 'id', 'context', 'question' columns exist in your CSV
+    dataset_temp = Dataset.from_pandas(qa_df[['id', 'title', 'context', 'question']]) # Adjust columns based on your CSV
+
+    # Add the formatted 'answers' column
+    raw_dataset = dataset_temp.add_column("answers", answers_list)
+
+    print("\nConverted to Hugging Face Dataset format:")
+    print(raw_dataset)
+    print("\nExample formatted data structure:")
+    print(raw_dataset[0]) # Check the structure includes {'answers': {'text': [...], 'answer_start': [...]}}
+
+except FileNotFoundError:
+    print(f"ERROR: Data file {data_filepath} not found.")
+    raise
+except KeyError as e:
+    print(f"ERROR: Missing expected column in CSV: {e}. Ensure columns match code (id, title, context, question, answer_text, answer_start).")
+    raise
+except Exception as e:
+    print(f"An unexpected error occurred during data loading/formatting: {e}")
+    raise
+
+# --- Split Data (Simple split for MVP) ---
+# Use a small portion for evaluation, rest for training
+# Important: Ensure min_eval_size doesn't exceed dataset size
+total_size = len(raw_dataset)
+min_eval_size = min(5, total_size) # Use up to 5 examples for eval, or fewer if dataset is smaller
+
+if total_size <= min_eval_size: # Handle very small datasets
+     print("Warning: Dataset too small for a dedicated eval split. Using entire dataset for train/eval.")
+     train_dataset = raw_dataset
+     eval_dataset = raw_dataset
+else:
+     # A simple split: use first N for eval, rest for train
+     # eval_dataset = raw_dataset.select(range(min_eval_size))
+     # train_dataset = raw_dataset.select(range(min_eval_size, total_size))
+     # Or use train_test_split for randomness (better practice if > 10-15 samples)
+     from sklearn.model_selection import train_test_split
+     train_indices, eval_indices = train_test_split(
+         range(total_size),
+         test_size=max(0.1, min_eval_size/total_size), # Aim for ~10% or minimum eval size
+         random_state=42 # For reproducibility
+     )
+     train_dataset = raw_dataset.select(train_indices)
+     eval_dataset = raw_dataset.select(eval_indices)
+
+
+# Create the final DatasetDict
+dataset_dict = DatasetDict({'train': train_dataset, 'eval': eval_dataset})
+print("\nCreated DatasetDict with train/eval splits:")
+print(dataset_dict)
+print(f"Training examples: {len(train_dataset)}")
+print(f"Evaluation examples: {len(eval_dataset)}")
+Use code with caution.
+Python
+AI Tool Usage: Use AI Bot for help finding character indices or translating short phrases if needed for your synthetic data. Use Copilot/Assistant for Pandas/Dataset formatting code.
+
+Goal: Have your e-commerce specific Malay QA data loaded and structured correctly into a Hugging Face DatasetDict object (dataset_dict) with train and eval splits, ready for tokenization in the next step. Crucially, it must now contain the answers column formatted as a dictionary like {'text': ['answer string'], 'answer_start': [start_index]}.
+
