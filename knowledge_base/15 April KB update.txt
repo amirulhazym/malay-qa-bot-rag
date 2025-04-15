@@ -1,0 +1,3552 @@
+Pangkalan Pengetahuan E-Dagang Malaysia
+
+Genspark
+Apr 15, 2025
+Bookmark
+Share
+1. Pengenalan Platform E-Dagang
+1.1 Gambaran Keseluruhan TokoBintang
+TokoBintang adalah platform e-dagang terkemuka di Malaysia yang menghubungkan pembeli dan penjual secara dalam talian. Kami menawarkan pelbagai kategori produk termasuk elektronik, fesyen, barangan rumah, kesihatan dan kecantikan, serta banyak lagi. TokoBintang bermula pada tahun 2015 dan telah berkembang menjadi salah satu pasaran dalam talian yang paling dipercayai di rantau Asia Tenggara.
+
+1.2 Misi dan Visi
+Misi: Untuk menyediakan pengalaman membeli-belah dalam talian yang selamat, menyeronokkan dan berpatutan bagi semua pengguna di Malaysia dan seluruh Asia Tenggara.
+
+Visi: Menjadi destinasi e-dagang pilihan utama yang memperkasakan peniaga tempatan dan menawarkan nilai terbaik kepada pelanggan.
+
+1.3 Kelebihan Membeli-belah di TokoBintang
+Jaminan produk asli dengan Perlindungan Pembeli
+Pelbagai pilihan pembayaran termasuk kad kredit, perbankan internet, dan bayaran tunai
+Penghantaran pantas ke seluruh Malaysia
+Program kesetiaan dengan mata ganjaran dan baucar eksklusif
+Sokongan pelanggan 24/7
+Pelbagai promosi dan jualan sepanjang tahun
+1.4 Mengakses Platform TokoBintang
+Anda boleh mengakses TokoBintang melalui:
+
+Laman web: www.tokobintang.com.my
+Aplikasi mudah alih (tersedia di Google Play Store dan Apple App Store)
+Platform media sosial rasmi
+2. Pendaftaran dan Pengurusan Akaun
+2.1 Pendaftaran Akaun Baharu
+2.1.1 Syarat Pendaftaran
+Untuk mendaftar akaun di TokoBintang, anda perlu:
+
+Berumur 18 tahun ke atas
+Mempunyai alamat e-mel atau nombor telefon yang sah
+Menerima Terma dan Syarat serta Dasar Privasi platform
+2.1.2 Langkah-langkah Pendaftaran
+Layari www.tokobintang.com.my atau buka aplikasi TokoBintang
+Klik pada butang "Daftar"
+Masukkan nombor telefon atau alamat e-mel anda
+Masukkan kod pengesahan yang dihantar ke telefon atau e-mel anda
+Cipta kata laluan akaun anda (minimum 8 aksara dengan gabungan huruf dan nombor)
+Isi maklumat peribadi anda seperti nama penuh dan tarikh lahir
+Klik "Daftar" untuk menyelesaikan proses
+2.1.3 Pengesahan Akaun
+Selepas pendaftaran, anda digalakkan untuk mengesahkan akaun dengan:
+
+Menambah alamat penghantaran
+Memuat naik ID pengenalan untuk pengesahan identiti (diperlukan untuk ciri-ciri keselamatan tertentu)
+Menambah kaedah pembayaran
+2.2 Log Masuk dan Keselamatan Akaun
+2.2.1 Kaedah Log Masuk
+Anda boleh log masuk ke akaun TokoBintang anda dengan:
+
+E-mel dan kata laluan
+Nombor telefon dan kata laluan
+Log masuk sekali klik melalui Google atau Facebook
+Kod SMS sekali (OTP) untuk log masuk tanpa kata laluan
+2.2.2 Pengesahan Dua Faktor
+TokoBintang menawarkan pengesahan dua faktor (2FA) untuk keselamatan tambahan:
+
+Aktifkan 2FA di tetapan akaun anda
+Pilih kaedah pengesahan kedua (SMS atau aplikasi autentikasi)
+Tetapkan mengikut arahan yang diberikan
+Selepas diaktifkan, anda akan diminta kod pengesahan setiap kali log masuk
+2.2.3 Kata Laluan Terlupa
+Jika anda terlupa kata laluan:
+
+Klik pada pautan "Lupa Kata Laluan" di halaman log masuk
+Masukkan alamat e-mel atau nombor telefon berdaftar anda
+Ikuti arahan yang dihantar ke e-mel atau telefon anda
+Tetapkan kata laluan baharu (jangan gunakan semula kata laluan lama)
+2.3 Menguruskan Profil Akaun
+2.3.1 Mengemas Kini Maklumat Peribadi
+Untuk mengemas kini maklumat peribadi:
+
+Log masuk ke akaun anda
+Klik pada ikon profil di sudut kanan atas
+Pilih "Tetapan Akaun" atau "Profil Saya"
+Kemas kini maklumat yang diperlukan
+Klik "Simpan Perubahan"
+2.3.2 Menguruskan Alamat
+Anda boleh menyimpan sehingga 10 alamat penghantaran:
+
+Pergi ke "Alamat Saya" di tetapan akaun
+Klik "Tambah Alamat Baharu" untuk menambah alamat
+Isi semua maklumat yang diperlukan termasuk:
+Nama penerima
+Nombor telefon
+Alamat lengkap (termasuk poskod)
+Negeri
+Tetapkan sebagai alamat utama (pilihan)
+Untuk mengedit atau memadam, pilih alamat dan klik pada ikon yang berkaitan
+2.3.3 Menguruskan Kaedah Pembayaran
+Anda boleh menyimpan dan menguruskan kaedah pembayaran:
+
+Pergi ke "Kaedah Pembayaran" di tetapan akaun
+Lihat kaedah pembayaran yang disimpan
+Tambah kad baharu atau kaedah pembayaran lain
+Tetapkan kaedah pembayaran utama jika dikehendaki
+Padam kaedah pembayaran yang tidak digunakan
+2.4 Penutupan Akaun
+2.4.1 Syarat Penutupan Akaun
+Sebelum menutup akaun, pastikan:
+
+Semua pesanan telah diselesaikan
+Semua pertikaian atau pemulangan telah diselesaikan
+Baki TokoCoin dalam akaun telah digunakan
+Sebarang langganan telah dibatalkan
+2.4.2 Langkah-langkah Menutup Akaun
+Log masuk ke akaun anda
+Pergi ke "Tetapan Akaun" > "Keselamatan Akaun"
+Skrol ke bawah dan cari "Tutup Akaun"
+Pilih sebab untuk penutupan akaun
+Masukkan kata laluan untuk pengesahan
+Klik "Tutup Akaun Saya"
+2.4.3 Tempoh Pemulihan
+Akaun yang ditutup boleh dipulihkan dalam tempoh 30 hari dengan menghubungi khidmat pelanggan. Selepas 30 hari, semua data akan dipadam secara kekal dan akaun tidak boleh dipulihkan.
+
+3. Menjelajah dan Membeli di TokoBintang
+3.1 Antara Muka dan Navigasi
+3.1.1 Halaman Utama
+Halaman utama TokoBintang memaparkan:
+
+Banner promosi dan jualan terkini
+Kategori produk utama
+Produk disyorkan berdasarkan sejarah pelayaran anda
+Bahagian flash sale dan tawaran masa terhad
+Kedai rasmi dan jenama popular
+Koleksi produk tematik berdasarkan peristiwa semasa atau trend
+3.1.2 Menu Kategori
+Menu kategori membolehkan anda menjelajah produk mengikut:
+
+Kategori utama (Elektronik, Fesyen, Kesihatan & Kecantikan, dll.)
+Subkategori (cth. di bawah Elektronik: Telefon, Komputer, Aksesori, dll.)
+Penapis (seperti jenama, harga, penarafan, lokasi penjual)
+3.1.3 Bar Carian
+Bar carian terletak di bahagian atas setiap halaman:
+
+Masukkan kata kunci atau nama produk
+Gunakan cadangan carian automatik
+Carian suara tersedia dengan klik pada ikon mikrofon
+Sejarah carian terkini ditunjukkan di bawah bar carian
+3.1.4 Halaman Kategori
+Halaman kategori memaparkan:
+
+Pilihan subkategori
+Panel penapis di sebelah kiri untuk menyempitkan hasil
+Pilihan pengisihan (harga rendah ke tinggi, populariti, dll.)
+Paparan grid produk dengan maklumat asas
+Pilihan paparan (grid atau senarai)
+3.2 Carian dan Penapis Produk
+3.2.1 Teknik Carian Lanjutan
+Untuk hasil carian yang lebih baik:
+
+Gunakan kata kunci spesifik dan ejaan yang betul
+Gunakan nombor model untuk produk elektronik
+Gabungkan nama jenama dengan nama produk
+Cari menggunakan tag atau atribut popular
+Gunakan tanda petik untuk padanan tepat (cth. "baju kurung moden")
+3.2.2 Penapis Carian
+Penapis yang tersedia untuk menyesuaikan hasil carian:
+
+Harga (minimum hingga maksimum)
+Jenama
+Penarafan (bintang)
+Promosi (diskaun, penghantaran percuma, dll.)
+Lokasi penjual (dalam Malaysia atau antarabangsa)
+Atribut khusus kategori (saiz, warna, bahan, dll.)
+3.2.3 Menyimpan Carian dan Tetapan
+Untuk memudahkan carian berulang:
+
+Selepas menetapkan penapis, klik "Simpan Carian" (untuk pengguna log masuk)
+Namakan carian tersimpan anda
+Akses carian tersimpan melalui profil anda di bawah "Carian Tersimpan"
+Tetapkan pemberitahuan untuk produk baharu yang sepadan dengan carian anda
+3.3 Halaman Produk dan Maklumat
+3.3.1 Paparan Halaman Produk
+Halaman produk memaparkan:
+
+Imej produk (dengan zum dan galeri)
+Harga dan maklumat promosi
+Pilihan variasi (warna, saiz, dll.)
+Butiran penghantaran dan tersedia di lokasi pembeli
+Penarafan dan ulasan pembeli
+Butiran dan spesifikasi produk
+Maklumat penjual
+Produk berkaitan atau pelengkap
+3.3.2 Memahami Maklumat Produk
+Maklumat penting untuk perhatikan:
+
+Status stok: Tersedia, Stok Terhad, Habis Stok
+Harga: Harga asal, harga selepas diskaun, peratus penjimatan
+Opsyen variasi: Pastikan anda memilih variasi yang betul (saiz, warna, model)
+Jaminan dan waranti: Tempoh dan syarat jaminan/waranti
+Keaslian: Tanda "Produk Asli" atau "Dijamin Asli" untuk produk yang disahkan
+Syarat pemulangan: Boleh dipulangkan atau tidak, tempoh pemulangan
+3.3.3 Membaca Ulasan dan Penarafan
+Panduan untuk mentafsir ulasan:
+
+Perhatikan penarafan keseluruhan dan bilangan ulasan
+Baca ulasan dengan foto produk sebenar
+Lihat komen mengenai mutu produk, ketepatan deskripsi, dan perkhidmatan penjual
+Perhatikan tarikh ulasan untuk memastikan keterkiniannya
+Semak jawapan penjual kepada ulasan negatif
+Gunakan penapis ulasan untuk mencari ulasan dengan kata kunci tertentu
+3.4 Menambah ke Troli dan Senarai Keinginan
+3.4.1 Menambah Produk ke Troli
+Untuk menambah produk ke troli:
+
+Pilih semua variasi yang diperlukan (saiz, warna, dll.)
+Tetapkan kuantiti yang dikehendaki
+Klik butang "Tambah ke Troli"
+Produk akan ditambah ke troli anda
+Notifikasi akan muncul mengesahkan penambahan
+3.4.2 Menguruskan Troli Belian
+Untuk menguruskan troli:
+
+Klik ikon troli di bahagian atas halaman
+Semak semua item dalam troli
+Ubah kuantiti menggunakan butang + atau -
+Padam item dengan mengklik ikon sampah
+Untuk setiap item, anda boleh:
+Simpan untuk kemudian (pindah ke senarai keinginan)
+Semak status ketersediaan
+Lihat jumlah kos termasuk penghantaran
+3.4.3 Menggunakan Senarai Keinginan
+Senarai keinginan membolehkan anda menyimpan produk untuk dibeli kemudian:
+
+Di halaman produk, klik ikon hati untuk menambah ke senarai keinginan
+Anda boleh melihat senarai keinginan di profil anda
+Produk dalam senarai keinginan dengan penurunan harga akan ditandakan
+Anda boleh mencipta beberapa senarai keinginan dan menamakan mereka
+Untuk memindahkan dari senarai keinginan ke troli, klik "Tambah ke Troli"
+4. Proses Pesanan dan Pembayaran
+4.1 Proses Checkout
+4.1.1 Langkah-langkah Checkout
+Proses checkout di TokoBintang terdiri daripada langkah-langkah berikut:
+
+Semakan Troli: Semak semula semua item dalam troli anda
+Alamat Penghantaran: Pilih atau tambah alamat penghantaran
+Opsyen Penghantaran: Pilih kaedah penghantaran untuk setiap penjual
+Kaedah Pembayaran: Pilih cara anda mahu membayar
+Semakan Akhir: Semak jumlah keseluruhan, termasuk:
+Harga produk
+Kos penghantaran
+Diskaun baucar (jika digunakan)
+Cukai (jika berkenaan)
+Jumlah akhir
+Pengesahan: Klik "Tempah Sekarang" untuk mengesahkan pesanan
+4.1.2 Tambahan Semasa Checkout
+Opsyen tambahan semasa proses checkout:
+
+Pesan Nota: Tambah arahan khas untuk penjual
+Penetapan Masa Penghantaran: Untuk beberapa penjual, anda boleh memilih slot masa penghantaran
+Penghantaran Hadiah: Pilih bungkusan hadiah dan tambah kad peribadi
+Insurans Penghantaran: Tambah perlindungan untuk item berharga
+Derma Amal: Opsyen untuk menderma jumlah kecil ke badan amal rakan kongsi
+4.1.3 Penggunaan Kod Baucar dan Promosi
+Cara menggunakan baucar semasa checkout:
+
+Di halaman semakan troli, klik "Gunakan Baucar/Kod Promosi"
+Masukkan kod baucar atau pilih dari baucar yang tersedia
+Klik "Gunakan" untuk menggunakan baucar
+Diskaun akan ditunjukkan dalam ringkasan pesanan
+Beberapa baucar mungkin mempunyai syarat minimum pembelian atau produk tertentu
+Baucar yang tidak dapat digunakan akan ditunjukkan sebagai "Tidak Sah" dengan penjelasan
+4.2 Kaedah Pembayaran
+4.2.1 Pilihan Kaedah Pembayaran
+TokoBintang menerima pelbagai kaedah pembayaran:
+
+Pembayaran Dalam Talian:
+
+Kad Kredit/Debit (Visa, Mastercard, American Express)
+Perbankan Internet (FPX)
+E-Wallet (Touch 'n Go eWallet, GrabPay, Boost, MAE)
+TokoBintang Pay (dompet dalam platform)
+PayPal (untuk transaksi antarabangsa)
+Pembayaran Luar Talian:
+
+Bayar di Kedai (7-Eleven, 99 Speedmart, KK Mart)
+Bayar Semasa Penghantaran (COD) - tertakluk kepada kelayakan
+4.2.2 Keselamatan Pembayaran
+Langkah-langkah keselamatan untuk transaksi:
+
+Semua transaksi pembayaran dienkripsi dengan teknologi SSL 256-bit
+Pengesahan 3D Secure untuk semua transaksi kad
+Sistem pengesanan penipuan untuk mengesan corak pembayaran mencurigakan
+Kad yang disimpan hanya menyimpan token, bukan maklumat kad sebenar
+Pengesahan biometrik (jika disokong oleh peranti) untuk pembayaran dalam aplikasi
+4.2.3 TokoBintang Pay (Dompet)
+Mengenai dompet dalam platform:
+
+Pengisian Semula: Melalui kad, perbankan atau eWallet lain
+Penggunaan: Pembayaran segera tanpa perlu memasukkan butiran berulang kali
+Keselamatan: Dilindungi dengan PIN khas atau biometrik
+Kelebihan: Sering menerima tawaran dan diskaun eksklusif
+Pengeluaran: Dana boleh dikeluarkan ke akaun bank yang disahkan (dalam masa 1-3 hari)
+4.2.4 Pembayaran Ansuran
+Pilihan pembayaran ansuran:
+
+Tersedia untuk pembelian melebihi RM500 dengan kad kredit tertentu
+Pelan 0% faedah tersedia dari 3 hingga 12 bulan
+Bank yang menyertai: Maybank, CIMB, Hong Leong Bank, AmBank
+Bayaran pemprosesan mungkin dikenakan oleh bank
+4.3 Status dan Pengesanan Pesanan
+4.3.1 Memahami Status Pesanan
+Status yang mungkin untuk pesanan anda:
+
+Menunggu Pembayaran: Pesanan dibuat tetapi pembayaran belum diselesaikan
+Pembayaran Diterima: Pembayaran telah disahkan, menunggu pemprosesan penjual
+Sedang Diproses: Penjual sedang menyiapkan pesanan anda
+Dihantar: Pesanan telah diserahkan kepada kurier
+Dalam Penghantaran: Pesanan sedang dalam perjalanan ke alamat anda
+Selesai: Pesanan telah diterima dan selesai
+Dibatalkan: Pesanan telah dibatalkan oleh pembeli atau penjual
+Dipulangkan: Produk sedang dalam proses pemulangan
+4.3.2 Mengesan Pesanan
+Untuk mengesan status pesanan anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya" di profil anda
+Pilih pesanan yang ingin dikesan
+Klik pada "Kesan" untuk melihat status terkini
+Anda juga boleh melihat sejarah pengesanan lengkap dengan cap masa
+Untuk pesanan dengan berbilang item dari penjual berbeza, setiap pakej akan mempunyai pengesanan berasingan
+4.3.3 Pemberitahuan Status
+Anda akan menerima pemberitahuan mengenai perubahan status pesanan melalui:
+
+Notifikasi dalam aplikasi
+E-mel ke alamat e-mel berdaftar
+SMS (untuk perubahan status utama sahaja)
+Notifikasi push pada peranti mudah alih (jika dibenarkan)
+Tetapkan keutamaan pemberitahuan anda di "Tetapan > Pemberitahuan" dalam profil anda.
+
+4.4 Pembatalan Pesanan
+4.4.1 Polisi Pembatalan
+Polisi pembatalan TokoBintang:
+
+Pesanan boleh dibatalkan sebelum penjual menandakan pesanan sebagai "Sedang Diproses"
+Setelah pesanan diproses, pembatalan tertakluk kepada persetujuan penjual
+Beberapa kategori produk (seperti makanan segar, item peribadi) tidak boleh dibatalkan selepas penempahan
+Pembatalan berulang tanpa sebab sah boleh mengakibatkan sekatan ke atas kemudahan pembatalan
+4.4.2 Cara Membatalkan Pesanan
+Untuk membatalkan pesanan:
+
+Pergi ke "Pesanan Saya" di profil anda
+Pilih pesanan yang ingin dibatalkan
+Klik pada butang "Batalkan Pesanan"
+Pilih sebab pembatalan daripada senarai (contoh: tertib sebagai kesilapan, mendapat harga lebih baik, mengubah fikiran)
+Sahkan pembatalan
+Pembatalan akan diproses dan anda akan menerima pengesahan
+4.4.3 Bayaran Balik Selepas Pembatalan
+Proses bayaran balik:
+
+Kad Kredit/Debit: 7-14 hari bekerja
+Perbankan Internet: 5-10 hari bekerja
+E-Wallet: 3-7 hari bekerja
+TokoBintang Pay: 1-3 hari bekerja
+Kaedah Pembayaran Luar Talian: Dalam bentuk kredit TokoBintang atau bayaran balik ke akaun bank (tambahan 2-3 hari bekerja)
+Anda boleh memeriksa status bayaran balik di "Pesanan Saya > Bayaran Balik".
+
+5. Penghantaran dan Penerimaan
+5.1 Pilihan Penghantaran
+5.1.1 Jenis Penghantaran
+TokoBintang menawarkan berbagai kaedah penghantaran:
+
+Standard:
+
+Penghantaran ekonomi dalam 3-5 hari bekerja
+Pilihan termurah untuk kebanyakan lokasi
+Disediakan oleh J&T Express, Pos Laju, Ninja Van
+Express:
+
+Penghantaran dalam 1-2 hari bekerja
+Tersedia untuk kawasan bandar utama
+Kos lebih tinggi berbanding penghantaran standard
+Penghantaran Sama Hari:
+
+Pesanan diterima pada hari yang sama
+Tersedia di Kuala Lumpur, Selangor, Pulau Pinang, dan Johor Bahru
+Pesanan mesti dibuat sebelum 12 tengah hari
+Kapasiti terhad dan tertakluk kepada ketersediaan
+Pengambilan Sendiri:
+
+Ambil sendiri di lokasi yang ditetapkan
+Tiada kos penghantaran
+Tersedia di kedai rakan kongsi dan penjual terpilih
+Ambil dalam tempoh 7 hari atau pesanan akan dipulangkan
+5.1.2 Kos Penghantaran
+Faktor yang mempengaruhi kos penghantaran:
+
+Lokasi (Semenanjung/Sabah/Sarawak)
+Berat dan dimensi pakej
+Kaedah penghantaran yang dipilih
+Promosi penghantaran percuma (biasanya untuk pembelian melebihi jumlah tertentu)
+Kadar biasa (tertakluk kepada perubahan):
+
+Penghantaran Standard (Semenanjung): RM5-RM15
+Penghantaran Standard (Sabah/Sarawak): RM10-RM30
+Penghantaran Express: Tambahan RM5-RM15 dari kadar standard
+Penghantaran Sama Hari: RM15-RM25
+5.1.3 Jangkaan Masa Penghantaran
+Jangkaan masa berdasarkan lokasi:
+
+Semenanjung Malaysia:
+
+Bandar utama: 2-3 hari bekerja
+Kawasan luar bandar: 3-5 hari bekerja
+Express: 1-2 hari bekerja
+Sabah & Sarawak:
+
+Bandar utama: 4-7 hari bekerja
+Kawasan luar bandar: 7-14 hari bekerja
+Express: 2-4 hari bekerja
+Faktor yang boleh mempengaruhi masa:
+
+Kesesakan pada musim perayaan
+Bencana alam atau gangguan perkhidmatan
+Ketersediaan stok (untuk produk pra-tempahan)
+Pemeriksaan kastam (untuk produk antarabangsa)
+5.2 Penjejakan dan Pengesanan
+5.2.1 Sistem Penjejakan
+TokoBintang menyediakan penjejakan komprehensif:
+
+Semua bungkusan mempunyai nombor penjejakan unik
+Penjejakan masa nyata oleh penghantar rakan kongsi
+Kemaskini lokasi dengan cap masa
+Notifikasi untuk perubahan status utama
+Anggaran masa ketibaan (ETA)
+5.2.2 Cara Mengesan Pesanan
+Untuk mengesan pesanan anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Pilih pesanan yang ingin dikesan
+Klik pada butang "Jejak"
+Lihat status terkini dan sejarah pergerakan pakej
+Anda juga boleh mengesan secara langsung di laman web kurier dengan:
+
+Menyalin nombor penjejakan dari halaman pesanan
+Melawat laman web kurier yang berkenaan
+Memasukkan nombor penjejakan di alat pengesanan mereka
+5.2.3 Notifikasi Penghantaran
+TokoBintang menyediakan pemberitahuan untuk:
+
+Pesanan sedang diproses
+Pakej dalam perjalanan
+Penghantaran dijadualkan untuk hari ini
+Kurier dalam perjalanan (anggaran masa ketibaan)
+Percubaan penghantaran tidak berjaya
+Penghantaran berjaya
+Pilihan pemberitahuan boleh dikonfigurasi di tetapan akaun anda.
+
+5.3 Penerimaan Pesanan
+5.3.1 Pemeriksaan Pakej
+Apabila menerima pesanan anda:
+
+Periksa keadaan luaran pakej untuk kerosakan
+Jika pakej rosak, ambil gambar sebelum membukanya
+Buka pakej dengan berhati-hati untuk mengekalkan pembungkusan
+Periksa jika semua item diterima dengan betul
+Periksa setiap item untuk kerosakan atau kecacatan
+Pastikan item yang diterima sepadan dengan yang dipesan (saiz, warna, model)
+5.3.2 Pengesahan Penerimaan
+TokoBintang memerlukan pengesahan penerimaan:
+
+Dalam aplikasi, tetapkan status pesanan ke "Diterima" selepas menerima
+Status akan bertukar secara automatik ke "Diterima" selepas 7 hari jika tiada tindakan
+Pesanan COD memerlukan bayaran semasa penerimaan (sediakan jumlah yang tepat atau melalui kaedah pembayaran elektronik jika disokong oleh kurier)
+5.3.3 Isu Penerimaan Pesanan
+Masalah biasa dan cara penyelesaiannya:
+
+Kurier tidak dapat menghubungi anda: Pastikan nombor telefon anda dikemas kini dan telefon bimbit anda boleh dihubungi
+Tiada orang di rumah: Tetapkan arahan alternatif di bahagian nota pesanan (jiran, pengawal keselamatan)
+Pakej salah atau tidak lengkap: Hubungi khidmat pelanggan segera dengan bukti foto
+Pakej rosak: Ambil gambar dan failkan laporan kerosakan semasa penghantaran dalam masa 24 jam
+Penghantaran ke alamat salah: Semak butiran alamat dalam pesanan dan hubungi khidmat pelanggan
+5.4 Penjejakan Pelbagai Pesanan
+5.4.1 Panel Pengurusan Pesanan
+Untuk pesanan dengan pelbagai penjual:
+
+Setiap pakej akan dihantar secara berasingan
+Panel "Pesanan Saya" menunjukkan semua pesanan tertunggak
+Setiap pesanan akan mempunyai nombor pesanan unik
+Sistem penapis membolehkan anda melihat pesanan mengikut status
+5.4.2 Penghantaran Separa
+Dalam sesetengah kes:
+
+Sebahagian pesanan anda mungkin dihantar lebih awal
+Pesanan dari penjual yang sama mungkin dibahagikan jika stok datang pada masa berbeza
+Anda akan menerima pemberitahuan untuk setiap penghantaran separa
+Setiap bahagian yang dihantar akan mempunyai nombor penjejakan tersendiri
+5.4.3 Menggabungkan Penghantaran
+Untuk mengurangkan kos penghantaran:
+
+TokoBintang menawarkan opsyen "Gabungkan Penghantaran" untuk beberapa penjual terpilih
+Opsyen ini membolehkan item dari pelbagai penjual di lokasi yang sama digabungkan dalam satu bungkusan
+Menjimatkan kos penghantaran dan mengurangkan jejak karbon
+Dikenakan sedikit bayaran perkhidmatan tetapi lebih murah daripada penghantaran berasingan
+Pilih opsyen ini semasa checkout jika tersedia
+6. Pemulangan dan Bayaran Balik
+6.1 Polisi Pemulangan
+6.1.1 Tempoh Pemulangan Standard
+Polisi pemulangan umum TokoBintang:
+
+Tempoh pemulangan standard: 7 hari dari tarikh penerimaan
+TokoMall Official (kedai rasmi): 14 hari dari tarikh penerimaan
+Produk Antarabangsa: 10 hari dari tarikh penerimaan
+Produk Digital: Tiada pemulangan selepas dimuat turun atau diaktifkan
+Baucar dan Kad Hadiah: Tidak boleh dipulangkan melainkan jika tidak sah
+6.1.2 Kelayakan Pemulangan
+Item layak untuk pemulangan jika:
+
+Dalam tempoh pemulangan yang dibenarkan
+Dalam keadaan asal dan belum digunakan
+Dengan tag dan pembungkusan asal
+Dilengkapi dengan semua aksesori dan hadiah percuma
+Mempunyai resit atau bukti pembelian
+Item TIDAK layak untuk pemulangan jika:
+
+Dipulangkan melebihi tempoh pemulangan
+Dipakai, digunakan atau rosak (kecuali kecacatan kilang)
+Pembungkusan asal hilang atau rosak
+Produk ditandakan sebagai "Tidak Boleh Dipulangkan" dalam deskripsi produk
+Produk peribadi (pakaian dalam, kosmetik yang dibuka, telinga fon in-ear yang dibuka)
+Makanan dan barang mudah rosak
+Perisian dan kandungan digital yang telah diaktifkan
+6.1.3 Sebab Pemulangan yang Diterima
+TokoBintang menerima pemulangan untuk sebab berikut:
+
+Produk rosak atau tidak berfungsi (bukti diperlukan)
+Produk tidak sepadan dengan deskripsi di laman web
+Produk salah dihantar (berbeza dari pesanan)
+Produk tidak asli (untuk produk yang dijamin asli)
+Produk sampai dalam keadaan rosak akibat penghantaran
+Produk tidak sesuai (untuk barangan fesyen, saiz salah)
+6.1.4 Polisi Pemulangan Khas
+Beberapa kategori produk mempunyai polisi pemulangan khusus:
+
+Barangan elektronik: Mesti dalam keadaan asal dengan semua aksesori dan dalam kotak yang tidak rosak
+Telefon bimbit: Mesti belum diaktifkan dan pelindung skrin belum dibuang
+Perkakas besar: Mesti tidak dipasang atau jika dipasang, tidak digunakan
+Barangan musim: Tempoh pemulangan mungkin lebih pendek (3-5 hari)
+Item jualan: Mungkin tiada pemulangan kecuali rosak atau tidak sepadan dengan deskripsi
+6.2 Proses Pemulangan
+6.2.1 Memulakan Pemulangan
+Untuk memulakan pemulangan:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Pilih pesanan yang ingin dipulangkan
+Klik pada "Pemulangan/Bayaran Balik"
+Pilih item yang ingin dipulangkan (jika pesanan berbilang item)
+Pilih sebab pemulangan dari senarai
+Muat naik foto bukti jika berkenaan (cth: item rosak)
+Pilih jenis penyelesaian yang dikehendaki (bayaran balik atau penukaran)
+Klik "Hantar Permintaan"
+6.2.2 Kaedah Pemulangan
+TokoBintang menawarkan dua kaedah pemulangan:
+
+Penghantaran Pulang:
+
+Cara paling biasa untuk pemulangan
+Cetak label pemulangan dari portal TokoBintang
+Pek semula item dengan selamat dalam pembungkusan yang sesuai
+Tampal label pada bungkusan
+Hantar ke cawangan kurier terdekat ATAU
+Jadualkan pengambilan dari rumah (bayaran tambahan mungkin dikenakan)
+Jatuhkan di Pusat Pemulangan:
+
+Tersedia di lokasi terpilih di bandar-bandar utama
+Tiada perlu mencetak label
+Bawa item dan kod QR pemulangan
+Petugas akan memeriksa dan menerima pemulangan
+Bukti penerimaan segera
+6.2.3 Kos Pemulangan
+Siapa yang menanggung kos pemulangan:
+
+Produk rosak/salah/tidak sepadan dengan deskripsi: Kos ditanggung oleh penjual
+Tidak suka/salah saiz/ubah fikiran: Kos ditanggung oleh pembeli
+Kedai TokoMall: Sebilangan besar menawarkan pemulangan percuma tanpa mengira sebab
+Produk antarabangsa: Kos pemulangan lebih tinggi, sila semak polisi khusus penjual
+Kos biasa: RM5-RM15 untuk Semenanjung, RM10-RM30 untuk Sabah & Sarawak
+
+6.2.4 Pengesanan Pemulangan
+Pemulangan boleh dikesan seperti penghantaran biasa:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya > Pemulangan"
+Pilih pemulangan yang ingin dikesan
+Klik pada "Kesan" untuk melihat status terkini
+Status pemulangan biasa termasuk:
+Menunggu Drop-off
+Dikutip oleh Kurier
+Dalam Transit
+Diterima oleh Penjual
+Disahkan oleh Penjual
+Pemulangan Selesai
+6.3 Bayaran Balik
+6.3.1 Kaedah Bayaran Balik
+Bayaran balik diproses mengikut kaedah pembayaran asal:
+
+Kad Kredit/Debit: Bayaran balik ke kad yang sama
+Perbankan Internet: Bayaran balik ke akaun bank yang sama
+E-Wallet: Bayaran balik ke akaun e-wallet yang sama
+TokoBintang Pay: Bayaran balik ke baki TokoBintang Pay
+Bayar di Kedai/COD: Bayaran balik ke TokoBintang Pay atau ke akaun bank pilihan (perlu mendaftar)
+6.3.2 Masa Pemprosesan Bayaran Balik
+Jangka masa pemprosesan bayaran balik:
+
+Pengesahan penjual: 2-3 hari selepas menerima item pemulangan
+Pemprosesan TokoBintang: 1-2 hari selepas pengesahan penjual
+Masa pemprosesan institusi kewangan:
+Kad Kredit/Debit: 7-14 hari bekerja
+Perbankan Internet: 5-10 hari bekerja
+E-Wallet: 3-7 hari bekerja
+TokoBintang Pay: 1-3 hari bekerja
+Total masa bayaran balik boleh mengambil 10-21 hari bergantung kepada kaedah pembayaran.
+
+6.3.3 Status Bayaran Balik
+Semak status bayaran balik anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya > Bayaran Balik"
+Lihat semua permintaan bayaran balik dan statusnya
+Status bayaran balik termasuk:
+Permintaan Diterima
+Pemulangan Dalam Transit
+Pemulangan Disahkan
+Bayaran Balik Diproses
+Bayaran Balik Selesai
+Bayaran Balik Ditolak (dengan sebab)
+6.3.4 Bayaran Balik Separa
+Kes-kes bayaran balik separa:
+
+Hanya sebahagian item dalam pesanan dipulangkan
+Sebahagian item tidak layak untuk pemulangan
+Pengembalian kredit penghantaran (berdasarkan polisi penjual)
+Diskaun baucar tetap dikekalkan melainkan nilai pesanan selepas pemulangan tidak memenuhi syarat minimum
+Pengiraan:
+
+Harga item + Penghantaran berkaitan (jika berkenaan) - Diskaun berkaitan
+6.4 Penukaran Produk
+6.4.1 Polisi Penukaran
+Syarat untuk penukaran produk:
+
+Mesti dalam tempoh pemulangan yang dibenarkan
+Produk dalam keadaan asal dan belum digunakan
+Penukaran biasanya hanya untuk saiz/warna/variasi berbeza dari produk yang sama
+Penukaran dengan produk berbeza biasanya tidak dibenarkan (perlu dipulangkan dan membeli semula)
+Penjual mesti menawarkan perkhidmatan penukaran
+6.4.2 Proses Penukaran
+Untuk meminta penukaran:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Pilih pesanan yang ingin ditukar
+Klik pada "Pemulangan/Bayaran Balik"
+Pilih item untuk ditukar
+Pilih "Tukar" sebagai pilihan penyelesaian
+Nyatakan variasi yang diinginkan (saiz/warna)
+Hantar permintaan dan tunggu pengesahan penjual
+Setelah disahkan, pulangkan item mengikut arahan
+Item pengganti akan dihantar setelah item asal diterima oleh penjual
+6.4.3 Kos Penukaran
+Kos terlibat dalam proses penukaran:
+
+Penukaran disebabkan kecacatan produk/ralat penjual: Tiada kos
+Penukaran disebabkan pilihan pembeli (salah saiz/warna): Pembeli menanggung kos pemulangan dan penghantaran item baharu
+Perbezaan harga: Jika item pengganti lebih mahal, perbezaan perlu dibayar. Jika lebih murah, perbezaan akan dikembalikan
+7. Program Kesetiaan dan Ganjaran
+7.1 TokoBintang Rewards
+7.1.1 Cara Kerja Program
+TokoBintang Rewards adalah program kesetiaan percuma:
+
+Secara automatik tersedia untuk semua pengguna berdaftar
+Memperoleh mata dalam pelbagai aktiviti di platform
+Mata boleh ditukar dengan baucar dan diskaun
+Tahap keahlian berdasarkan aktiviti dan perbelanjaan
+7.1.2 Perolehan Mata
+Kaedah memperoleh mata TokoBintang:
+
+Pembelian: 1 mata untuk setiap RM1 dibelanjakan
+Ulasan: 5-20 mata untuk setiap ulasan produk dengan foto
+Masuk Harian: 2 mata untuk log masuk harian
+Perkongsian Sosial: 5 mata untuk berkongsi pembelian di media sosial
+Promosi Mata Berganda: Semasa acara khas dan promosi
+Mata sah selama 12 bulan dari tarikh perolehan.
+
+7.1.3 Penebusan Mata
+Cara menebus mata anda:
+
+Log masuk ke aplikasi atau laman web TokoBintang
+Pergi ke "TokoBintang Rewards" dalam profil anda
+Klik pada "Katalog Penebusan"
+Pilih ganjaran yang dikehendaki:
+Baucar platform (RM5, RM10, RM15, RM30)
+Diskaun khusus kategori
+Baucar penghantaran percuma
+Tawaran eksklusif rakan kongsi
+Klik "Tebus" dan ikuti arahan
+Contoh nilai penebusan:
+
+500 mata = Baucar RM5
+900 mata = Baucar RM10
+1,300 mata = Baucar penghantaran percuma
+7.1.4 Tahap Keahlian
+Hierarki program kesetiaan:
+
+Classic: Tahap permulaan (0-1,499 mata terkumpul)
+Silver: Perbelanjaan menengah (1,500-4,999 mata terkumpul)
+Gold: Pelanggan kerap (5,000-9,999 mata terkumpul)
+Platinum: Pelanggan VIP (10,000+ mata terkumpul)
+Faedah mengikut tahap:
+
+Classic: Kadar mata standard
+Silver: +5% kadar mata, baucar ulang tahun RM10
+Gold: +10% kadar mata, baucar ulang tahun RM20, akses awal ke jualan
+Platinum: +15% kadar mata, baucar ulang tahun RM50, penghantaran percuma bulanan, perkhidmatan pelanggan VIP
+7.2 TokoCoins
+7.2.1 Perbezaan Mata dan TokoCoins
+Perbezaan utama:
+
+Mata: Program kesetiaan jangka panjang, terkumpul dari pelbagai aktiviti
+TokoCoins: Mata wang dalam platform, biasanya diberikan dalam promosi, permainan, dan aktiviti khusus
+Penggunaan: TokoCoins boleh digunakan semasa checkout seperti wang tunai (1 TokoCoin = RM0.01)
+Tempoh sah: TokoCoins biasanya mempunyai tempoh sah lebih pendek (30-90 hari)
+7.2.2 Memperoleh TokoCoins
+Cara mendapatkan TokoCoins:
+
+Menyertai permainan harian dalam aplikasi
+Menyelesaikan cabaran platform (senarai semak aktiviti)
+Promosi khusus (seperti Shake & Win)
+Sebagai pampasan untuk isu perkhidmatan
+Program rujukan ("Refer-a-Friend")
+Hadiah pendaftaran baharu
+Dari kedai yang terlibat dalam promosi TokoCoins
+7.2.3 Menggunakan TokoCoins
+Cara menggunakan TokoCoins:
+
+Tambah produk ke troli anda
+Semasa checkout, di halaman pembayaran
+Klik pada "Gunakan TokoCoins"
+Pilih jumlah yang ingin digunakan (minimum 100 TokoCoins)
+Diskaun akan ditunjukkan dalam jumlah akhir
+Peraturan penggunaan:
+
+Minimum 100 TokoCoins untuk penebusan
+Maksimum 1,000 TokoCoins setiap transaksi
+Boleh digunakan bersama baucar platform
+Tidak boleh digabungkan dengan baucar penjual
+Tidak boleh ditukar kepada wang tunai
+7.3 Baucar dan Promosi
+7.3.1 Jenis Baucar
+TokoBintang menawarkan pelbagai jenis baucar:
+
+Baucar Platform: Dikeluarkan oleh TokoBintang, boleh digunakan di mana-mana kedai
+Baucar Penjual: Dikeluarkan oleh penjual tertentu, hanya boleh digunakan di kedai mereka
+Baucar Kategori: Hanya boleh digunakan untuk kategori produk tertentu
+Baucar Penghantaran: Diskaun atau penghantaran percuma
+Baucar Pembayaran: Diskaun tambahan untuk kaedah pembayaran tertentu
+Baucar Pengguna Baharu: Eksklusif untuk pengguna baharu (akaun < 30 hari)
+7.3.2 Mendapatkan Baucar
+Cara mendapatkan baucar:
+
+Pusat Baucar: Klik pada "Baucar" dalam aplikasi/laman web
+Tuntutan Harian: Baucar yang boleh dituntut setiap hari
+Menebus Mata: Tukar mata kesetiaan dengan baucar
+Flash Deals: Baucar nilai tinggi dengan kuantiti terhad
+Program Rujukan: Kongsi kod rujukan dengan rakan
+Pendaftaran: Baucar selamat datang untuk akaun baharu
+Hari Ulang Tahun: Baucar khas pada hari ulang tahun anda
+7.3.3 Syarat Penggunaan Baucar
+Peraturan umum untuk baucar:
+
+Setiap baucar mempunyai tarikh luput
+Kebanyakan baucar memerlukan minimum jumlah pembelian
+Sesetengah baucar tidak boleh digabungkan dengan baucar lain
+Baucar mungkin dikecualikan untuk produk/kategori tertentu
+Baucar platform dan baucar penjual biasanya tidak boleh digabungkan
+Baucar hanya boleh digunakan sekali sahaja
+Baucar yang tidak digunakan tidak boleh digunakan selepas tamat tempoh
+7.3.4 Menguruskan Baucar
+Untuk menguruskan baucar anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Baucar Saya" di bawah profil
+Lihat semua baucar tersedia, baucar yang digunakan, dan baucar tamat tempoh
+Semak syarat penggunaan dan tarikh luput
+Gunakan penapis untuk melihat jenis baucar tertentu
+Tetapkan peringatan untuk baucar yang hampir tamat tempoh
+7.4 Promosi dan Acara Khas
+7.4.1 Jualan Bermusim
+TokoBintang mengadakan jualan bermusim sepanjang tahun:
+
+11.11 (Singles' Day): 11 November, jualan terbesar tahun ini
+12.12: 12 Disember, jualan akhir tahun
+CNY Mega Sale: Jualan sempena Tahun Baharu Cina (Jan/Feb)
+Raya Sale: Jualan Ramadan dan Aidilfitri (Mac/April)
+Merdeka Sale: Jualan Hari Kebangsaan (Ogos)
+9.9: 9 September, jualan pertengahan tahun
+10.10: 10 Oktober, jualan persediaan akhir tahun
+Black Friday & Cyber Monday: Jualan November akhir
+7.4.2 Promosi Harian dan Mingguan
+Promosi berterusan sepanjang tahun:
+
+Flash Sale: Diskaun dalam tempoh masa terhad (beberapa jam sahaja)
+Deals of the Day: Tawaran istimewa yang berubah setiap hari
+Brand Takeover: Promosi jenama tunggal dengan diskaun besar
+Weekend Specials: Promosi khas untuk hujung minggu
+Payday Deals: Promosi pada minggu akhir bulan
+Shocking Sales: Diskaun mendalam pada waktu tertentu
+7.4.3 Program Rujukan
+Kongsikan TokoBintang, dapatkan ganjaran:
+
+Cara Kerja: Kongsi kod rujukan unik anda dengan rakan
+Ganjaran Perujuk: Terima 500 TokoCoins untuk setiap rujukan berjaya
+Ganjaran Dirujuk: Rakan baharu mendapat baucar RM15 (minimum pembelian RM50)
+Pengaktifan: Rakan perlu mendaftar akaun baharu dan membuat pembelian pertama
+Had: Maksimum 20 rujukan berjaya sebulan
+7.4.4 Tawaran Eksklusif Aplikasi
+Promosi khas hanya tersedia di aplikasi mudah alih:
+
+Daftar Masuk Harian: Ganjaran untuk log masuk berturut-turut
+Game Zone: Permainan interaktif dengan hadiah TokoCoins
+Shake & Win: Goncang telefon untuk hadiah rawak
+Scratch Cards: Kad gores digital untuk mendapatkan baucar
+App-Only Flash Deals: Tawaran kilat eksklusif aplikasi
+Push Notifications: Promosi peribadi berdasarkan gelagat membeli-belah anda
+8. Polisi Pengurusan Kualiti dan Perlindungan Pembeli
+8.1 Jaminan Keaslian
+8.1.1 Program Pengesahan Produk
+TokoBintang komited terhadap keaslian produk:
+
+TokoBintang Authenticity Guarantee: Program saringan untuk produk berjenama
+Kedai Rasmi: Kerjasama langsung dengan jenama untuk menjamin keaslian
+Logo Jaminan: Produk yang disahkan ditanda dengan "100% Authentic Guaranteed"
+Pemeriksaan Rawak: Audit produk penjual secara berkala
+8.1.2 Kategori Dilindungi
+Kategori dengan perlindungan keaslian tertinggi:
+
+Fesyen Mewah: Beg tangan, pakaian, kasut berjenama mewah
+Jam Tangan: Jenama premium dan mewah
+Kosmetik: Jenama antarabangsa dan tempatan popular
+Elektronik: Telefon pintar, komputer riba, dan gadget
+Barangan Bayi: Formula bayi, kerusi kereta, dan produk penjagaan
+Supplement Kesihatan: Vitamin dan supplement berjenama
+8.1.3 Proses Pengesahan
+Bagaimana TokoBintang mengesahkan produk:
+
+Pemeriksaan Dokumen: Penjual perlu mengemukakan bukti sumber dan invois dari pengedar sah
+Pemeriksaan Fizikal: Sampel produk diperiksa untuk ciri-ciri keaslian
+Teknologi Pengesahan: Kod QR, hologram, dan ciri keselamatan lain
+Pengesahan Jenama: Kerjasama dengan jenama untuk pengesahan
+Maklum Balas Pengguna: Laporan dan ulasan pengguna mengenai isu keaslian
+8.1.4 Melaporkan Produk Palsu
+Jika anda mengesyaki produk palsu:
+
+Kenal pasti ciri-ciri yang mencurigakan
+Ambil gambar terperinci
+Log masuk ke akaun TokoBintang anda
+Pergi ke pesanan berkenaan
+Pilih "Laporkan Isu" atau "Hubungi Sokongan"
+Pilih "Isu Keaslian" dari menu jenis masalah
+Muat naik gambar dan berikan penerangan
+Pasukan TokoBintang akan menyiasat dan bertindak dalam masa 48 jam
+8.2 Polisi Privasi dan Keselamatan
+8.2.1 Pengumpulan Data
+Maklumat yang dikumpulkan TokoBintang:
+
+Maklumat Peribadi: Nama, alamat e-mel, nombor telefon, alamat
+Maklumat Pembayaran: Butiran kad (disimpan secara selamat oleh pemproses pembayaran)
+Data Gelagat: Sejarah pelayaran, produk yang dilihat, pesanan, carian
+Data Peranti: Jenis peranti, alamat IP, data lokasi
+Data Komunikasi: Interaksi dengan khidmat pelanggan, komen, dan ulasan
+8.2.2 Penggunaan Data
+Bagaimana TokoBintang menggunakan data:
+
+Pemprosesan Pesanan: Untuk memproses dan menghantar pesanan
+Pengesahan Identiti: Untuk mengesahkan identiti pengguna dan mencegah penipuan
+Pemasaran: Untuk komunikasi promosi dan tawaran yang diperibadikan
+Penambahbaikan Perkhidmatan: Untuk menganalisis dan meningkatkan pengalaman pengguna
+Pematuhan Undang-undang: Untuk mematuhi kewajipan undang-undang dan peraturan
+8.2.3 Keselamatan Data
+Langkah-langkah untuk melindungi data:
+
+Penyulitan SSL: Untuk semua transaksi dan pemindahan data
+Piawaian PCI-DSS: Untuk pengendalian data pembayaran
+Perlindungan Firewall: Untuk mengurangkan risiko pelanggaran keselamatan
+Akses Terkawal: Hanya kakitangan yang diberi kuasa boleh mengakses data
+Pemantauan Penipuan: Sistem automatik untuk mengesan aktiviti mencurigakan
+Sandaran Berkala: Untuk memastikan kesinambungan perkhidmatan
+8.2.4 Hak Privasi Pengguna
+Anda mempunyai hak terhadap data anda:
+
+Hak Akses: Meminta salinan data peribadi anda
+Hak Pembetulan: Membetulkan maklumat yang tidak tepat
+Hak Pemadaman: Meminta pemadaman data dalam keadaan tertentu
+Hak Membantah: Membantah pemprosesan data anda
+Hak Pindahan: Meminta pemindahan data anda ke perkhidmatan lain
+Pengawalan Pemasaran: Memilih keluar dari komunikasi pemasaran
+Untuk menggunakan hak-hak ini, hubungi privacy@tokobintang.com.my
+
+8.3 Perlindungan Pembeli TokoBintang
+8.3.1 Jaminan 100%
+Program perlindungan pembeli:
+
+Jaminan Bayaran Balik: Jika produk tidak sampai atau berbeza dari deskripsi
+Jaminan Keaslian: Jaminan 100% bayaran balik untuk produk palsu
+Perlindungan Pesanan: Dari masa tempahan hingga pengesahan penerimaan
+Sokongan Pertikaian: Arbitrasi bebas untuk pertikaian pembeli-penjual
+8.3.2 Kelayakan Perlindungan
+Syarat untuk perlindungan pembeli:
+
+Pesanan dibuat melalui platform TokoBintang
+Pembayaran dibuat melalui kaedah pembayaran TokoBintang yang diluluskan
+Permintaan perlindungan dibuat dalam tempoh yang ditetapkan
+Bukti mencukupi disediakan untuk menyokong tuntutan
+Perlindungan tidak terpakai untuk transaksi di luar platform
+8.3.3 Proses Tuntutan
+Cara membuat tuntutan perlindungan:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Pilih pesanan bermasalah
+Klik "Bantuan Pesanan" atau "Laporkan Masalah"
+Pilih jenis masalah dari menu
+Berikan perincian dan muat naik bukti (gambar, video)
+Kirim tuntutan
+TokoBintang akan menyiasat dan memberi maklum balas dalam masa 48 jam
+8.3.4 Resolusi Pertikaian
+Proses penyelesaian apabila timbul masalah:
+
+Resolusi Langsung: Penjual dan pembeli digalakkan menyelesaikan masalah dahulu
+Mediasi TokoBintang: Pasukan penyelesaian pertikaian akan campur tangan jika perlu
+Penentuan Bukti: Keputusan berdasarkan bukti yang dikemukakan
+Tempoh Resolusi: Kebanyakan kes diselesaikan dalam 3-7 hari
+Bayaran Balik Automatik: Dalam kes-kes tertentu (item tidak dihantar, dll.)
+8.4 Penilaian dan Ulasan
+8.4.1 Sistem Penarafan
+Cara TokoBintang menilai penjual dan produk:
+
+Penarafan Bintang: Skala 1-5 bintang untuk produk dan penjual
+Metrik Penjual: Kadar tindak balas, masa pemprosesan, kadar pemulangan
+Metrik Produk: Kualiti, nilai wang, ketepatan deskripsi
+Ulasan Terperinci: Komen bertulis dan gambar dari pengguna
+Ulasan Terverifikasi: Ditanda sebagai pembeli yang disahkan
+8.4.2 Menulis Ulasan
+Panduan untuk menulis ulasan yang berguna:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Cari produk dan klik "Beri Ulasan"
+Berikan penarafan bintang 1-5
+Tulis ulasan jujur ​​dan objektif (minimum 20 aksara)
+Muat naik foto produk sebenar (sangat disyorkan)
+Klik "Hantar"
+Amalan Terbaik:
+
+Fokus pada kualiti produk, bukan perkhidmatan penghantaran
+Berikan perincian khusus tentang produk
+Kongsi pengalaman penggunaan sebenar
+Senaraikan pro dan kontra
+Bersikap adil dan objektif
+8.4.3 Garis Panduan Ulasan
+Peraturan TokoBintang untuk ulasan:
+
+Ulasan mesti berkaitan dengan produk atau perkhidmatan
+Tiada bahasa kesat, ancaman, atau kandungan yang menyinggung
+Tiada maklumat peribadi (nombor telefon, alamat e-mel)
+Tiada promosi atau pautan ke laman web lain
+Tiada tuduhan tanpa bukti
+Tiada spam atau ulasan berulang
+Ulasan mesti berdasarkan pengalaman peribadi
+Ulasan yang melanggar garis panduan akan dipadam.
+
+8.4.4 Maklum Balas dan Resolusi
+Proses maklum balas untuk ulasan:
+
+Maklum Balas Penjual: Penjual boleh memberi maklum balas kepada ulasan
+Kemaskini Ulasan: Pengguna boleh mengemas kini ulasan dalam tempoh 30 hari
+Laporan Ulasan: Penjual dan pengguna lain boleh melaporkan ulasan yang tidak sesuai
+Sistem Mediasi: TokoBintang boleh campur tangan untuk ulasan yang dipertikaikan
+Resolusi Positif: Penjual yang menyelesaikan masalah boleh meminta pengemaskinian ulasan
+9. Menjual di TokoBintang
+9.1 Jenis Penjual dan Pendaftaran
+9.1.1 Jenis Akaun Penjual
+TokoBintang menawarkan beberapa jenis akaun penjual:
+
+Penjual Individu: Untuk individu yang menjual dalam skala kecil
+Penjual Perniagaan: Untuk perniagaan berdaftar dengan volum jualan lebih tinggi
+TokoMall Official: Untuk jenama dan pengedar rasmi
+TokoBintang Verified: Untuk penjual yang disahkan dengan rekod prestasi cemerlang
+Penjual Antarabangsa: Untuk penjual dari luar Malaysia (syarat tambahan dikenakan)
+9.1.2 Syarat dan Dokumen
+Keperluan untuk menjadi penjual:
+
+Individu:
+
+Umur 18 tahun ke atas
+MyKad atau pasport yang sah
+Akaun bank tempatan
+Alamat sah di Malaysia
+Nombor telefon yang aktif
+Perniagaan:
+
+Pendaftaran perniagaan (SSM)
+Nombor GST (jika berkenaan)
+Dokumen perniagaan
+Akaun bank perniagaan
+Alamat perniagaan sah
+TokoMall Official (tambahan):
+
+Sijil pengedaran/agensi rasmi
+Bukti hubungan dengan jenama
+Rekod jualan minimum
+9.1.3 Proses Pendaftaran
+Langkah-langkah mendaftar sebagai penjual:
+
+Layari www.tokobintang.com.my/sell
+Klik "Daftar Sebagai Penjual"
+Masukkan e-mel dan kata laluan
+Pilih jenis akaun penjual
+Isi maklumat yang diperlukan
+Muat naik dokumen yang diperlukan
+Tetapkan butiran pembayaran (akaun bank)
+Baca dan terima terma dan syarat
+Hantar permohonan
+Tunggu pengesahan (biasanya 1-3 hari bekerja)
+9.1.4 Yuran dan Caj
+Struktur yuran untuk penjual:
+
+Yuran Pendaftaran: Percuma untuk semua jenis akaun
+Komisen Jualan:
+Penjual Individu: 6-8% bergantung pada kategori
+Penjual Perniagaan: 5-7% bergantung pada kategori
+TokoMall Official: 3-5% bergantung pada kategori
+Yuran Sistem Pembayaran: 1.5-2% untuk transaksi kad kredit/debit
+Bayaran Pengeluaran: Percuma untuk akaun bank tempatan
+Yuran Langganan Bulanan:
+Penjual Individu: Tiada
+Penjual Perniagaan: RM39/bulan (termasuk iklan bulanan)
+TokoMall Official: RM99/bulan (termasuk pakej iklan premium)
+9.2 Mengurus Kedai dalam Talian
+9.2.1 Pusat Penjual
+Portal penjual menyediakan alat untuk:
+
+Dasbor: Gambaran keseluruhan prestasi, jualan, pesanan
+Pengurusan Pesanan: Lihat, proses, dan jejak pesanan
+Pengurusan Produk: Tambah, sunting, dan urus produk
+Pengurusan Inventori: Kemas kini stok dan pantau inventori
+Analitik: Laporan jualan, produk popular, metrik prestasi
+Pengurusan Promosi: Cipta dan urus promosi kedai
+Sokongan: Sistem tiket untuk bantuan
+Kewangan: Lihat pendapatan dan pembayaran
+9.2.2 Menambah Produk
+Langkah-langkah untuk menyenaraikan produk:
+
+Log masuk ke Pusat Penjual
+Pergi ke "Produk" > "Tambah Produk"
+Pilih kategori yang sesuai
+Isi maklumat produk:
+Nama produk (mengikut garis panduan SEO)
+Deskripsi terperinci
+Harga dan kuantiti
+Gambar berkualiti tinggi (minimum 3)
+Variasi (warna, saiz, dll.)
+Berat dan dimensi (untuk pengiraan penghantaran)
+Tetapkan opsyen penghantaran
+Klik "Simpan" atau "Terbitkan"
+9.2.3 Pengoptimuman Penyenaraian
+Teknik untuk meningkatkan keterlihatan:
+
+Pengoptimuman Tajuk: Masukkan kata kunci yang berkaitan dan spesifik
+Deskripsi Kaya: Penerangan terperinci dengan format, peluru, dan spesifikasi
+Fotografi Berkualiti: Minimum 5 gambar dengan latar belakang putih, berbilang sudut
+Video Produk: Tunjukkan produk dalam aksi untuk kadar klik lebih tinggi
+Kata Kunci Berkaitan: Tambah dalam deskripsi dan atribut produk
+Struktur Varian: Susun varian dengan jelas (warna, saiz, model)
+Harga Kompetitif: Pantau dan sesuaikan harga berdasarkan pasaran
+Promosi Tetap: Tawar diskaun atau pek nilai untuk menonjol
+9.2.4 Pengurusan Inventori
+Alat untuk mengekalkan ketepatan inventori:
+
+Kemaskini Stok: Kemaskini kuantiti secara manual atau melalui API
+Amaran Stok Rendah: Tetapkan paras amaran untuk notifikasi
+Atribut Variasi: Urus stok untuk setiap kombinasi varian
+Blok Stok: Sementara tidak aktifkan produk tanpa menghapusnya
+Mod Pra-tempahan: Benarkan pesanan melebihi stok semasa
+Laporan Inventori: Pantau prestasi dan ramalan keperluan
+Integrasi Gudang: Hubungkan dengan perisian pengurusan inventori
+9.3 Pemprosesan Pesanan dan Penghantaran
+9.3.1 Aliran Pesanan
+Proses pemprosesan pesanan:
+
+Penerimaan Pesanan: Notifikasi pesanan baharu dalam portal penjual
+Pemprosesan: Penjual menerima dan menyahkan pesanan
+Pembungkusan: Penjual membungkus dan melabel produk
+Penghantaran: Penjual menghantar atau menyediakan produk untuk kutipan kurier
+Pengesanan: Penjual memuat naik nombor pengesanan
+Penghantaran: Kurier menghantar produk kepada pembeli
+Penyelesaian: Pesanan ditandakan sebagai selesai selepas pengesahan penerimaan
+Had Masa Kritikal:
+
+Pengesahan pesanan: 1 hari bekerja
+Penghantaran selepas pengesahan: 2 hari bekerja
+Kegagalan memenuhi had masa boleh menjejaskan penarafan penjual
+9.3.2 Opsyen Penghantaran Penjual
+Kaedah penghantaran tersedia:
+
+TokoBintang Logistics: Program logistik rasmi yang mengendalikan pengambilan dan penghantaran
+Rakan Logistik: Perjanjian khas dengan kurier (J&T, Pos Laju, dll.)
+Penghantaran Sendiri: Penjual mengendalikan penghantaran (biasanya untuk kawasan tempatan sahaja)
+Pilihan Pembeli: Membenarkan pembeli memilih perkhidmatan kurier yang disukai
+9.3.3 TokoBintang Logistics (TBL)
+Perkhidmatan logistik bersepadu:
+
+Pengambilan dari Penjual: TBL mengambil pakej dari lokasi penjual
+Penghantaran Serantau: Liputan ke seluruh Malaysia
+Pengesanan Bersepadu: Pengesanan automatik dikongsi dengan pembeli
+Insurans Penghantaran: Perlindungan untuk item bernilai tinggi
+Penyelesaian Pertikaian: Sokongan untuk masalah berkaitan logistik
+Pengeposan Automatik: Maklumat pengesanan diberikan secara automatik
+Kadar Diskaun: Kadar lebih rendah berbanding standard kurier
+9.3.4 Cetakan Label dan Penyediaan
+Garis panduan untuk penyediaan penghantaran:
+
+Cetakan Label: TokoBintang menyediakan label penghantaran yang boleh dicetak melalui portal penjual
+Pakej Selamat: Produk perlu dibungkus dengan selamat untuk mengelakkan kerosakan
+Pembungkusan Betul: Guna karton berkualiti, pelindung gelembung udara, penyendal untuk item mudah pecah
+Saiz dan Berat Tepat: Isi dimensi dan berat dengan tepat untuk mengelakkan caj tambahan
+COD Handling: Prosedur khas untuk penghantaran Bayar Semasa Penghantaran
+Item Larangan: Panduan mengenai item yang tidak boleh dihantar (cecair berbahaya, barang mudah bakar)
+9.4 Pengurusan Kewangan Penjual
+9.4.1 Struktur Pembayaran
+Cara penjual dibayar:
+
+Kitaran Pembayaran: Pembayaran berkala (setiap 7 atau 14 hari)
+Tempoh Pelepasan: 7 hari selepas pengesahan penerimaan pembeli
+Jumlah Pembayaran: Jumlah jualan tolak komisen dan yuran
+Lelompok Pembayaran: Semua jualan dalam kitaran digabungkan dalam satu pembayaran
+Akaun Bank: Pembayaran dibuat ke akaun bank yang ditetapkan semasa pendaftaran
+9.4.2 Pengurusan Pendapatan
+Alat untuk menguruskan kewangan:
+
+Laporan Jualan: Paparan terperinci jualan dan komisen
+Penyata Pendapatan: Pecahan bulanan pendapatan dan potongan
+Jangkaan Aliran Tunai: Ramalan pembayaran akan datang
+Rekod Pembayaran: Sejarah semua pembayaran lepas
+Invois Komisen: Invois cukai rasmi untuk komisen dikenakan
+Dashboard Kewangan: Gambaran keseluruhan prestasi kewangan
+Muat Turun Rekod: Eksport data kewangan untuk perakaunan
+9.4.3 Cukai dan Perakaunan
+Pertimbangan cukai untuk penjual:
+
+Invois Jualan: TokoBintang menyediakan templat invois yang mematuhi peraturan
+Laporan GST: Alat untuk menguruskan pelaporan GST (untuk penjual berdaftar GST)
+Pengiraan Cukai: Pemecahan jualan untuk tujuan pelaporan cukai
+Rekod Tahunan: Ringkasan tahunan untuk pengemukaan cukai
+Pertimbangan Perakaunan: Laporan yang disyorkan untuk disimpan untuk tujuan perakaunan
+Yuran Perkhidmatan: Penerangan terperinci mengenai semua yuran dan caj
+9.4.4 Resolusi Pertikaian Kewangan
+Proses untuk menyelesaikan pertikaian kewangan:
+
+Percanggahan Pembayaran: Proses untuk melaporkan ketidaksesuaian dalam pembayaran
+Semakan Komisen: Laluan untuk membantah pengiraan komisen
+Bayaran Tertunda: Penyelesaian untuk pembayaran tertunda
+Rayuan Denda: Proses untuk merayu penalti atau denda
+Sokongan Kewangan: Saluran khusus untuk menangani isu kewangan
+Rekonsiliasi Akaun: Prosedur untuk menyelaraskan ketidakseimbangan
+9.5 Promosi dan Pemasaran Kedai
+9.5.1 TokoBintang Ads
+Platform pengiklanan dalam talian:
+
+Iklan Pencarian: Tingkatkan keterlihatan dalam hasil carian
+Iklan Paparan: Banner dan iklan imej di seluruh platform
+Iklan Produk: Promosi produk tertentu dalam grid kategori
+Iklan Kedai: Promosi halaman kedai anda
+Iklan Carousel: Format iklan interaktif berbilang imej
+Sasaran: Opsyen penyasaran berdasarkan demografi, minat, gelagat
+Struktur kos:
+
+Model Pay-Per-Click (PPC): Bayar hanya apabila pengguna mengklik iklan
+Kos awal: Bermula dari RM10 sehari
+Bidaan: Sistem bidaan automatik untuk penempatan iklan
+9.5.2 Promosi Kedai
+Alat untuk menggalakkan jualan:
+
+Jualan Kilat Kedai: Promosi masa terhad untuk kedai anda
+Baucar Kedai: Cipta baucar khusus untuk pelanggan anda
+Harga Promosi: Tetapkan diskaun untuk tempoh masa tertentu
+Tawaran Pengikut: Promosi eksklusif untuk pengikut kedai
+Kupon Loyalti: Ganjaran untuk pelanggan berulang
+Beli 1 Percuma 1: Promosi nilai untuk meningkatkan penjualan
+Pakej Promosi: Tawaran khas untuk pembelian berbilang item
+9.5.3 Pemasaran Kedai
+Strategi untuk menarik pelanggan:
+
+Pengoptimuman Kedai: Susun dan reka halaman kedai anda untuk daya tarikan maksimum
+Pemasaran Kandungan: Berkongsi artikel, tutorial, dan panduan
+Program Pengikut: Galakkan pembeli untuk mengikuti kedai anda
+Pemberitahuan Push: Maklumat tentang produk baharu dan promosi
+Gambar dan Video: Suasana kedai dan video belakang tabir
+Jawapan kepada Pertanyaan: Responsif terhadap pertanyaan pembeli
+Kempen E-mel: Pemasaran e-mel untuk pelanggan terdahulu
+9.5.4 Mengambil Bahagian dalam Acara Platform
+Peluang untuk acara platform besar:
+
+11.11, 12.12 Sales: Jualan tahunan terbesar, perlu permohonan awal (2-3 bulan sebelum)
+Kempen Bermusim: Raya, CNY, Deepavali, Krismas, dll.
+Brand Festival: Promosi khusus jenama sepanjang minggu
+Jualan Kategori: Jualan fokus kategori (Elektronik, Fesyen, dll.)
+Deals & Rewards: Program diskaun dan ganjaran platform
+New User Campaigns: Promosi untuk pelanggan baharu
+Kempen Perayaan: Perayaan kebangsaan dan antarabangsa
+9.6 Metrik dan Prestasi Penjual
+9.6.1 Penarafan Penjual
+Sistem penarafan TokoBintang untuk penjual:
+
+Bintang Penjual: Penarafan 1-5 berdasarkan prestasi
+Kategori Prestasi: Platinum, Gold, Silver, Bronze
+Skor Prestasi: 0-100 berdasarkan metrik utama
+Kelayakan TokoBintang Verified: Status elit untuk penjual terbaik
+Penjual Pilihan: Kedudukan khusus untuk penjual berprestasi tinggi
+9.6.2 Metrik Utama
+Faktor yang mempengaruhi penarafan penjual:
+
+Kadar Tindak Balas: Masa respons kepada pertanyaan pembeli (sasaran: <12 jam)
+Masa Pemprosesan: Kelajuan pengesahan dan pemprosesan pesanan (sasaran: <24 jam)
+Kadar Penghantaran Tepat Masa: Pesanan dihantar dalam tempoh yang dijanjikan (sasaran: >95%)
+Kadar Pemulangan: Peratusan pesanan yang dipulangkan (sasaran: <3%)
+Kualiti Produk: Purata penarafan produk (sasaran: >4.5 bintang)
+Ulasan Positif: Peratusan ulasan 4-5 bintang (sasaran: >90%)
+Ketepatan Deskripsi: Kesesuaian produk berbanding deskripsi (dinilai melalui ulasan)
+9.6.3 Laporan Prestasi
+Alat untuk menganalisis prestasi kedai:
+
+Dasbor Prestasi: Paparan semua metrik utama
+Analitik Produk: Prestasi produk individu
+Laporan Jualan: Analisis jualan dan aliran
+Analitik Kedai: Metrik pelawat dan kadar penukaran
+Rekod Ulasan: Analisis sentimen pelanggan
+Laporan Perbandingan: Prestasi berbanding purata kategori
+Analisis Trend: Perubahan prestasi dari masa ke masa
+9.6.4 Penambahbaikan Berterusan
+Strategi untuk meningkatkan penarafan:
+
+Program Mentor: Bimbingan dari penjual berprestasi tinggi
+Maklum Balas Pembeli: Analisis dan bertindak berdasarkan maklum balas
+Pemantauan Pembatalan: Kurangkan kadar pembatalan dengan penjelasan produk yang lebih baik
+Kualiti Gambar: Tingkatkan gambar produk untuk mengurangkan jurang jangkaan
+Deskripsi Terperinci: Dokumentasi produk yang tepat dan komprehensif
+Penghantaran Dipertingkatkan: Pilihan kurier yang lebih baik dan pembungkusan lebih selamat
+Perkhidmatan Pelanggan: Tingkatkan masa respons dan kualiti interaksi
+10. Ciri dan Tip Lanjutan untuk Pengguna
+10.1 Ciri Aplikasi Eksklusif
+10.1.1 TokoBintang Live
+Platform penstriman langsung dalam aplikasi:
+
+Penstriman Penjual: Tonton demonstrasi produk langsung
+Interaksi Masa Nyata: Bertanya soalan dan dapatkan balasan langsung
+Pembelian Satu Klik: Beli produk yang dipamerkan terus dari penstriman
+Tawaran Eksklusif: Akses tawaran khas hanya tersedia semasa penstriman
+Isyarat Peringatan: Dapatkan pemberitahuan apabila kedai atau jenama kegemaran anda memulakan penstriman
+Jadual: Lihat kalendar penstriman akan datang
+Cara melihat dan berinteraksi:
+
+Buka aplikasi TokoBintang
+Tap pada tab "Live" di bahagian bawah
+Telusuri penstriman langsung atau akan datang
+Tap untuk menonton
+Berinteraksi melalui komen, suka, dan perkongsian
+Ketik produk yang dipaparkan untuk membeli atau menyimpan
+10.1.2 TokoBintang Games
+Permainan dalam aplikasi untuk ganjaran:
+
+Daftar Masuk Harian: Dapatkan TokoCoins untuk daftar masuk berturut-turut
+Permainan Tugasan: Selesaikan tugasan untuk ganjaran
+Shake & Win: Goncang telefon untuk hadiah rawak
+Scratch Cards: Kad gores digital untuk hadiah
+Spin the Wheel: Putar roda untuk hadiah dan baucar
+Flip & Match: Permainan memori untuk ganjaran
+Turnamen Bulanan: Saingan dengan pengguna lain untuk hadiah lebih besar
+Cara bermain dan menebus:
+
+Buka aplikasi TokoBintang
+Tap pada ikon "Games" di bar navigasi
+Pilih permainan
+Ikuti arahan permainan
+Kumpul TokoCoins dan hadiah
+Tebus di "Hadiah Saya" untuk baucar dan diskaun
+10.1.3 TokoBintang Feed
+Penemuan produk dan kandungan sosial:
+
+Cadangan Peribadi: Produk disesuaikan berdasarkan gelagat anda
+Kandungan Pengguna: Ulasan bergambar dan video dari pengguna lain
+Artikel Tren: Panduan dan artikel tentang tren semasa
+Koleksi Bertemakan: Senarai kurasi untuk peristiwa dan keperluan tertentu
+Pujukan Influencer: Cadangan dari influencer dan pakar
+Cerita Produk: Lihat cerita di sebalik produk dan jenama
+Cara menyesuaikan suapan anda:
+
+Buka aplikasi TokoBintang
+Tap pada tab "Feed"
+Tatal melalui kandungan yang dicadangkan
+Tekan "Suka" pada item untuk melihat lebih banyak seumpamanya
+Tap "X" pada item untuk melihat lebih sedikit seumpamanya
+Ikuti kategori, penjual, atau pencipta kandungan untuk kemas kini teratur
+10.1.4 TokoBintang Wallet
+Dompet digital bersepadu dalam aplikasi:
+
+Pengisian Semula: Tambah dana melalui pelbagai kaedah
+Pembayaran Segera: Bayar pesanan dengan satu ketukan
+Kembalian Automatik: Simpan kembalian dari COD secara automatik
+Pembayaran Bil: Bayar bil dan tambah nilai di dalam aplikasi
+Pembayaran Kod QR: Imbas untuk membayar di kedai rakan kongsi
+Pemindahan P2P: Hantar wang kepada pengguna TokoBintang lain
+Keselamatan Biometrik: Keselamatan cap jari/wajah tambahan
+Cara mengurus dompet anda:
+
+Buka aplikasi TokoBintang
+Tap pada ikon "Dompet" di profil anda
+Lihat baki semasa
+Pilih "Tambah Nilai" untuk menambah dana
+Pilih "Transaksi" untuk melihat sejarah
+Pilih "Pengeluaran" untuk memindahkan ke akaun bank
+Tap "Setel" untuk pembayaran bil dan utiliti
+10.2 Ciri Penemuan dan Sosial
+10.2.1 Perkongsian Sosial
+Integrasi rangkaian sosial:
+
+Perkongsian Produk: Kongsikan produk terus ke WhatsApp, Facebook, Instagram
+Perkongsian Senarai Keinginan: Kongsikan senarai keinginan dengan rakan
+Perkongsian Ulasan: Kongsikan ulasan anda di media sosial
+Perkongsian Troli: Kongsikan troli anda untuk mendapatkan pendapat
+Pautan Rujukan: Kongsikan kod rujukan untuk kedua-dua pihak mendapat ganjaran
+Ulasan Sosial: Lihat ulasan dari rakan di rangkaian anda
+Perkongsian Koleksi: Cipta dan kongsi koleksi produk bertemakan
+Cara menggunakan ciri sosial:
+
+Temui produk atau halaman yang ingin dikongsi
+Ketik butang "Kongsi" (ikon 3 titik disambungkan)
+Pilih platform untuk dikongsi (WhatsApp, Facebook, dll.)
+Tambah mesej peribadi (pilihan)
+Hantar ke penerima anda
+10.2.2 Pemberitahuan Harga
+Ciri pemantauan harga:
+
+Amaran Penurunan Harga: Dapatkan notifikasi apabila harga produk turun
+Tetapkan Harga Sasaran: Tentukan harga sasaran untuk pemberitahuan
+Peringatan Tamat Tempoh Promosi: Pemberitahuan sebelum promosi berakhir
+Sejarah Harga: Lihat trend harga masa lalu untuk produk
+Perbandingan Harga: Bandingkan harga penjual berbeza untuk produk yang sama
+Nilai Terbaik: Petunjuk apabila produk berada pada harga terendah bersejarah
+Cara menetapkan pemberitahuan harga:
+
+Lawati halaman produk
+Klik pada butang "Notifikasi Harga" (biasanya di bawah harga atau sebagai ikon loceng)
+Tetapkan harga sasaran anda (atau gunakan sasaran peratusan diskaun)
+Simpan tetapan anda
+Terima notifikasi apabila produk mencapai harga sasaran anda
+10.2.3 Ciri Koleksi
+Kumpul dan susun produk:
+
+Koleksi Peribadi: Simpan dan susun produk mengikut tema
+Koleksi Awam: Kongsi koleksi dengan orang lain
+Koleksi Peristiwa: Cipta koleksi untuk peristiwa seperti perkahwinan, hari jadi
+Koleksi Inspirasi: Sumber inspirasi untuk deko rumah, fesyen, dll.
+Koleksi Bermusim: Simpan idea untuk perayaan tertentu
+Koleksi Hadiah: Susun idea hadiah untuk orang tersayang
+Koleksi Bersama: Bekerjasama dalam koleksi dengan orang lain
+Cara menggunakan koleksi:
+
+Di halaman produk, ketik ikon "Simpan" (bentuk penanda buku)
+Pilih koleksi sedia ada atau cipta koleksi baharu
+Namakan dan tetapkan tetapan privasi koleksi
+Lihat semua koleksi di bahagian "Koleksi Saya" dalam profil
+Edit, susun semula, atau kongsi koleksi mengikut keperluan
+10.2.4 Pemberitahuan Stok
+Dimaklumkan apabila item kembali tersedia:
+
+Notifikasi Kembali dalam Stok: Ketika produk habis stok kembali tersedia
+Amaran Stok Hampir Habis: Bila produk hampir habis stok
+Notifikasi Varian: Pemberitahuan khusus untuk varian tertentu (saiz/warna)
+Notifikasi Pratempur: Pemberitahuan apabila produk akan tersedia untuk pratempur
+Kemasukan Baharu: Dimaklumkan apabila penjual menambah produk baharu
+Pemberitahuan Pelancaran: Amaran untuk pelancaran produk yang dijadualkan
+Cara menetapkan pemberitahuan stok:
+
+Pada halaman produk habis stok
+Klik pada butang "Beritahu Saya Apabila Tersedia"
+Confirm e-mel atau nombor telefon anda
+Pilih varian yang dikehendaki (jika berkenaan)
+Terima pemberitahuan apabila produk kembali dalam stok
+10.3 Pilihan Pembayaran dan Kewangan
+10.3.1 Pembayaran Ansuran
+Pilihan pembayaran fleksibel:
+
+Ansuran 0% Faedah: Pembayaran dipecahkan kepada ansuran bulanan tanpa faedah
+Bank yang Terlibat: Maybank, CIMB, AmBank, RHB, Hong Leong Bank
+Tempoh Tersedia: 3, 6, 12, 18, atau 24 bulan
+Pengesahan: Automatik dan segera
+Kelayakan Produk: Biasanya tersedia untuk pembelian melebihi RM500
+Kelayakan Kad: Tertakluk kepada ketersediaan bank dan status kad
+Bayaran Pemprosesan: Mungkin dikenakan mengikut bank
+Cara membuat pembayaran ansuran:
+
+Tambah produk ke troli dan pergi ke checkout
+Pada halaman pembayaran, pilih kaedah pembayaran Kad Kredit
+Tik kotak "Bayar secara Ansuran"
+Pilih bank kad kredit dan tempoh ansuran
+Masukkan butiran kad kredit
+Ikuti arahan untuk pengesahan
+Terima pengesahan bahawa ansuran telah diluluskan
+10.3.2 Program KrediBintang
+Kredit platform untuk pembelian:
+
+Kredit Diluluskan Segera: Kelulusan cepat untuk pengguna yang layak
+Had: RM500-RM5,000 berdasarkan kelayakan
+Bayaran Balik: Bayaran bulanan fleksibel
+Kadar Faedah: 1.5% sebulan ke atas baki tertunggak
+Tempoh Bayaran: 30 hari tanpa faedah, kemudian faedah dikenakan
+Penambahan Had: Meningkat dengan rekod pembayaran baik
+Permohonan: Tersedia melalui aplikasi untuk pengguna berdaftar dengan 6+ bulan sejarah pembelian
+Cara memohon dan menggunakan KrediBintang:
+
+Pergi ke "Dompet" > "KrediBintang" dalam aplikasi
+Klik "Mohon Sekarang"
+Isi maklumat yang diperlukan dan muat naik dokumen
+Terima keputusan kelulusan dan had
+Semasa checkout, pilih "KrediBintang" sebagai kaedah pembayaran
+Semak dan keluarkan jumlah yang diperlukan
+Pantau dan bayar balik melalui tab "KrediBintang"
+10.3.3 Bayaran Balik Tunai
+Program ganjaran tunai balik:
+
+Tunai Balik Standard: 0.5% tunai balik untuk semua pembelian
+Promosi Tunai Balik: Hingga 10% untuk kategori dan penjual tertentu
+Pengaktifan: Tersedia untuk semua pengguna yang berdaftar
+Penebusan: Automatik sebagai kredit pembelian untuk pesanan akan datang
+Had Bulanan: Sehingga RM100 tunai balik standard sebulan
+Tempoh Sah: 3 bulan dari tarikh perolehan
+Peluang Bonus: Tunai balik tambahan untuk pembayaran melalui TokoBintang Pay
+Cara memantau tunai balik anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Dompet" > "Tunai Balik"
+Lihat tunai balik terkumpul, penebusan, dan yang akan tamat tempoh
+Gunakan secara automatik semasa checkout
+Lihat sejarah transaksi tunai balik di tab "Sejarah"
+10.3.4 Program Bayar Kemudian
+Teruskan dengan pembelian, bayar kemudian:
+
+Proses: Pembelian sekarang, bayar dalam masa 30 hari tanpa caj
+Penyedia: Kerjasama dengan Atome, Grab PayLater, FavePay Later
+Kelayakan: Tertakluk kepada kriteria penyedia perkhidmatan
+Had: Bermula dari RM100 - RM3,000
+Caj Lewat: Dikenakan jika bayaran lewat
+Pemilihan: Semasa checkout, pilih penyedia "Bayar Kemudian"
+Pengesahan: Selesaikan pengesahan di aplikasi/laman web penyedia
+Cara menggunakan perkhidmatan Bayar Kemudian:
+
+Tambah produk ke troli dan pergi ke checkout
+Pada halaman pembayaran, pilih "Bayar Kemudian"
+Pilih penyedia keutamaan anda (Atome, Grab PayLater, dll.)
+Anda akan dialihkan ke laman web/aplikasi penyedia
+Sahkan identiti dan teliti terma
+Setelah diluluskan, anda akan dialihkan kembali untuk menyelesaikan pesanan
+Bayar balik mengikut terma penyedia
+10.4 Tip Profesional untuk Pembeli
+10.4.1 Mengoptimumkan Carian
+Teknik carian lanjutan untuk hasil yang lebih baik:
+
+Menggunakan Petik: "baju kurung moden" untuk padanan tepat frasa
+Penapis Carian: Gabungkan pelbagai penapis (harga + penarafan + penghantaran percuma)
+Kata Kunci Variasi: Cuba "skirt panjang", "skirt labuh", "skirt maxi" untuk hasil berbeza
+Carian Kod Model: Untuk elektronik, cari dengan kod model tepat
+Akronim vs Spelling Penuh: Cuba kedua-dua "TV LED" dan "televisyen diod pemancar cahaya"
+Keutamaan Penapis: Tetapkan penapis mengikut keutamaan (harga dulu, kemudian lokasi)
+Cari dalam Kedai: Hadkan carian dalam kedai tertentu dengan pengkhususan
+Sintaks bermanfaat:
+
+"-kata" untuk mengecualikan (cari "baju -kanak-kanak" untuk pakaian dewasa sahaja)
+"minValue-maxValue" untuk julat (cari "telefon 800-1200" untuk telefon dalam julat harga)
+10.4.2 Memaksimumkan Penjimatan
+Strategi untuk penjimatan maksimum:
+
+Gabungan Baucar: Gabungkan baucar platform, baucar kedai, dan baucar bank
+Aktiviti Membawa Baucar: Selesaikan tugasan dalam aplikasi untuk baucar
+Pembelian Gabungan: Beli dari penjual yang sama untuk diskaun penghantaran
+Peristiwa Deposit: Dapatkan baucar dengan membuat deposit awal untuk jualan besar
+Notifikasi Flash Sale: Tetapkan peringatan untuk flash sale
+Pembayaran Pintar: Gunakan kaedah pembayaran dengan cashback terbaik
+Promosi Musim Tengah: Beli semasa promosi kurang popular untuk tawaran lebih baik
+Pembelian Kilat: Untuk item popular, simpan ke wishlist dan checkout segera semasa jualan bermula
+10.4.3 Pengurusan Ulasan
+Panduan untuk ulasan dan penarafan berimpak:
+
+Bukti Bersama Ulasan: Sertakan gambar berkualiti tinggi untuk ulasan yang berguna
+Struktur Ulasan: Susun dengan "Pro", "Cons", dan "Summary" untuk kejelasan
+Soalan-Jawapan: Lihat dan jawab soalan pengguna lain tentang produk yang anda beli
+Kemaskini Ulasan: Kemaskini ulasan anda selepas penggunaan jangka panjang
+Laporkan Ulasan: Laporkan ulasan yang tidak berkaitan atau mengelirukan
+Metrik Berguna: Nyatakan butiran seperti saiz, dimensi sebenar, warna dalam ulasan
+Konteks Penggunaan: Terangkan bagaimana anda menggunakan produk untuk membantu pembeli lain
+10.4.4 Keselamatan dan Pengesahan
+Langkah-langkah untuk membeli-belah dengan selamat:
+
+Pembelian Keaslian: Cari logo "Authentic Guarantee" atau "100% Original"
+Pembelian dari TokoMall: Kedai dengan pengesahan kedai rasmi
+Semak Metrik Kedai: Periksa penarafan dan sejarah penjual
+Amaran Tawaran Terlalu Baik: Berwaspada terhadap harga yang tidak realistik
+Log Masuk Selamat: Gunakan 2FA dan kata laluan unik
+URL yang Betul: Pastikan anda di laman web/aplikasi rasmi
+Pembayaran Selamat: Elakkan pemindahan wang terus atau luar platform
+Transaksi Mencurigakan: Laporkan permintaan untuk komunikasi luar platform
+11. Sokongan Pelanggan dan Bantuan
+11.1 Saluran Sokongan
+11.1.1 Pusat Bantuan Dalam Talian
+Sumber sokongan kendiri:
+
+Carian Pangkalan Pengetahuan: Telusuri artikel, tutorial, dan FAQ
+Panduan Langkah demi Langkah: Arahan visual untuk proses umum
+Video Bagaimana: Tutorial visual untuk tugas kompleks
+Soalan Lazim: Jawapan kepada pertanyaan biasa
+Panduan Pemecahan Masalah: Cara menyelesaikan masalah biasa
+Dokumen Dasar: Polisi rasmi tentang pemulangan, penghantaran, dll.
+Cara mengakses:
+
+Log masuk ke akaun TokoBintang anda
+Klik "Bantuan" di menu navigasi bawah
+Pilih kategori masalah atau gunakan bar carian
+Telusuri artikel atau jawapan yang berkaitan
+Alamat URL: help.tokobintang.com.my
+
+11.1.2 Khidmat Pelanggan Langsung
+Saluran sokongan manusia:
+
+Live Chat: Segera, tersedia 24/7 melalui aplikasi dan laman web
+E-mel: support@tokobintang.com.my (respons dalam masa 24 jam)
+Pusat Panggilan: 1-800-88-TOKO (8656), 9 pagi - 6 petang, setiap hari
+Sokongan Media Sosial: Melalui Facebook dan Twitter
+Borang Web: Untuk pertanyaan khusus dan terperinci
+Masa respons biasa:
+
+Live Chat: 2-5 minit
+E-mel: 12-24 jam
+Telefon: 5-15 minit masa menunggu
+Media Sosial: 2-4 jam
+Borang Web: 12-24 jam
+11.1.3 Sokongan Pesanan Khusus
+Bantuan untuk pesanan tertentu:
+
+Pelacak Pesanan: Khusus untuk maklumat pengesanan terperinci
+Butang "Bantuan Pesanan": Dalam halaman pesanan anda
+Bantuan Pemulangan: Pasukan khusus untuk pemulangan dan bayaran balik
+Resolusi Pertikaian: Sokongan untuk masalah dengan penjual
+Sokongan Pembayaran: Bantuan dengan isu pembayaran
+Isu biasa yang ditangani:
+
+Pesanan tertunggak
+Item hilang atau rosak
+Ketidakpatuhan produk
+Konflik dengan penjual
+Masalah penghantaran
+11.1.4 Sokongan Penjual
+Bantuan khusus untuk penjual:
+
+Pusat Bantuan Penjual: Portal bantuan khusus untuk penjual
+Pengurus Akaun: Untuk penjual TokoBintang Verified
+Program Mentor: Bimbingan dari penjual berpengalaman
+Forum Penjual: Komuniti untuk perkongsian amalan terbaik
+Webinar dan Latihan: Sesi pendidikan untuk penjual
+Pusat Panggilan Penjual: Khusus untuk isu penjual
+11.2 Melaporkan Isu
+11.2.1 Proses Laporan Masalah
+Langkah-langkah melaporkan masalah:
+
+Kenal Pasti Masalah: Tentukan kategori dan keutamaan masalah
+Kumpul Bukti: Tangkap skrin, foto, atau dokumen berkaitan
+Pilih Saluran: Tentukan saluran berdasarkan keperluan
+Huraikan Masalah: Berikan penerangan terperinci dan ringkas
+Bekalkan Maklumat: ID pesanan, nama penjual, dll.
+Tentukan Penyelesaian: Nyatakan hasil yang dikehendaki
+Ikuti Kemaskini: Semak notifikasi untuk maklum balas
+Keutamaan masalah:
+
+Kritikal: Isu keselamatan, penipuan, transaksi besar bermasalah
+Tinggi: Pesanan tidak diterima, bayaran salah
+Sederhana: Kelewatan penghantaran, pertikaian kualiti
+Rendah: Pertanyaan umum, cadangan, maklum balas
+11.2.2 Melaporkan Produk Berbahaya atau Palsu
+Proses khusus untuk isu serius:
+
+Produk Berbahaya: Item yang mengancam keselamatan
+Barangan Palsu: Produk yang meniru jenama atau reka bentuk
+Kandungan Haram: Produk yang melanggar undang-undang
+Proses pelaporan:
+
+Di halaman produk, klik "Laporkan"
+Pilih jenis pelanggaran
+Berikan butiran dan bukti
+Kemukakan laporan
+Pasukan keselamatan akan menyiasat
+Tindakan akan diambil jika perlu (biasanya dalam masa 24-48 jam)
+11.2.3 Melaporkan Penipuan atau Pelanggaran Keselamatan
+Proses untuk isu keselamatan serius:
+
+Cubaan Phishing: E-mel atau mesej mencurigakan
+Aktiviti Mencurigakan: Akses tidak dibenarkan ke akaun
+Pelanggaran Privasi: Isu berkenaan data peribadi
+Pelanggaran Keselamatan Pembayaran: Transaksi tidak dibenarkan
+Saluran pelaporan khusus:
+
+E-mel khusus: security@tokobintang.com.my
+Talian Penting: 1-800-88-SAFE (7233)
+Borang Dalam Talian: tokobintang.com.my/report-security
+Tindakan segera yang perlu diambil:
+
+Tukar kata laluan
+Hidupkan 2FA jika belum
+Semak sejarah transaksi untuk aktiviti mencurigakan
+Laporkan transaksi tidak dibenarkan segera
+Hubungi bank jika maklumat pembayaran terlibat
+11.2.4 Sistem Tiket Sokongan
+Cara mengesan dan menguruskan permintaan bantuan:
+
+ID Tiket Unik: Diberikan untuk setiap permintaan bantuan
+Panel Status: Semak status tiket di akaun anda
+Pemberitahuan Kemaskini: Terima e-mel atau notifikasi dalam aplikasi
+Balasan ke Thread: Tambah maklumat ke tiket sedia ada
+Kemaskini Automatik: Pemberitahuan untuk perubahan status
+Arkib Tiket: Akses sejarah semua pertanyaan sebelumnya
+Status tiket biasa:
+
+Diterima: Tiket telah dihantar
+Dalam Semakan: Pasukan sokongan sedang menyemak
+Memerlukan Maklumat: Maklumat tambahan diperlukan
+Dalam Tindakan: Penyelesaian sedang dilaksanakan
+Disemak oleh Penjual: Menunggu maklum balas dari penjual
+Diselesaikan: Masalah telah ditangani
+Ditutup: Tiket telah ditutup
+11.3 Proses Eskalasi
+11.3.1 Bila dan Bagaimana untuk Mengeskalasi
+Garis panduan untuk menentukan masa mengeskalasi:
+
+Tiada maklum balas dalam tempoh masa yang dijanjikan
+Penyelesaian yang ditawarkan tidak mencukupi
+Wakil sokongan tidak dapat menyelesaikan masalah
+Kes kompleks memerlukan keputusan peringkat lebih tinggi
+Masalah berulang walaupun selepas penyelesaian
+Langkah-langkah eskalasi:
+
+Rujuk kepada ID Tiket asal
+Hubungi saluran sokongan
+Nyatakan dengan jelas: "Saya ingin mengeskalasi isu ini"
+Berikan sebab untuk eskalasi
+Nyatakan hasil yang dikehendaki
+Minta ID Eskalasi dan jangkaan masa tindak balas
+11.3.2 Peringkat Resolusi
+Hierarki penyelesaian masalah:
+
+Tahap 1 - Sokongan Barisan Hadapan: Wakil sokongan pelanggan biasa
+Tahap 2 - Pakar Kes: Kakitangan dengan pengetahuan dan alat lebih lanjut
+Tahap 3 - Pengurus Perkhidmatan Pelanggan: Penyeliaan dan penyelesaian kompleks
+Tahap 4 - Resolusi Eksekutif: Untuk kes yang memerlukan pengecualian atau kelulusan khas
+Tahap 5 - Resolusi Pihak Pengurusan: Untuk kes berprofil tinggi atau berpotensi media
+Peningkatan automatik berlaku untuk:
+
+Isu keselamatan dan penipuan
+Masalah pembayaran besar
+Syarikat berprofil tinggi
+Masalah berpotensi undang-undang
+Pertikaian panjang yang tidak selesai
+11.3.3 Program Advokasi Pelanggan
+Untuk kes kompleks atau berpanjangan:
+
+Pengurus Kes Khusus: Orang hubungan tunggal untuk keseluruhan resolusi
+Program TokoPriority: Untuk pelanggan VIP dan Platinum
+Penyelesaian Kes Kompleks: Untuk masalah yang melibatkan berbilang pihak
+Fast-Track Resolution: Proses yang dipercepatkan untuk kes-kes tertentu
+Pemantauan Pasca-Resolusi: Susulan untuk memastikan penyelesaian kekal
+Cara mengakses:
+
+Secara automatik ditawarkan untuk kes yang memenuhi kriteria
+Boleh diminta semasa eskalasi
+Tersedia untuk ahli TokoMall atau tahap Platinum
+Melalui program advokasi khas
+11.3.4 Arbitrasi dan Penyelesaian Pertikaian
+Proses untuk pertikaian yang tidak dapat diselesaikan:
+
+TokoBintang Guarantee Protection: Arbitrasi platform neutral
+Prosedur Pengantaraan: Dialog terpandu antara pembeli dan penjual
+Siasatan Adil & Penghakiman: Keputusan berdasarkan bukti yang dikemukakan
+Pilihan Rayuan: Untuk keputusan yang dipertikaikan
+Resolusi Terakhir: Keputusan yang mengikat selepas rayuan
+Proses arbitrasi biasa:
+
+Minta arbitrasi melalui halaman pesanan
+Kemukakan semua bukti dalam tempoh 48 jam
+Penjual diberi masa untuk memberi respons
+Penilai neutral mengkaji semua bukti
+Keputusan dikeluarkan dalam masa 3-5 hari
+Jika tidak puas hati, rayuan harus difailkan dalam masa 24 jam
+Keputusan rayuan adalah muktamad
+11.4 Program Maklum Balas
+11.4.1 TokoBintang Listens
+Program maklum balas pengguna:
+
+Tinjauan Kepuasan: Selepas interaksi sokongan
+Temu Bual Pengguna: Perbualan mendalam untuk maklum balas terperinci
+Program Panel Pengguna: Kumpulan fokus untuk ujian ciri baharu
+Imbasan Pengguna Aktif: Jangkauan proaktif kepada pengguna aktif
+Maklum Balas Produk: Maklum balas tentang pembangunan produk
+Ujian Beta: Program pengujian ciri baharu dan antara muka
+Cara mengambil bahagian:
+
+Terima jemputan melalui e-mel/aplikasi, ATAU
+Pergi ke tokobintang.com.my/listens untuk mendaftar
+Lengkapkan profil maklum balas anda
+Terima pemberitahuan untuk peluang maklum balas
+Ganjaran penyertaan:
+
+TokoCoins untuk tinjauan yang diisi
+Baucar untuk temu bual atau kumpulan fokus
+Akses awal ke ciri baharu untuk penguji beta
+Program Influencer TokoBintang untuk penyumbang teratas
+11.4.2 Cadangan Ciri
+Saluran untuk mencadangkan penambahbaikan:
+
+Portal Idea: Hantar dan undi cadangan ciri
+Forum Komuniti: Bincang idea dengan pengguna lain
+Program Ujian Beta: Uji dan beri maklum balas tentang ciri yang akan datang
+TokoBintang Labs: Ciri ujian yang masih dalam pembangunan
+Program Pakar Pengguna: Penasihat khas untuk bahagian platform tertentu
+Cara menghantar cadangan:
+
+Pergi ke tokobintang.com.my/ideas
+Log masuk ke akaun TokoBintang anda
+Klik "Hantar Idea Baharu"
+Pilih kategori dan isi keterangan
+Tambah imej atau video jika berkenaan
+Hantar untuk pertimbangan
+Proses semakan idea:
+
+Semakan awal dalam masa 5 hari
+Idea disiarkan untuk undian komuniti
+Idea popular disemak oleh pasukan produk
+Status dikemas kini ke "Dalam Semakan", "Dirancang", "Sedang Dibangunkan", atau "Dilaksanakan"
+Pemberitahuan apabila status berubah
+11.4.3 Program Laporan Bug
+Proses untuk melaporkan masalah teknikal:
+
+Portal Laporan Bug: Antara muka khusus untuk isu teknikal
+Tapisan Keutamaan: Sistem triage untuk isu kritikal
+Status Pelacakan: Ikuti kemajuan penyelesaian
+Ujian Pengguna: Uji pembaikan sebelum dikeluarkan
+Program Ganjaran Bug: Ganjaran untuk laporan bug penting
+Cara melaporkan bug:
+
+Di aplikasi/web, pergi ke Menu > Bantuan > Laporkan Bug
+Pilih kategori dan kepentingan
+Berikan langkah-langkah terperinci untuk meniru masalah
+Lampirkan tangkapan skrin atau skrin rakaman
+Sertakan maklumat peranti dan versi aplikasi
+Hantar dan terima ID Laporan Bug unik
+Status laporan bug:
+
+Diterima: Laporan dihantar dengan berjaya
+Disahkan: Bug disahkan oleh pasukan QA
+Dalam Kerja: Pembetulan sedang dibangunkan
+Diselesaikan: Pembetulan telah dikeluarkan
+Tidak Dapat Disahkan: Tidak dapat meniru isu
+Dirancang: Akan ditangani dalam kemas kini masa hadapan
+11.4.4 Temu Bual Pemulangan dan Pembatalan
+Proses untuk memahami kehilangan pelanggan:
+
+Soal Selidik Pemulangan: Mengumpul sebab untuk pemulangan
+1. Pengenalan Platform E-Dagang
+1.1 Gambaran Keseluruhan TokoBintang
+TokoBintang adalah platform e-dagang terkemuka di Malaysia yang menghubungkan pembeli dan penjual secara dalam talian. Kami menawarkan pelbagai kategori produk termasuk elektronik, fesyen, barangan rumah, kesihatan dan kecantikan, serta banyak lagi. TokoBintang bermula pada tahun 2015 dan telah berkembang menjadi salah satu pasaran dalam talian yang paling dipercayai di rantau Asia Tenggara.
+
+1.2 Misi dan Visi
+Misi: Untuk menyediakan pengalaman membeli-belah dalam talian yang selamat, menyeronokkan dan berpatutan bagi semua pengguna di Malaysia dan seluruh Asia Tenggara.
+
+Visi: Menjadi destinasi e-dagang pilihan utama yang memperkasakan peniaga tempatan dan menawarkan nilai terbaik kepada pelanggan.
+
+1.3 Kelebihan Membeli-belah di TokoBintang
+Jaminan produk asli dengan Perlindungan Pembeli
+Pelbagai pilihan pembayaran termasuk kad kredit, perbankan internet, dan bayaran tunai
+Penghantaran pantas ke seluruh Malaysia
+Program kesetiaan dengan mata ganjaran dan baucar eksklusif
+Sokongan pelanggan 24/7
+Pelbagai promosi dan jualan sepanjang tahun
+1.4 Mengakses Platform TokoBintang
+Anda boleh mengakses TokoBintang melalui:
+
+Laman web: www.tokobintang.com.my
+Aplikasi mudah alih (tersedia di Google Play Store dan Apple App Store)
+Platform media sosial rasmi
+2. Pendaftaran dan Pengurusan Akaun
+2.1 Pendaftaran Akaun Baharu
+2.1.1 Syarat Pendaftaran
+Untuk mendaftar akaun di TokoBintang, anda perlu:
+
+Berumur 18 tahun ke atas
+Mempunyai alamat e-mel atau nombor telefon yang sah
+Menerima Terma dan Syarat serta Dasar Privasi platform
+2.1.2 Langkah-langkah Pendaftaran
+Layari www.tokobintang.com.my atau buka aplikasi TokoBintang
+Klik pada butang "Daftar"
+Masukkan nombor telefon atau alamat e-mel anda
+Masukkan kod pengesahan yang dihantar ke telefon atau e-mel anda
+Cipta kata laluan akaun anda (minimum 8 aksara dengan gabungan huruf dan nombor)
+Isi maklumat peribadi anda seperti nama penuh dan tarikh lahir
+Klik "Daftar" untuk menyelesaikan proses
+2.1.3 Pengesahan Akaun
+Selepas pendaftaran, anda digalakkan untuk mengesahkan akaun dengan:
+
+Menambah alamat penghantaran
+Memuat naik ID pengenalan untuk pengesahan identiti (diperlukan untuk ciri-ciri keselamatan tertentu)
+Menambah kaedah pembayaran
+2.2 Log Masuk dan Keselamatan Akaun
+2.2.1 Kaedah Log Masuk
+Anda boleh log masuk ke akaun TokoBintang anda dengan:
+
+E-mel dan kata laluan
+Nombor telefon dan kata laluan
+Log masuk sekali klik melalui Google atau Facebook
+Kod SMS sekali (OTP) untuk log masuk tanpa kata laluan
+2.2.2 Pengesahan Dua Faktor
+TokoBintang menawarkan pengesahan dua faktor (2FA) untuk keselamatan tambahan:
+
+Aktifkan 2FA di tetapan akaun anda
+Pilih kaedah pengesahan kedua (SMS atau aplikasi autentikasi)
+Tetapkan mengikut arahan yang diberikan
+Selepas diaktifkan, anda akan diminta kod pengesahan setiap kali log masuk
+2.2.3 Kata Laluan Terlupa
+Jika anda terlupa kata laluan:
+
+Klik pada pautan "Lupa Kata Laluan" di halaman log masuk
+Masukkan alamat e-mel atau nombor telefon berdaftar anda
+Ikuti arahan yang dihantar ke e-mel atau telefon anda
+Tetapkan kata laluan baharu (jangan gunakan semula kata laluan lama)
+2.3 Menguruskan Profil Akaun
+2.3.1 Mengemas Kini Maklumat Peribadi
+Untuk mengemas kini maklumat peribadi:
+
+Log masuk ke akaun anda
+Klik pada ikon profil di sudut kanan atas
+Pilih "Tetapan Akaun" atau "Profil Saya"
+Kemas kini maklumat yang diperlukan
+Klik "Simpan Perubahan"
+2.3.2 Menguruskan Alamat
+Anda boleh menyimpan sehingga 10 alamat penghantaran:
+
+Pergi ke "Alamat Saya" di tetapan akaun
+Klik "Tambah Alamat Baharu" untuk menambah alamat
+Isi semua maklumat yang diperlukan termasuk:
+Nama penerima
+Nombor telefon
+Alamat lengkap (termasuk poskod)
+Negeri
+Tetapkan sebagai alamat utama (pilihan)
+Untuk mengedit atau memadam, pilih alamat dan klik pada ikon yang berkaitan
+2.3.3 Menguruskan Kaedah Pembayaran
+Anda boleh menyimpan dan menguruskan kaedah pembayaran:
+
+Pergi ke "Kaedah Pembayaran" di tetapan akaun
+Lihat kaedah pembayaran yang disimpan
+Tambah kad baharu atau kaedah pembayaran lain
+Tetapkan kaedah pembayaran utama jika dikehendaki
+Padam kaedah pembayaran yang tidak digunakan
+2.4 Penutupan Akaun
+2.4.1 Syarat Penutupan Akaun
+Sebelum menutup akaun, pastikan:
+
+Semua pesanan telah diselesaikan
+Semua pertikaian atau pemulangan telah diselesaikan
+Baki TokoCoin dalam akaun telah digunakan
+Sebarang langganan telah dibatalkan
+2.4.2 Langkah-langkah Menutup Akaun
+Log masuk ke akaun anda
+Pergi ke "Tetapan Akaun" > "Keselamatan Akaun"
+Skrol ke bawah dan cari "Tutup Akaun"
+Pilih sebab untuk penutupan akaun
+Masukkan kata laluan untuk pengesahan
+Klik "Tutup Akaun Saya"
+2.4.3 Tempoh Pemulihan
+Akaun yang ditutup boleh dipulihkan dalam tempoh 30 hari dengan menghubungi khidmat pelanggan. Selepas 30 hari, semua data akan dipadam secara kekal dan akaun tidak boleh dipulihkan.
+
+3. Menjelajah dan Membeli di TokoBintang
+3.1 Antara Muka dan Navigasi
+3.1.1 Halaman Utama
+Halaman utama TokoBintang memaparkan:
+
+Banner promosi dan jualan terkini
+Kategori produk utama
+Produk disyorkan berdasarkan sejarah pelayaran anda
+Bahagian flash sale dan tawaran masa terhad
+Kedai rasmi dan jenama popular
+Koleksi produk tematik berdasarkan peristiwa semasa atau trend
+3.1.2 Menu Kategori
+Menu kategori membolehkan anda menjelajah produk mengikut:
+
+Kategori utama (Elektronik, Fesyen, Kesihatan & Kecantikan, dll.)
+Subkategori (cth. di bawah Elektronik: Telefon, Komputer, Aksesori, dll.)
+Penapis (seperti jenama, harga, penarafan, lokasi penjual)
+3.1.3 Bar Carian
+Bar carian terletak di bahagian atas setiap halaman:
+
+Masukkan kata kunci atau nama produk
+Gunakan cadangan carian automatik
+Carian suara tersedia dengan klik pada ikon mikrofon
+Sejarah carian terkini ditunjukkan di bawah bar carian
+3.1.4 Halaman Kategori
+Halaman kategori memaparkan:
+
+Pilihan subkategori
+Panel penapis di sebelah kiri untuk menyempitkan hasil
+Pilihan pengisihan (harga rendah ke tinggi, populariti, dll.)
+Paparan grid produk dengan maklumat asas
+Pilihan paparan (grid atau senarai)
+3.2 Carian dan Penapis Produk
+3.2.1 Teknik Carian Lanjutan
+Untuk hasil carian yang lebih baik:
+
+Gunakan kata kunci spesifik dan ejaan yang betul
+Gunakan nombor model untuk produk elektronik
+Gabungkan nama jenama dengan nama produk
+Cari menggunakan tag atau atribut popular
+Gunakan tanda petik untuk padanan tepat (cth. "baju kurung moden")
+3.2.2 Penapis Carian
+Penapis yang tersedia untuk menyesuaikan hasil carian:
+
+Harga (minimum hingga maksimum)
+Jenama
+Penarafan (bintang)
+Promosi (diskaun, penghantaran percuma, dll.)
+Lokasi penjual (dalam Malaysia atau antarabangsa)
+Atribut khusus kategori (saiz, warna, bahan, dll.)
+3.2.3 Menyimpan Carian dan Tetapan
+Untuk memudahkan carian berulang:
+
+Selepas menetapkan penapis, klik "Simpan Carian" (untuk pengguna log masuk)
+Namakan carian tersimpan anda
+Akses carian tersimpan melalui profil anda di bawah "Carian Tersimpan"
+Tetapkan pemberitahuan untuk produk baharu yang sepadan dengan carian anda
+3.3 Halaman Produk dan Maklumat
+3.3.1 Paparan Halaman Produk
+Halaman produk memaparkan:
+
+Imej produk (dengan zum dan galeri)
+Harga dan maklumat promosi
+Pilihan variasi (warna, saiz, dll.)
+Butiran penghantaran dan tersedia di lokasi pembeli
+Penarafan dan ulasan pembeli
+Butiran dan spesifikasi produk
+Maklumat penjual
+Produk berkaitan atau pelengkap
+3.3.2 Memahami Maklumat Produk
+Maklumat penting untuk perhatikan:
+
+Status stok: Tersedia, Stok Terhad, Habis Stok
+Harga: Harga asal, harga selepas diskaun, peratus penjimatan
+Opsyen variasi: Pastikan anda memilih variasi yang betul (saiz, warna, model)
+Jaminan dan waranti: Tempoh dan syarat jaminan/waranti
+Keaslian: Tanda "Produk Asli" atau "Dijamin Asli" untuk produk yang disahkan
+Syarat pemulangan: Boleh dipulangkan atau tidak, tempoh pemulangan
+3.3.3 Membaca Ulasan dan Penarafan
+Panduan untuk mentafsir ulasan:
+
+Perhatikan penarafan keseluruhan dan bilangan ulasan
+Baca ulasan dengan foto produk sebenar
+Lihat komen mengenai mutu produk, ketepatan deskripsi, dan perkhidmatan penjual
+Perhatikan tarikh ulasan untuk memastikan keterkiniannya
+Semak jawapan penjual kepada ulasan negatif
+Gunakan penapis ulasan untuk mencari ulasan dengan kata kunci tertentu
+3.4 Menambah ke Troli dan Senarai Keinginan
+3.4.1 Menambah Produk ke Troli
+Untuk menambah produk ke troli:
+
+Pilih semua variasi yang diperlukan (saiz, warna, dll.)
+Tetapkan kuantiti yang dikehendaki
+Klik butang "Tambah ke Troli"
+Produk akan ditambah ke troli anda
+Notifikasi akan muncul mengesahkan penambahan
+3.4.2 Menguruskan Troli Belian
+Untuk menguruskan troli:
+
+Klik ikon troli di bahagian atas halaman
+Semak semua item dalam troli
+Ubah kuantiti menggunakan butang + atau -
+Padam item dengan mengklik ikon sampah
+Untuk setiap item, anda boleh:
+Simpan untuk kemudian (pindah ke senarai keinginan)
+Semak status ketersediaan
+Lihat jumlah kos termasuk penghantaran
+3.4.3 Menggunakan Senarai Keinginan
+Senarai keinginan membolehkan anda menyimpan produk untuk dibeli kemudian:
+
+Di halaman produk, klik ikon hati untuk menambah ke senarai keinginan
+Anda boleh melihat senarai keinginan di profil anda
+Produk dalam senarai keinginan dengan penurunan harga akan ditandakan
+Anda boleh mencipta beberapa senarai keinginan dan menamakan mereka
+Untuk memindahkan dari senarai keinginan ke troli, klik "Tambah ke Troli"
+4. Proses Pesanan dan Pembayaran
+4.1 Proses Checkout
+4.1.1 Langkah-langkah Checkout
+Proses checkout di TokoBintang terdiri daripada langkah-langkah berikut:
+
+Semakan Troli: Semak semula semua item dalam troli anda
+Alamat Penghantaran: Pilih atau tambah alamat penghantaran
+Opsyen Penghantaran: Pilih kaedah penghantaran untuk setiap penjual
+Kaedah Pembayaran: Pilih cara anda mahu membayar
+Semakan Akhir: Semak jumlah keseluruhan, termasuk:
+Harga produk
+Kos penghantaran
+Diskaun baucar (jika digunakan)
+Cukai (jika berkenaan)
+Jumlah akhir
+Pengesahan: Klik "Tempah Sekarang" untuk mengesahkan pesanan
+4.1.2 Tambahan Semasa Checkout
+Opsyen tambahan semasa proses checkout:
+
+Pesan Nota: Tambah arahan khas untuk penjual
+Penetapan Masa Penghantaran: Untuk beberapa penjual, anda boleh memilih slot masa penghantaran
+Penghantaran Hadiah: Pilih bungkusan hadiah dan tambah kad peribadi
+Insurans Penghantaran: Tambah perlindungan untuk item berharga
+Derma Amal: Opsyen untuk menderma jumlah kecil ke badan amal rakan kongsi
+4.1.3 Penggunaan Kod Baucar dan Promosi
+Cara menggunakan baucar semasa checkout:
+
+Di halaman semakan troli, klik "Gunakan Baucar/Kod Promosi"
+Masukkan kod baucar atau pilih dari baucar yang tersedia
+Klik "Gunakan" untuk menggunakan baucar
+Diskaun akan ditunjukkan dalam ringkasan pesanan
+Beberapa baucar mungkin mempunyai syarat minimum pembelian atau produk tertentu
+Baucar yang tidak dapat digunakan akan ditunjukkan sebagai "Tidak Sah" dengan penjelasan
+4.2 Kaedah Pembayaran
+4.2.1 Pilihan Kaedah Pembayaran
+TokoBintang menerima pelbagai kaedah pembayaran:
+
+Pembayaran Dalam Talian:
+
+Kad Kredit/Debit (Visa, Mastercard, American Express)
+Perbankan Internet (FPX)
+E-Wallet (Touch 'n Go eWallet, GrabPay, Boost, MAE)
+TokoBintang Pay (dompet dalam platform)
+PayPal (untuk transaksi antarabangsa)
+Pembayaran Luar Talian:
+
+Bayar di Kedai (7-Eleven, 99 Speedmart, KK Mart)
+Bayar Semasa Penghantaran (COD) - tertakluk kepada kelayakan
+4.2.2 Keselamatan Pembayaran
+Langkah-langkah keselamatan untuk transaksi:
+
+Semua transaksi pembayaran dienkripsi dengan teknologi SSL 256-bit
+Pengesahan 3D Secure untuk semua transaksi kad
+Sistem pengesanan penipuan untuk mengesan corak pembayaran mencurigakan
+Kad yang disimpan hanya menyimpan token, bukan maklumat kad sebenar
+Pengesahan biometrik (jika disokong oleh peranti) untuk pembayaran dalam aplikasi
+4.2.3 TokoBintang Pay (Dompet)
+Mengenai dompet dalam platform:
+
+Pengisian Semula: Melalui kad, perbankan atau eWallet lain
+Penggunaan: Pembayaran segera tanpa perlu memasukkan butiran berulang kali
+Keselamatan: Dilindungi dengan PIN khas atau biometrik
+Kelebihan: Sering menerima tawaran dan diskaun eksklusif
+Pengeluaran: Dana boleh dikeluarkan ke akaun bank yang disahkan (dalam masa 1-3 hari)
+4.2.4 Pembayaran Ansuran
+Pilihan pembayaran ansuran:
+
+Tersedia untuk pembelian melebihi RM500 dengan kad kredit tertentu
+Pelan 0% faedah tersedia dari 3 hingga 12 bulan
+Bank yang menyertai: Maybank, CIMB, Hong Leong Bank, AmBank
+Bayaran pemprosesan mungkin dikenakan oleh bank
+4.3 Status dan Pengesanan Pesanan
+4.3.1 Memahami Status Pesanan
+Status yang mungkin untuk pesanan anda:
+
+Menunggu Pembayaran: Pesanan dibuat tetapi pembayaran belum diselesaikan
+Pembayaran Diterima: Pembayaran telah disahkan, menunggu pemprosesan penjual
+Sedang Diproses: Penjual sedang menyiapkan pesanan anda
+Dihantar: Pesanan telah diserahkan kepada kurier
+Dalam Penghantaran: Pesanan sedang dalam perjalanan ke alamat anda
+Selesai: Pesanan telah diterima dan selesai
+Dibatalkan: Pesanan telah dibatalkan oleh pembeli atau penjual
+Dipulangkan: Produk sedang dalam proses pemulangan
+4.3.2 Mengesan Pesanan
+Untuk mengesan status pesanan anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya" di profil anda
+Pilih pesanan yang ingin dikesan
+Klik pada "Kesan" untuk melihat status terkini
+Anda juga boleh melihat sejarah pengesanan lengkap dengan cap masa
+Untuk pesanan dengan berbilang item dari penjual berbeza, setiap pakej akan mempunyai pengesanan berasingan
+4.3.3 Pemberitahuan Status
+Anda akan menerima pemberitahuan mengenai perubahan status pesanan melalui:
+
+Notifikasi dalam aplikasi
+E-mel ke alamat e-mel berdaftar
+SMS (untuk perubahan status utama sahaja)
+Notifikasi push pada peranti mudah alih (jika dibenarkan)
+Tetapkan keutamaan pemberitahuan anda di "Tetapan > Pemberitahuan" dalam profil anda.
+
+4.4 Pembatalan Pesanan
+4.4.1 Polisi Pembatalan
+Polisi pembatalan TokoBintang:
+
+Pesanan boleh dibatalkan sebelum penjual menandakan pesanan sebagai "Sedang Diproses"
+Setelah pesanan diproses, pembatalan tertakluk kepada persetujuan penjual
+Beberapa kategori produk (seperti makanan segar, item peribadi) tidak boleh dibatalkan selepas penempahan
+Pembatalan berulang tanpa sebab sah boleh mengakibatkan sekatan ke atas kemudahan pembatalan
+4.4.2 Cara Membatalkan Pesanan
+Untuk membatalkan pesanan:
+
+Pergi ke "Pesanan Saya" di profil anda
+Pilih pesanan yang ingin dibatalkan
+Klik pada butang "Batalkan Pesanan"
+Pilih sebab pembatalan daripada senarai (contoh: tertib sebagai kesilapan, mendapat harga lebih baik, mengubah fikiran)
+Sahkan pembatalan
+Pembatalan akan diproses dan anda akan menerima pengesahan
+4.4.3 Bayaran Balik Selepas Pembatalan
+Proses bayaran balik:
+
+Kad Kredit/Debit: 7-14 hari bekerja
+Perbankan Internet: 5-10 hari bekerja
+E-Wallet: 3-7 hari bekerja
+TokoBintang Pay: 1-3 hari bekerja
+Kaedah Pembayaran Luar Talian: Dalam bentuk kredit TokoBintang atau bayaran balik ke akaun bank (tambahan 2-3 hari bekerja)
+Anda boleh memeriksa status bayaran balik di "Pesanan Saya > Bayaran Balik".
+
+5. Penghantaran dan Penerimaan
+5.1 Pilihan Penghantaran
+5.1.1 Jenis Penghantaran
+TokoBintang menawarkan berbagai kaedah penghantaran:
+
+Standard:
+
+Penghantaran ekonomi dalam 3-5 hari bekerja
+Pilihan termurah untuk kebanyakan lokasi
+Disediakan oleh J&T Express, Pos Laju, Ninja Van
+Express:
+
+Penghantaran dalam 1-2 hari bekerja
+Tersedia untuk kawasan bandar utama
+Kos lebih tinggi berbanding penghantaran standard
+Penghantaran Sama Hari:
+
+Pesanan diterima pada hari yang sama
+Tersedia di Kuala Lumpur, Selangor, Pulau Pinang, dan Johor Bahru
+Pesanan mesti dibuat sebelum 12 tengah hari
+Kapasiti terhad dan tertakluk kepada ketersediaan
+Pengambilan Sendiri:
+
+Ambil sendiri di lokasi yang ditetapkan
+Tiada kos penghantaran
+Tersedia di kedai rakan kongsi dan penjual terpilih
+Ambil dalam tempoh 7 hari atau pesanan akan dipulangkan
+5.1.2 Kos Penghantaran
+Faktor yang mempengaruhi kos penghantaran:
+
+Lokasi (Semenanjung/Sabah/Sarawak)
+Berat dan dimensi pakej
+Kaedah penghantaran yang dipilih
+Promosi penghantaran percuma (biasanya untuk pembelian melebihi jumlah tertentu)
+Kadar biasa (tertakluk kepada perubahan):
+
+Penghantaran Standard (Semenanjung): RM5-RM15
+Penghantaran Standard (Sabah/Sarawak): RM10-RM30
+Penghantaran Express: Tambahan RM5-RM15 dari kadar standard
+Penghantaran Sama Hari: RM15-RM25
+5.1.3 Jangkaan Masa Penghantaran
+Jangkaan masa berdasarkan lokasi:
+
+Semenanjung Malaysia:
+
+Bandar utama: 2-3 hari bekerja
+Kawasan luar bandar: 3-5 hari bekerja
+Express: 1-2 hari bekerja
+Sabah & Sarawak:
+
+Bandar utama: 4-7 hari bekerja
+Kawasan luar bandar: 7-14 hari bekerja
+Express: 2-4 hari bekerja
+Faktor yang boleh mempengaruhi masa:
+
+Kesesakan pada musim perayaan
+Bencana alam atau gangguan perkhidmatan
+Ketersediaan stok (untuk produk pra-tempahan)
+Pemeriksaan kastam (untuk produk antarabangsa)
+5.2 Penjejakan dan Pengesanan
+5.2.1 Sistem Penjejakan
+TokoBintang menyediakan penjejakan komprehensif:
+
+Semua bungkusan mempunyai nombor penjejakan unik
+Penjejakan masa nyata oleh penghantar rakan kongsi
+Kemaskini lokasi dengan cap masa
+Notifikasi untuk perubahan status utama
+Anggaran masa ketibaan (ETA)
+5.2.2 Cara Mengesan Pesanan
+Untuk mengesan pesanan anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Pilih pesanan yang ingin dikesan
+Klik pada butang "Jejak"
+Lihat status terkini dan sejarah pergerakan pakej
+Anda juga boleh mengesan secara langsung di laman web kurier dengan:
+
+Menyalin nombor penjejakan dari halaman pesanan
+Melawat laman web kurier yang berkenaan
+Memasukkan nombor penjejakan di alat pengesanan mereka
+5.2.3 Notifikasi Penghantaran
+TokoBintang menyediakan pemberitahuan untuk:
+
+Pesanan sedang diproses
+Pakej dalam perjalanan
+Penghantaran dijadualkan untuk hari ini
+Kurier dalam perjalanan (anggaran masa ketibaan)
+Percubaan penghantaran tidak berjaya
+Penghantaran berjaya
+Pilihan pemberitahuan boleh dikonfigurasi di tetapan akaun anda.
+
+5.3 Penerimaan Pesanan
+5.3.1 Pemeriksaan Pakej
+Apabila menerima pesanan anda:
+
+Periksa keadaan luaran pakej untuk kerosakan
+Jika pakej rosak, ambil gambar sebelum membukanya
+Buka pakej dengan berhati-hati untuk mengekalkan pembungkusan
+Periksa jika semua item diterima dengan betul
+Periksa setiap item untuk kerosakan atau kecacatan
+Pastikan item yang diterima sepadan dengan yang dipesan (saiz, warna, model)
+5.3.2 Pengesahan Penerimaan
+TokoBintang memerlukan pengesahan penerimaan:
+
+Dalam aplikasi, tetapkan status pesanan ke "Diterima" selepas menerima
+Status akan bertukar secara automatik ke "Diterima" selepas 7 hari jika tiada tindakan
+Pesanan COD memerlukan bayaran semasa penerimaan (sediakan jumlah yang tepat atau melalui kaedah pembayaran elektronik jika disokong oleh kurier)
+5.3.3 Isu Penerimaan Pesanan
+Masalah biasa dan cara penyelesaiannya:
+
+Kurier tidak dapat menghubungi anda: Pastikan nombor telefon anda dikemas kini dan telefon bimbit anda boleh dihubungi
+Tiada orang di rumah: Tetapkan arahan alternatif di bahagian nota pesanan (jiran, pengawal keselamatan)
+Pakej salah atau tidak lengkap: Hubungi khidmat pelanggan segera dengan bukti foto
+Pakej rosak: Ambil gambar dan failkan laporan kerosakan semasa penghantaran dalam masa 24 jam
+Penghantaran ke alamat salah: Semak butiran alamat dalam pesanan dan hubungi khidmat pelanggan
+5.4 Penjejakan Pelbagai Pesanan
+5.4.1 Panel Pengurusan Pesanan
+Untuk pesanan dengan pelbagai penjual:
+
+Setiap pakej akan dihantar secara berasingan
+Panel "Pesanan Saya" menunjukkan semua pesanan tertunggak
+Setiap pesanan akan mempunyai nombor pesanan unik
+Sistem penapis membolehkan anda melihat pesanan mengikut status
+5.4.2 Penghantaran Separa
+Dalam sesetengah kes:
+
+Sebahagian pesanan anda mungkin dihantar lebih awal
+Pesanan dari penjual yang sama mungkin dibahagikan jika stok datang pada masa berbeza
+Anda akan menerima pemberitahuan untuk setiap penghantaran separa
+Setiap bahagian yang dihantar akan mempunyai nombor penjejakan tersendiri
+5.4.3 Menggabungkan Penghantaran
+Untuk mengurangkan kos penghantaran:
+
+TokoBintang menawarkan opsyen "Gabungkan Penghantaran" untuk beberapa penjual terpilih
+Opsyen ini membolehkan item dari pelbagai penjual di lokasi yang sama digabungkan dalam satu bungkusan
+Menjimatkan kos penghantaran dan mengurangkan jejak karbon
+Dikenakan sedikit bayaran perkhidmatan tetapi lebih murah daripada penghantaran berasingan
+Pilih opsyen ini semasa checkout jika tersedia
+6. Pemulangan dan Bayaran Balik
+6.1 Polisi Pemulangan
+6.1.1 Tempoh Pemulangan Standard
+Polisi pemulangan umum TokoBintang:
+
+Tempoh pemulangan standard: 7 hari dari tarikh penerimaan
+TokoMall Official (kedai rasmi): 14 hari dari tarikh penerimaan
+Produk Antarabangsa: 10 hari dari tarikh penerimaan
+Produk Digital: Tiada pemulangan selepas dimuat turun atau diaktifkan
+Baucar dan Kad Hadiah: Tidak boleh dipulangkan melainkan jika tidak sah
+6.1.2 Kelayakan Pemulangan
+Item layak untuk pemulangan jika:
+
+Dalam tempoh pemulangan yang dibenarkan
+Dalam keadaan asal dan belum digunakan
+Dengan tag dan pembungkusan asal
+Dilengkapi dengan semua aksesori dan hadiah percuma
+Mempunyai resit atau bukti pembelian
+Item TIDAK layak untuk pemulangan jika:
+
+Dipulangkan melebihi tempoh pemulangan
+Dipakai, digunakan atau rosak (kecuali kecacatan kilang)
+Pembungkusan asal hilang atau rosak
+Produk ditandakan sebagai "Tidak Boleh Dipulangkan" dalam deskripsi produk
+Produk peribadi (pakaian dalam, kosmetik yang dibuka, telinga fon in-ear yang dibuka)
+Makanan dan barang mudah rosak
+Perisian dan kandungan digital yang telah diaktifkan
+6.1.3 Sebab Pemulangan yang Diterima
+TokoBintang menerima pemulangan untuk sebab berikut:
+
+Produk rosak atau tidak berfungsi (bukti diperlukan)
+Produk tidak sepadan dengan deskripsi di laman web
+Produk salah dihantar (berbeza dari pesanan)
+Produk tidak asli (untuk produk yang dijamin asli)
+Produk sampai dalam keadaan rosak akibat penghantaran
+Produk tidak sesuai (untuk barangan fesyen, saiz salah)
+6.1.4 Polisi Pemulangan Khas
+Beberapa kategori produk mempunyai polisi pemulangan khusus:
+
+Barangan elektronik: Mesti dalam keadaan asal dengan semua aksesori dan dalam kotak yang tidak rosak
+Telefon bimbit: Mesti belum diaktifkan dan pelindung skrin belum dibuang
+Perkakas besar: Mesti tidak dipasang atau jika dipasang, tidak digunakan
+Barangan musim: Tempoh pemulangan mungkin lebih pendek (3-5 hari)
+Item jualan: Mungkin tiada pemulangan kecuali rosak atau tidak sepadan dengan deskripsi
+6.2 Proses Pemulangan
+6.2.1 Memulakan Pemulangan
+Untuk memulakan pemulangan:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Pilih pesanan yang ingin dipulangkan
+Klik pada "Pemulangan/Bayaran Balik"
+Pilih item yang ingin dipulangkan (jika pesanan berbilang item)
+Pilih sebab pemulangan dari senarai
+Muat naik foto bukti jika berkenaan (cth: item rosak)
+Pilih jenis penyelesaian yang dikehendaki (bayaran balik atau penukaran)
+Klik "Hantar Permintaan"
+6.2.2 Kaedah Pemulangan
+TokoBintang menawarkan dua kaedah pemulangan:
+
+Penghantaran Pulang:
+
+Cara paling biasa untuk pemulangan
+Cetak label pemulangan dari portal TokoBintang
+Pek semula item dengan selamat dalam pembungkusan yang sesuai
+Tampal label pada bungkusan
+Hantar ke cawangan kurier terdekat ATAU
+Jadualkan pengambilan dari rumah (bayaran tambahan mungkin dikenakan)
+Jatuhkan di Pusat Pemulangan:
+
+Tersedia di lokasi terpilih di bandar-bandar utama
+Tiada perlu mencetak label
+Bawa item dan kod QR pemulangan
+Petugas akan memeriksa dan menerima pemulangan
+Bukti penerimaan segera
+6.2.3 Kos Pemulangan
+Siapa yang menanggung kos pemulangan:
+
+Produk rosak/salah/tidak sepadan dengan deskripsi: Kos ditanggung oleh penjual
+Tidak suka/salah saiz/ubah fikiran: Kos ditanggung oleh pembeli
+Kedai TokoMall: Sebilangan besar menawarkan pemulangan percuma tanpa mengira sebab
+Produk antarabangsa: Kos pemulangan lebih tinggi, sila semak polisi khusus penjual
+Kos biasa: RM5-RM15 untuk Semenanjung, RM10-RM30 untuk Sabah & Sarawak
+
+6.2.4 Pengesanan Pemulangan
+Pemulangan boleh dikesan seperti penghantaran biasa:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya > Pemulangan"
+Pilih pemulangan yang ingin dikesan
+Klik pada "Kesan" untuk melihat status terkini
+Status pemulangan biasa termasuk:
+Menunggu Drop-off
+Dikutip oleh Kurier
+Dalam Transit
+Diterima oleh Penjual
+Disahkan oleh Penjual
+Pemulangan Selesai
+6.3 Bayaran Balik
+6.3.1 Kaedah Bayaran Balik
+Bayaran balik diproses mengikut kaedah pembayaran asal:
+
+Kad Kredit/Debit: Bayaran balik ke kad yang sama
+Perbankan Internet: Bayaran balik ke akaun bank yang sama
+E-Wallet: Bayaran balik ke akaun e-wallet yang sama
+TokoBintang Pay: Bayaran balik ke baki TokoBintang Pay
+Bayar di Kedai/COD: Bayaran balik ke TokoBintang Pay atau ke akaun bank pilihan (perlu mendaftar)
+6.3.2 Masa Pemprosesan Bayaran Balik
+Jangka masa pemprosesan bayaran balik:
+
+Pengesahan penjual: 2-3 hari selepas menerima item pemulangan
+Pemprosesan TokoBintang: 1-2 hari selepas pengesahan penjual
+Masa pemprosesan institusi kewangan:
+Kad Kredit/Debit: 7-14 hari bekerja
+Perbankan Internet: 5-10 hari bekerja
+E-Wallet: 3-7 hari bekerja
+TokoBintang Pay: 1-3 hari bekerja
+Total masa bayaran balik boleh mengambil 10-21 hari bergantung kepada kaedah pembayaran.
+
+6.3.3 Status Bayaran Balik
+Semak status bayaran balik anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya > Bayaran Balik"
+Lihat semua permintaan bayaran balik dan statusnya
+Status bayaran balik termasuk:
+Permintaan Diterima
+Pemulangan Dalam Transit
+Pemulangan Disahkan
+Bayaran Balik Diproses
+Bayaran Balik Selesai
+Bayaran Balik Ditolak (dengan sebab)
+6.3.4 Bayaran Balik Separa
+Kes-kes bayaran balik separa:
+
+Hanya sebahagian item dalam pesanan dipulangkan
+Sebahagian item tidak layak untuk pemulangan
+Pengembalian kredit penghantaran (berdasarkan polisi penjual)
+Diskaun baucar tetap dikekalkan melainkan nilai pesanan selepas pemulangan tidak memenuhi syarat minimum
+Pengiraan:
+
+Harga item + Penghantaran berkaitan (jika berkenaan) - Diskaun berkaitan
+6.4 Penukaran Produk
+6.4.1 Polisi Penukaran
+Syarat untuk penukaran produk:
+
+Mesti dalam tempoh pemulangan yang dibenarkan
+Produk dalam keadaan asal dan belum digunakan
+Penukaran biasanya hanya untuk saiz/warna/variasi berbeza dari produk yang sama
+Penukaran dengan produk berbeza biasanya tidak dibenarkan (perlu dipulangkan dan membeli semula)
+Penjual mesti menawarkan perkhidmatan penukaran
+6.4.2 Proses Penukaran
+Untuk meminta penukaran:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Pilih pesanan yang ingin ditukar
+Klik pada "Pemulangan/Bayaran Balik"
+Pilih item untuk ditukar
+Pilih "Tukar" sebagai pilihan penyelesaian
+Nyatakan variasi yang diinginkan (saiz/warna)
+Hantar permintaan dan tunggu pengesahan penjual
+Setelah disahkan, pulangkan item mengikut arahan
+Item pengganti akan dihantar setelah item asal diterima oleh penjual
+6.4.3 Kos Penukaran
+Kos terlibat dalam proses penukaran:
+
+Penukaran disebabkan kecacatan produk/ralat penjual: Tiada kos
+Penukaran disebabkan pilihan pembeli (salah saiz/warna): Pembeli menanggung kos pemulangan dan penghantaran item baharu
+Perbezaan harga: Jika item pengganti lebih mahal, perbezaan perlu dibayar. Jika lebih murah, perbezaan akan dikembalikan
+7. Program Kesetiaan dan Ganjaran
+7.1 TokoBintang Rewards
+7.1.1 Cara Kerja Program
+TokoBintang Rewards adalah program kesetiaan percuma:
+
+Secara automatik tersedia untuk semua pengguna berdaftar
+Memperoleh mata dalam pelbagai aktiviti di platform
+Mata boleh ditukar dengan baucar dan diskaun
+Tahap keahlian berdasarkan aktiviti dan perbelanjaan
+7.1.2 Perolehan Mata
+Kaedah memperoleh mata TokoBintang:
+
+Pembelian: 1 mata untuk setiap RM1 dibelanjakan
+Ulasan: 5-20 mata untuk setiap ulasan produk dengan foto
+Masuk Harian: 2 mata untuk log masuk harian
+Perkongsian Sosial: 5 mata untuk berkongsi pembelian di media sosial
+Promosi Mata Berganda: Semasa acara khas dan promosi
+Mata sah selama 12 bulan dari tarikh perolehan.
+
+7.1.3 Penebusan Mata
+Cara menebus mata anda:
+
+Log masuk ke aplikasi atau laman web TokoBintang
+Pergi ke "TokoBintang Rewards" dalam profil anda
+Klik pada "Katalog Penebusan"
+Pilih ganjaran yang dikehendaki:
+Baucar platform (RM5, RM10, RM15, RM30)
+Diskaun khusus kategori
+Baucar penghantaran percuma
+Tawaran eksklusif rakan kongsi
+Klik "Tebus" dan ikuti arahan
+Contoh nilai penebusan:
+
+500 mata = Baucar RM5
+900 mata = Baucar RM10
+1,300 mata = Baucar penghantaran percuma
+7.1.4 Tahap Keahlian
+Hierarki program kesetiaan:
+
+Classic: Tahap permulaan (0-1,499 mata terkumpul)
+Silver: Perbelanjaan menengah (1,500-4,999 mata terkumpul)
+Gold: Pelanggan kerap (5,000-9,999 mata terkumpul)
+Platinum: Pelanggan VIP (10,000+ mata terkumpul)
+Faedah mengikut tahap:
+
+Classic: Kadar mata standard
+Silver: +5% kadar mata, baucar ulang tahun RM10
+Gold: +10% kadar mata, baucar ulang tahun RM20, akses awal ke jualan
+Platinum: +15% kadar mata, baucar ulang tahun RM50, penghantaran percuma bulanan, perkhidmatan pelanggan VIP
+7.2 TokoCoins
+7.2.1 Perbezaan Mata dan TokoCoins
+Perbezaan utama:
+
+Mata: Program kesetiaan jangka panjang, terkumpul dari pelbagai aktiviti
+TokoCoins: Mata wang dalam platform, biasanya diberikan dalam promosi, permainan, dan aktiviti khusus
+Penggunaan: TokoCoins boleh digunakan semasa checkout seperti wang tunai (1 TokoCoin = RM0.01)
+Tempoh sah: TokoCoins biasanya mempunyai tempoh sah lebih pendek (30-90 hari)
+7.2.2 Memperoleh TokoCoins
+Cara mendapatkan TokoCoins:
+
+Menyertai permainan harian dalam aplikasi
+Menyelesaikan cabaran platform (senarai semak aktiviti)
+Promosi khusus (seperti Shake & Win)
+Sebagai pampasan untuk isu perkhidmatan
+Program rujukan ("Refer-a-Friend")
+Hadiah pendaftaran baharu
+Dari kedai yang terlibat dalam promosi TokoCoins
+7.2.3 Menggunakan TokoCoins
+Cara menggunakan TokoCoins:
+
+Tambah produk ke troli anda
+Semasa checkout, di halaman pembayaran
+Klik pada "Gunakan TokoCoins"
+Pilih jumlah yang ingin digunakan (minimum 100 TokoCoins)
+Diskaun akan ditunjukkan dalam jumlah akhir
+Peraturan penggunaan:
+
+Minimum 100 TokoCoins untuk penebusan
+Maksimum 1,000 TokoCoins setiap transaksi
+Boleh digunakan bersama baucar platform
+Tidak boleh digabungkan dengan baucar penjual
+Tidak boleh ditukar kepada wang tunai
+7.3 Baucar dan Promosi
+7.3.1 Jenis Baucar
+TokoBintang menawarkan pelbagai jenis baucar:
+
+Baucar Platform: Dikeluarkan oleh TokoBintang, boleh digunakan di mana-mana kedai
+Baucar Penjual: Dikeluarkan oleh penjual tertentu, hanya boleh digunakan di kedai mereka
+Baucar Kategori: Hanya boleh digunakan untuk kategori produk tertentu
+Baucar Penghantaran: Diskaun atau penghantaran percuma
+Baucar Pembayaran: Diskaun tambahan untuk kaedah pembayaran tertentu
+Baucar Pengguna Baharu: Eksklusif untuk pengguna baharu (akaun < 30 hari)
+7.3.2 Mendapatkan Baucar
+Cara mendapatkan baucar:
+
+Pusat Baucar: Klik pada "Baucar" dalam aplikasi/laman web
+Tuntutan Harian: Baucar yang boleh dituntut setiap hari
+Menebus Mata: Tukar mata kesetiaan dengan baucar
+Flash Deals: Baucar nilai tinggi dengan kuantiti terhad
+Program Rujukan: Kongsi kod rujukan dengan rakan
+Pendaftaran: Baucar selamat datang untuk akaun baharu
+Hari Ulang Tahun: Baucar khas pada hari ulang tahun anda
+7.3.3 Syarat Penggunaan Baucar
+Peraturan umum untuk baucar:
+
+Setiap baucar mempunyai tarikh luput
+Kebanyakan baucar memerlukan minimum jumlah pembelian
+Sesetengah baucar tidak boleh digabungkan dengan baucar lain
+Baucar mungkin dikecualikan untuk produk/kategori tertentu
+Baucar platform dan baucar penjual biasanya tidak boleh digabungkan
+Baucar hanya boleh digunakan sekali sahaja
+Baucar yang tidak digunakan tidak boleh digunakan selepas tamat tempoh
+7.3.4 Menguruskan Baucar
+Untuk menguruskan baucar anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Baucar Saya" di bawah profil
+Lihat semua baucar tersedia, baucar yang digunakan, dan baucar tamat tempoh
+Semak syarat penggunaan dan tarikh luput
+Gunakan penapis untuk melihat jenis baucar tertentu
+Tetapkan peringatan untuk baucar yang hampir tamat tempoh
+7.4 Promosi dan Acara Khas
+7.4.1 Jualan Bermusim
+TokoBintang mengadakan jualan bermusim sepanjang tahun:
+
+11.11 (Singles' Day): 11 November, jualan terbesar tahun ini
+12.12: 12 Disember, jualan akhir tahun
+CNY Mega Sale: Jualan sempena Tahun Baharu Cina (Jan/Feb)
+Raya Sale: Jualan Ramadan dan Aidilfitri (Mac/April)
+Merdeka Sale: Jualan Hari Kebangsaan (Ogos)
+9.9: 9 September, jualan pertengahan tahun
+10.10: 10 Oktober, jualan persediaan akhir tahun
+Black Friday & Cyber Monday: Jualan November akhir
+7.4.2 Promosi Harian dan Mingguan
+Promosi berterusan sepanjang tahun:
+
+Flash Sale: Diskaun dalam tempoh masa terhad (beberapa jam sahaja)
+Deals of the Day: Tawaran istimewa yang berubah setiap hari
+Brand Takeover: Promosi jenama tunggal dengan diskaun besar
+Weekend Specials: Promosi khas untuk hujung minggu
+Payday Deals: Promosi pada minggu akhir bulan
+Shocking Sales: Diskaun mendalam pada waktu tertentu
+7.4.3 Program Rujukan
+Kongsikan TokoBintang, dapatkan ganjaran:
+
+Cara Kerja: Kongsi kod rujukan unik anda dengan rakan
+Ganjaran Perujuk: Terima 500 TokoCoins untuk setiap rujukan berjaya
+Ganjaran Dirujuk: Rakan baharu mendapat baucar RM15 (minimum pembelian RM50)
+Pengaktifan: Rakan perlu mendaftar akaun baharu dan membuat pembelian pertama
+Had: Maksimum 20 rujukan berjaya sebulan
+7.4.4 Tawaran Eksklusif Aplikasi
+Promosi khas hanya tersedia di aplikasi mudah alih:
+
+Daftar Masuk Harian: Ganjaran untuk log masuk berturut-turut
+Game Zone: Permainan interaktif dengan hadiah TokoCoins
+Shake & Win: Goncang telefon untuk hadiah rawak
+Scratch Cards: Kad gores digital untuk mendapatkan baucar
+App-Only Flash Deals: Tawaran kilat eksklusif aplikasi
+Push Notifications: Promosi peribadi berdasarkan gelagat membeli-belah anda
+8. Polisi Pengurusan Kualiti dan Perlindungan Pembeli
+8.1 Jaminan Keaslian
+8.1.1 Program Pengesahan Produk
+TokoBintang komited terhadap keaslian produk:
+
+TokoBintang Authenticity Guarantee: Program saringan untuk produk berjenama
+Kedai Rasmi: Kerjasama langsung dengan jenama untuk menjamin keaslian
+Logo Jaminan: Produk yang disahkan ditanda dengan "100% Authentic Guaranteed"
+Pemeriksaan Rawak: Audit produk penjual secara berkala
+8.1.2 Kategori Dilindungi
+Kategori dengan perlindungan keaslian tertinggi:
+
+Fesyen Mewah: Beg tangan, pakaian, kasut berjenama mewah
+Jam Tangan: Jenama premium dan mewah
+Kosmetik: Jenama antarabangsa dan tempatan popular
+Elektronik: Telefon pintar, komputer riba, dan gadget
+Barangan Bayi: Formula bayi, kerusi kereta, dan produk penjagaan
+Supplement Kesihatan: Vitamin dan supplement berjenama
+8.1.3 Proses Pengesahan
+Bagaimana TokoBintang mengesahkan produk:
+
+Pemeriksaan Dokumen: Penjual perlu mengemukakan bukti sumber dan invois dari pengedar sah
+Pemeriksaan Fizikal: Sampel produk diperiksa untuk ciri-ciri keaslian
+Teknologi Pengesahan: Kod QR, hologram, dan ciri keselamatan lain
+Pengesahan Jenama: Kerjasama dengan jenama untuk pengesahan
+Maklum Balas Pengguna: Laporan dan ulasan pengguna mengenai isu keaslian
+8.1.4 Melaporkan Produk Palsu
+Jika anda mengesyaki produk palsu:
+
+Kenal pasti ciri-ciri yang mencurigakan
+Ambil gambar terperinci
+Log masuk ke akaun TokoBintang anda
+Pergi ke pesanan berkenaan
+Pilih "Laporkan Isu" atau "Hubungi Sokongan"
+Pilih "Isu Keaslian" dari menu jenis masalah
+Muat naik gambar dan berikan penerangan
+Pasukan TokoBintang akan menyiasat dan bertindak dalam masa 48 jam
+8.2 Polisi Privasi dan Keselamatan
+8.2.1 Pengumpulan Data
+Maklumat yang dikumpulkan TokoBintang:
+
+Maklumat Peribadi: Nama, alamat e-mel, nombor telefon, alamat
+Maklumat Pembayaran: Butiran kad (disimpan secara selamat oleh pemproses pembayaran)
+Data Gelagat: Sejarah pelayaran, produk yang dilihat, pesanan, carian
+Data Peranti: Jenis peranti, alamat IP, data lokasi
+Data Komunikasi: Interaksi dengan khidmat pelanggan, komen, dan ulasan
+8.2.2 Penggunaan Data
+Bagaimana TokoBintang menggunakan data:
+
+Pemprosesan Pesanan: Untuk memproses dan menghantar pesanan
+Pengesahan Identiti: Untuk mengesahkan identiti pengguna dan mencegah penipuan
+Pemasaran: Untuk komunikasi promosi dan tawaran yang diperibadikan
+Penambahbaikan Perkhidmatan: Untuk menganalisis dan meningkatkan pengalaman pengguna
+Pematuhan Undang-undang: Untuk mematuhi kewajipan undang-undang dan peraturan
+8.2.3 Keselamatan Data
+Langkah-langkah untuk melindungi data:
+
+Penyulitan SSL: Untuk semua transaksi dan pemindahan data
+Piawaian PCI-DSS: Untuk pengendalian data pembayaran
+Perlindungan Firewall: Untuk mengurangkan risiko pelanggaran keselamatan
+Akses Terkawal: Hanya kakitangan yang diberi kuasa boleh mengakses data
+Pemantauan Penipuan: Sistem automatik untuk mengesan aktiviti mencurigakan
+Sandaran Berkala: Untuk memastikan kesinambungan perkhidmatan
+8.2.4 Hak Privasi Pengguna
+Anda mempunyai hak terhadap data anda:
+
+Hak Akses: Meminta salinan data peribadi anda
+Hak Pembetulan: Membetulkan maklumat yang tidak tepat
+Hak Pemadaman: Meminta pemadaman data dalam keadaan tertentu
+Hak Membantah: Membantah pemprosesan data anda
+Hak Pindahan: Meminta pemindahan data anda ke perkhidmatan lain
+Pengawalan Pemasaran: Memilih keluar dari komunikasi pemasaran
+Untuk menggunakan hak-hak ini, hubungi privacy@tokobintang.com.my
+
+8.3 Perlindungan Pembeli TokoBintang
+8.3.1 Jaminan 100%
+Program perlindungan pembeli:
+
+Jaminan Bayaran Balik: Jika produk tidak sampai atau berbeza dari deskripsi
+Jaminan Keaslian: Jaminan 100% bayaran balik untuk produk palsu
+Perlindungan Pesanan: Dari masa tempahan hingga pengesahan penerimaan
+Sokongan Pertikaian: Arbitrasi bebas untuk pertikaian pembeli-penjual
+8.3.2 Kelayakan Perlindungan
+Syarat untuk perlindungan pembeli:
+
+Pesanan dibuat melalui platform TokoBintang
+Pembayaran dibuat melalui kaedah pembayaran TokoBintang yang diluluskan
+Permintaan perlindungan dibuat dalam tempoh yang ditetapkan
+Bukti mencukupi disediakan untuk menyokong tuntutan
+Perlindungan tidak terpakai untuk transaksi di luar platform
+8.3.3 Proses Tuntutan
+Cara membuat tuntutan perlindungan:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Pilih pesanan bermasalah
+Klik "Bantuan Pesanan" atau "Laporkan Masalah"
+Pilih jenis masalah dari menu
+Berikan perincian dan muat naik bukti (gambar, video)
+Kirim tuntutan
+TokoBintang akan menyiasat dan memberi maklum balas dalam masa 48 jam
+8.3.4 Resolusi Pertikaian
+Proses penyelesaian apabila timbul masalah:
+
+Resolusi Langsung: Penjual dan pembeli digalakkan menyelesaikan masalah dahulu
+Mediasi TokoBintang: Pasukan penyelesaian pertikaian akan campur tangan jika perlu
+Penentuan Bukti: Keputusan berdasarkan bukti yang dikemukakan
+Tempoh Resolusi: Kebanyakan kes diselesaikan dalam 3-7 hari
+Bayaran Balik Automatik: Dalam kes-kes tertentu (item tidak dihantar, dll.)
+8.4 Penilaian dan Ulasan
+8.4.1 Sistem Penarafan
+Cara TokoBintang menilai penjual dan produk:
+
+Penarafan Bintang: Skala 1-5 bintang untuk produk dan penjual
+Metrik Penjual: Kadar tindak balas, masa pemprosesan, kadar pemulangan
+Metrik Produk: Kualiti, nilai wang, ketepatan deskripsi
+Ulasan Terperinci: Komen bertulis dan gambar dari pengguna
+Ulasan Terverifikasi: Ditanda sebagai pembeli yang disahkan
+8.4.2 Menulis Ulasan
+Panduan untuk menulis ulasan yang berguna:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Pesanan Saya"
+Cari produk dan klik "Beri Ulasan"
+Berikan penarafan bintang 1-5
+Tulis ulasan jujur ​​dan objektif (minimum 20 aksara)
+Muat naik foto produk sebenar (sangat disyorkan)
+Klik "Hantar"
+Amalan Terbaik:
+
+Fokus pada kualiti produk, bukan perkhidmatan penghantaran
+Berikan perincian khusus tentang produk
+Kongsi pengalaman penggunaan sebenar
+Senaraikan pro dan kontra
+Bersikap adil dan objektif
+8.4.3 Garis Panduan Ulasan
+Peraturan TokoBintang untuk ulasan:
+
+Ulasan mesti berkaitan dengan produk atau perkhidmatan
+Tiada bahasa kesat, ancaman, atau kandungan yang menyinggung
+Tiada maklumat peribadi (nombor telefon, alamat e-mel)
+Tiada promosi atau pautan ke laman web lain
+Tiada tuduhan tanpa bukti
+Tiada spam atau ulasan berulang
+Ulasan mesti berdasarkan pengalaman peribadi
+Ulasan yang melanggar garis panduan akan dipadam.
+
+8.4.4 Maklum Balas dan Resolusi
+Proses maklum balas untuk ulasan:
+
+Maklum Balas Penjual: Penjual boleh memberi maklum balas kepada ulasan
+Kemaskini Ulasan: Pengguna boleh mengemas kini ulasan dalam tempoh 30 hari
+Laporan Ulasan: Penjual dan pengguna lain boleh melaporkan ulasan yang tidak sesuai
+Sistem Mediasi: TokoBintang boleh campur tangan untuk ulasan yang dipertikaikan
+Resolusi Positif: Penjual yang menyelesaikan masalah boleh meminta pengemaskinian ulasan
+9. Menjual di TokoBintang
+9.1 Jenis Penjual dan Pendaftaran
+9.1.1 Jenis Akaun Penjual
+TokoBintang menawarkan beberapa jenis akaun penjual:
+
+Penjual Individu: Untuk individu yang menjual dalam skala kecil
+Penjual Perniagaan: Untuk perniagaan berdaftar dengan volum jualan lebih tinggi
+TokoMall Official: Untuk jenama dan pengedar rasmi
+TokoBintang Verified: Untuk penjual yang disahkan dengan rekod prestasi cemerlang
+Penjual Antarabangsa: Untuk penjual dari luar Malaysia (syarat tambahan dikenakan)
+9.1.2 Syarat dan Dokumen
+Keperluan untuk menjadi penjual:
+
+Individu:
+
+Umur 18 tahun ke atas
+MyKad atau pasport yang sah
+Akaun bank tempatan
+Alamat sah di Malaysia
+Nombor telefon yang aktif
+Perniagaan:
+
+Pendaftaran perniagaan (SSM)
+Nombor GST (jika berkenaan)
+Dokumen perniagaan
+Akaun bank perniagaan
+Alamat perniagaan sah
+TokoMall Official (tambahan):
+
+Sijil pengedaran/agensi rasmi
+Bukti hubungan dengan jenama
+Rekod jualan minimum
+9.1.3 Proses Pendaftaran
+Langkah-langkah mendaftar sebagai penjual:
+
+Layari www.tokobintang.com.my/sell
+Klik "Daftar Sebagai Penjual"
+Masukkan e-mel dan kata laluan
+Pilih jenis akaun penjual
+Isi maklumat yang diperlukan
+Muat naik dokumen yang diperlukan
+Tetapkan butiran pembayaran (akaun bank)
+Baca dan terima terma dan syarat
+Hantar permohonan
+Tunggu pengesahan (biasanya 1-3 hari bekerja)
+9.1.4 Yuran dan Caj
+Struktur yuran untuk penjual:
+
+Yuran Pendaftaran: Percuma untuk semua jenis akaun
+Komisen Jualan:
+Penjual Individu: 6-8% bergantung pada kategori
+Penjual Perniagaan: 5-7% bergantung pada kategori
+TokoMall Official: 3-5% bergantung pada kategori
+Yuran Sistem Pembayaran: 1.5-2% untuk transaksi kad kredit/debit
+Bayaran Pengeluaran: Percuma untuk akaun bank tempatan
+Yuran Langganan Bulanan:
+Penjual Individu: Tiada
+Penjual Perniagaan: RM39/bulan (termasuk iklan bulanan)
+TokoMall Official: RM99/bulan (termasuk pakej iklan premium)
+9.2 Mengurus Kedai dalam Talian
+9.2.1 Pusat Penjual
+Portal penjual menyediakan alat untuk:
+
+Dasbor: Gambaran keseluruhan prestasi, jualan, pesanan
+Pengurusan Pesanan: Lihat, proses, dan jejak pesanan
+Pengurusan Produk: Tambah, sunting, dan urus produk
+Pengurusan Inventori: Kemas kini stok dan pantau inventori
+Analitik: Laporan jualan, produk popular, metrik prestasi
+Pengurusan Promosi: Cipta dan urus promosi kedai
+Sokongan: Sistem tiket untuk bantuan
+Kewangan: Lihat pendapatan dan pembayaran
+9.2.2 Menambah Produk
+Langkah-langkah untuk menyenaraikan produk:
+
+Log masuk ke Pusat Penjual
+Pergi ke "Produk" > "Tambah Produk"
+Pilih kategori yang sesuai
+Isi maklumat produk:
+Nama produk (mengikut garis panduan SEO)
+Deskripsi terperinci
+Harga dan kuantiti
+Gambar berkualiti tinggi (minimum 3)
+Variasi (warna, saiz, dll.)
+Berat dan dimensi (untuk pengiraan penghantaran)
+Tetapkan opsyen penghantaran
+Klik "Simpan" atau "Terbitkan"
+9.2.3 Pengoptimuman Penyenaraian
+Teknik untuk meningkatkan keterlihatan:
+
+Pengoptimuman Tajuk: Masukkan kata kunci yang berkaitan dan spesifik
+Deskripsi Kaya: Penerangan terperinci dengan format, peluru, dan spesifikasi
+Fotografi Berkualiti: Minimum 5 gambar dengan latar belakang putih, berbilang sudut
+Video Produk: Tunjukkan produk dalam aksi untuk kadar klik lebih tinggi
+Kata Kunci Berkaitan: Tambah dalam deskripsi dan atribut produk
+Struktur Varian: Susun varian dengan jelas (warna, saiz, model)
+Harga Kompetitif: Pantau dan sesuaikan harga berdasarkan pasaran
+Promosi Tetap: Tawar diskaun atau pek nilai untuk menonjol
+9.2.4 Pengurusan Inventori
+Alat untuk mengekalkan ketepatan inventori:
+
+Kemaskini Stok: Kemaskini kuantiti secara manual atau melalui API
+Amaran Stok Rendah: Tetapkan paras amaran untuk notifikasi
+Atribut Variasi: Urus stok untuk setiap kombinasi varian
+Blok Stok: Sementara tidak aktifkan produk tanpa menghapusnya
+Mod Pra-tempahan: Benarkan pesanan melebihi stok semasa
+Laporan Inventori: Pantau prestasi dan ramalan keperluan
+Integrasi Gudang: Hubungkan dengan perisian pengurusan inventori
+9.3 Pemprosesan Pesanan dan Penghantaran
+9.3.1 Aliran Pesanan
+Proses pemprosesan pesanan:
+
+Penerimaan Pesanan: Notifikasi pesanan baharu dalam portal penjual
+Pemprosesan: Penjual menerima dan menyahkan pesanan
+Pembungkusan: Penjual membungkus dan melabel produk
+Penghantaran: Penjual menghantar atau menyediakan produk untuk kutipan kurier
+Pengesanan: Penjual memuat naik nombor pengesanan
+Penghantaran: Kurier menghantar produk kepada pembeli
+Penyelesaian: Pesanan ditandakan sebagai selesai selepas pengesahan penerimaan
+Had Masa Kritikal:
+
+Pengesahan pesanan: 1 hari bekerja
+Penghantaran selepas pengesahan: 2 hari bekerja
+Kegagalan memenuhi had masa boleh menjejaskan penarafan penjual
+9.3.2 Opsyen Penghantaran Penjual
+Kaedah penghantaran tersedia:
+
+TokoBintang Logistics: Program logistik rasmi yang mengendalikan pengambilan dan penghantaran
+Rakan Logistik: Perjanjian khas dengan kurier (J&T, Pos Laju, dll.)
+Penghantaran Sendiri: Penjual mengendalikan penghantaran (biasanya untuk kawasan tempatan sahaja)
+Pilihan Pembeli: Membenarkan pembeli memilih perkhidmatan kurier yang disukai
+9.3.3 TokoBintang Logistics (TBL)
+Perkhidmatan logistik bersepadu:
+
+Pengambilan dari Penjual: TBL mengambil pakej dari lokasi penjual
+Penghantaran Serantau: Liputan ke seluruh Malaysia
+Pengesanan Bersepadu: Pengesanan automatik dikongsi dengan pembeli
+Insurans Penghantaran: Perlindungan untuk item bernilai tinggi
+Penyelesaian Pertikaian: Sokongan untuk masalah berkaitan logistik
+Pengeposan Automatik: Maklumat pengesanan diberikan secara automatik
+Kadar Diskaun: Kadar lebih rendah berbanding standard kurier
+9.3.4 Cetakan Label dan Penyediaan
+Garis panduan untuk penyediaan penghantaran:
+
+Cetakan Label: TokoBintang menyediakan label penghantaran yang boleh dicetak melalui portal penjual
+Pakej Selamat: Produk perlu dibungkus dengan selamat untuk mengelakkan kerosakan
+Pembungkusan Betul: Guna karton berkualiti, pelindung gelembung udara, penyendal untuk item mudah pecah
+Saiz dan Berat Tepat: Isi dimensi dan berat dengan tepat untuk mengelakkan caj tambahan
+COD Handling: Prosedur khas untuk penghantaran Bayar Semasa Penghantaran
+Item Larangan: Panduan mengenai item yang tidak boleh dihantar (cecair berbahaya, barang mudah bakar)
+9.4 Pengurusan Kewangan Penjual
+9.4.1 Struktur Pembayaran
+Cara penjual dibayar:
+
+Kitaran Pembayaran: Pembayaran berkala (setiap 7 atau 14 hari)
+Tempoh Pelepasan: 7 hari selepas pengesahan penerimaan pembeli
+Jumlah Pembayaran: Jumlah jualan tolak komisen dan yuran
+Lelompok Pembayaran: Semua jualan dalam kitaran digabungkan dalam satu pembayaran
+Akaun Bank: Pembayaran dibuat ke akaun bank yang ditetapkan semasa pendaftaran
+9.4.2 Pengurusan Pendapatan
+Alat untuk menguruskan kewangan:
+
+Laporan Jualan: Paparan terperinci jualan dan komisen
+Penyata Pendapatan: Pecahan bulanan pendapatan dan potongan
+Jangkaan Aliran Tunai: Ramalan pembayaran akan datang
+Rekod Pembayaran: Sejarah semua pembayaran lepas
+Invois Komisen: Invois cukai rasmi untuk komisen dikenakan
+Dashboard Kewangan: Gambaran keseluruhan prestasi kewangan
+Muat Turun Rekod: Eksport data kewangan untuk perakaunan
+9.4.3 Cukai dan Perakaunan
+Pertimbangan cukai untuk penjual:
+
+Invois Jualan: TokoBintang menyediakan templat invois yang mematuhi peraturan
+Laporan GST: Alat untuk menguruskan pelaporan GST (untuk penjual berdaftar GST)
+Pengiraan Cukai: Pemecahan jualan untuk tujuan pelaporan cukai
+Rekod Tahunan: Ringkasan tahunan untuk pengemukaan cukai
+Pertimbangan Perakaunan: Laporan yang disyorkan untuk disimpan untuk tujuan perakaunan
+Yuran Perkhidmatan: Penerangan terperinci mengenai semua yuran dan caj
+9.4.4 Resolusi Pertikaian Kewangan
+Proses untuk menyelesaikan pertikaian kewangan:
+
+Percanggahan Pembayaran: Proses untuk melaporkan ketidaksesuaian dalam pembayaran
+Semakan Komisen: Laluan untuk membantah pengiraan komisen
+Bayaran Tertunda: Penyelesaian untuk pembayaran tertunda
+Rayuan Denda: Proses untuk merayu penalti atau denda
+Sokongan Kewangan: Saluran khusus untuk menangani isu kewangan
+Rekonsiliasi Akaun: Prosedur untuk menyelaraskan ketidakseimbangan
+9.5 Promosi dan Pemasaran Kedai
+9.5.1 TokoBintang Ads
+Platform pengiklanan dalam talian:
+
+Iklan Pencarian: Tingkatkan keterlihatan dalam hasil carian
+Iklan Paparan: Banner dan iklan imej di seluruh platform
+Iklan Produk: Promosi produk tertentu dalam grid kategori
+Iklan Kedai: Promosi halaman kedai anda
+Iklan Carousel: Format iklan interaktif berbilang imej
+Sasaran: Opsyen penyasaran berdasarkan demografi, minat, gelagat
+Struktur kos:
+
+Model Pay-Per-Click (PPC): Bayar hanya apabila pengguna mengklik iklan
+Kos awal: Bermula dari RM10 sehari
+Bidaan: Sistem bidaan automatik untuk penempatan iklan
+9.5.2 Promosi Kedai
+Alat untuk menggalakkan jualan:
+
+Jualan Kilat Kedai: Promosi masa terhad untuk kedai anda
+Baucar Kedai: Cipta baucar khusus untuk pelanggan anda
+Harga Promosi: Tetapkan diskaun untuk tempoh masa tertentu
+Tawaran Pengikut: Promosi eksklusif untuk pengikut kedai
+Kupon Loyalti: Ganjaran untuk pelanggan berulang
+Beli 1 Percuma 1: Promosi nilai untuk meningkatkan penjualan
+Pakej Promosi: Tawaran khas untuk pembelian berbilang item
+9.5.3 Pemasaran Kedai
+Strategi untuk menarik pelanggan:
+
+Pengoptimuman Kedai: Susun dan reka halaman kedai anda untuk daya tarikan maksimum
+Pemasaran Kandungan: Berkongsi artikel, tutorial, dan panduan
+Program Pengikut: Galakkan pembeli untuk mengikuti kedai anda
+Pemberitahuan Push: Maklumat tentang produk baharu dan promosi
+Gambar dan Video: Suasana kedai dan video belakang tabir
+Jawapan kepada Pertanyaan: Responsif terhadap pertanyaan pembeli
+Kempen E-mel: Pemasaran e-mel untuk pelanggan terdahulu
+9.5.4 Mengambil Bahagian dalam Acara Platform
+Peluang untuk acara platform besar:
+
+11.11, 12.12 Sales: Jualan tahunan terbesar, perlu permohonan awal (2-3 bulan sebelum)
+Kempen Bermusim: Raya, CNY, Deepavali, Krismas, dll.
+Brand Festival: Promosi khusus jenama sepanjang minggu
+Jualan Kategori: Jualan fokus kategori (Elektronik, Fesyen, dll.)
+Deals & Rewards: Program diskaun dan ganjaran platform
+New User Campaigns: Promosi untuk pelanggan baharu
+Kempen Perayaan: Perayaan kebangsaan dan antarabangsa
+9.6 Metrik dan Prestasi Penjual
+9.6.1 Penarafan Penjual
+Sistem penarafan TokoBintang untuk penjual:
+
+Bintang Penjual: Penarafan 1-5 berdasarkan prestasi
+Kategori Prestasi: Platinum, Gold, Silver, Bronze
+Skor Prestasi: 0-100 berdasarkan metrik utama
+Kelayakan TokoBintang Verified: Status elit untuk penjual terbaik
+Penjual Pilihan: Kedudukan khusus untuk penjual berprestasi tinggi
+9.6.2 Metrik Utama
+Faktor yang mempengaruhi penarafan penjual:
+
+Kadar Tindak Balas: Masa respons kepada pertanyaan pembeli (sasaran: <12 jam)
+Masa Pemprosesan: Kelajuan pengesahan dan pemprosesan pesanan (sasaran: <24 jam)
+Kadar Penghantaran Tepat Masa: Pesanan dihantar dalam tempoh yang dijanjikan (sasaran: >95%)
+Kadar Pemulangan: Peratusan pesanan yang dipulangkan (sasaran: ❤️%)
+Kualiti Produk: Purata penarafan produk (sasaran: >4.5 bintang)
+Ulasan Positif: Peratusan ulasan 4-5 bintang (sasaran: >90%)
+Ketepatan Deskripsi: Kesesuaian produk berbanding deskripsi (dinilai melalui ulasan)
+9.6.3 Laporan Prestasi
+Alat untuk menganalisis prestasi kedai:
+
+Dasbor Prestasi: Paparan semua metrik utama
+Analitik Produk: Prestasi produk individu
+Laporan Jualan: Analisis jualan dan aliran
+Analitik Kedai: Metrik pelawat dan kadar penukaran
+Rekod Ulasan: Analisis sentimen pelanggan
+Laporan Perbandingan: Prestasi berbanding purata kategori
+Analisis Trend: Perubahan prestasi dari masa ke masa
+9.6.4 Penambahbaikan Berterusan
+Strategi untuk meningkatkan penarafan:
+
+Program Mentor: Bimbingan dari penjual berprestasi tinggi
+Maklum Balas Pembeli: Analisis dan bertindak berdasarkan maklum balas
+Pemantauan Pembatalan: Kurangkan kadar pembatalan dengan penjelasan produk yang lebih baik
+Kualiti Gambar: Tingkatkan gambar produk untuk mengurangkan jurang jangkaan
+Deskripsi Terperinci: Dokumentasi produk yang tepat dan komprehensif
+Penghantaran Dipertingkatkan: Pilihan kurier yang lebih baik dan pembungkusan lebih selamat
+Perkhidmatan Pelanggan: Tingkatkan masa respons dan kualiti interaksi
+10. Ciri dan Tip Lanjutan untuk Pengguna
+10.1 Ciri Aplikasi Eksklusif
+10.1.1 TokoBintang Live
+Platform penstriman langsung dalam aplikasi:
+
+Penstriman Penjual: Tonton demonstrasi produk langsung
+Interaksi Masa Nyata: Bertanya soalan dan dapatkan balasan langsung
+Pembelian Satu Klik: Beli produk yang dipamerkan terus dari penstriman
+Tawaran Eksklusif: Akses tawaran khas hanya tersedia semasa penstriman
+Isyarat Peringatan: Dapatkan pemberitahuan apabila kedai atau jenama kegemaran anda memulakan penstriman
+Jadual: Lihat kalendar penstriman akan datang
+Cara melihat dan berinteraksi:
+
+Buka aplikasi TokoBintang
+Tap pada tab "Live" di bahagian bawah
+Telusuri penstriman langsung atau akan datang
+Tap untuk menonton
+Berinteraksi melalui komen, suka, dan perkongsian
+Ketik produk yang dipaparkan untuk membeli atau menyimpan
+10.1.2 TokoBintang Games
+Permainan dalam aplikasi untuk ganjaran:
+
+Daftar Masuk Harian: Dapatkan TokoCoins untuk daftar masuk berturut-turut
+Permainan Tugasan: Selesaikan tugasan untuk ganjaran
+Shake & Win: Goncang telefon untuk hadiah rawak
+Scratch Cards: Kad gores digital untuk hadiah
+Spin the Wheel: Putar roda untuk hadiah dan baucar
+Flip & Match: Permainan memori untuk ganjaran
+Turnamen Bulanan: Saingan dengan pengguna lain untuk hadiah lebih besar
+Cara bermain dan menebus:
+
+Buka aplikasi TokoBintang
+Tap pada ikon "Games" di bar navigasi
+Pilih permainan
+Ikuti arahan permainan
+Kumpul TokoCoins dan hadiah
+Tebus di "Hadiah Saya" untuk baucar dan diskaun
+10.1.3 TokoBintang Feed
+Penemuan produk dan kandungan sosial:
+
+Cadangan Peribadi: Produk disesuaikan berdasarkan gelagat anda
+Kandungan Pengguna: Ulasan bergambar dan video dari pengguna lain
+Artikel Tren: Panduan dan artikel tentang tren semasa
+Koleksi Bertemakan: Senarai kurasi untuk peristiwa dan keperluan tertentu
+Pujukan Influencer: Cadangan dari influencer dan pakar
+Cerita Produk: Lihat cerita di sebalik produk dan jenama
+Cara menyesuaikan suapan anda:
+
+Buka aplikasi TokoBintang
+Tap pada tab "Feed"
+Tatal melalui kandungan yang dicadangkan
+Tekan "Suka" pada item untuk melihat lebih banyak seumpamanya
+Tap "X" pada item untuk melihat lebih sedikit seumpamanya
+Ikuti kategori, penjual, atau pencipta kandungan untuk kemas kini teratur
+10.1.4 TokoBintang Wallet
+Dompet digital bersepadu dalam aplikasi:
+
+Pengisian Semula: Tambah dana melalui pelbagai kaedah
+Pembayaran Segera: Bayar pesanan dengan satu ketukan
+Kembalian Automatik: Simpan kembalian dari COD secara automatik
+Pembayaran Bil: Bayar bil dan tambah nilai di dalam aplikasi
+Pembayaran Kod QR: Imbas untuk membayar di kedai rakan kongsi
+Pemindahan P2P: Hantar wang kepada pengguna TokoBintang lain
+Keselamatan Biometrik: Keselamatan cap jari/wajah tambahan
+Cara mengurus dompet anda:
+
+Buka aplikasi TokoBintang
+Tap pada ikon "Dompet" di profil anda
+Lihat baki semasa
+Pilih "Tambah Nilai" untuk menambah dana
+Pilih "Transaksi" untuk melihat sejarah
+Pilih "Pengeluaran" untuk memindahkan ke akaun bank
+Tap "Setel" untuk pembayaran bil dan utiliti
+10.2 Ciri Penemuan dan Sosial
+10.2.1 Perkongsian Sosial
+Integrasi rangkaian sosial:
+
+Perkongsian Produk: Kongsikan produk terus ke WhatsApp, Facebook, Instagram
+Perkongsian Senarai Keinginan: Kongsikan senarai keinginan dengan rakan
+Perkongsian Ulasan: Kongsikan ulasan anda di media sosial
+Perkongsian Troli: Kongsikan troli anda untuk mendapatkan pendapat
+Pautan Rujukan: Kongsikan kod rujukan untuk kedua-dua pihak mendapat ganjaran
+Ulasan Sosial: Lihat ulasan dari rakan di rangkaian anda
+Perkongsian Koleksi: Cipta dan kongsi koleksi produk bertemakan
+Cara menggunakan ciri sosial:
+
+Temui produk atau halaman yang ingin dikongsi
+Ketik butang "Kongsi" (ikon 3 titik disambungkan)
+Pilih platform untuk dikongsi (WhatsApp, Facebook, dll.)
+Tambah mesej peribadi (pilihan)
+Hantar ke penerima anda
+10.2.2 Pemberitahuan Harga
+Ciri pemantauan harga:
+
+Amaran Penurunan Harga: Dapatkan notifikasi apabila harga produk turun
+Tetapkan Harga Sasaran: Tentukan harga sasaran untuk pemberitahuan
+Peringatan Tamat Tempoh Promosi: Pemberitahuan sebelum promosi berakhir
+Sejarah Harga: Lihat trend harga masa lalu untuk produk
+Perbandingan Harga: Bandingkan harga penjual berbeza untuk produk yang sama
+Nilai Terbaik: Petunjuk apabila produk berada pada harga terendah bersejarah
+Cara menetapkan pemberitahuan harga:
+
+Lawati halaman produk
+Klik pada butang "Notifikasi Harga" (biasanya di bawah harga atau sebagai ikon loceng)
+Tetapkan harga sasaran anda (atau gunakan sasaran peratusan diskaun)
+Simpan tetapan anda
+Terima notifikasi apabila produk mencapai harga sasaran anda
+10.2.3 Ciri Koleksi
+Kumpul dan susun produk:
+
+Koleksi Peribadi: Simpan dan susun produk mengikut tema
+Koleksi Awam: Kongsi koleksi dengan orang lain
+Koleksi Peristiwa: Cipta koleksi untuk peristiwa seperti perkahwinan, hari jadi
+Koleksi Inspirasi: Sumber inspirasi untuk deko rumah, fesyen, dll.
+Koleksi Bermusim: Simpan idea untuk perayaan tertentu
+Koleksi Hadiah: Susun idea hadiah untuk orang tersayang
+Koleksi Bersama: Bekerjasama dalam koleksi dengan orang lain
+Cara menggunakan koleksi:
+
+Di halaman produk, ketik ikon "Simpan" (bentuk penanda buku)
+Pilih koleksi sedia ada atau cipta koleksi baharu
+Namakan dan tetapkan tetapan privasi koleksi
+Lihat semua koleksi di bahagian "Koleksi Saya" dalam profil
+Edit, susun semula, atau kongsi koleksi mengikut keperluan
+10.2.4 Pemberitahuan Stok
+Dimaklumkan apabila item kembali tersedia:
+
+Notifikasi Kembali dalam Stok: Ketika produk habis stok kembali tersedia
+Amaran Stok Hampir Habis: Bila produk hampir habis stok
+Notifikasi Varian: Pemberitahuan khusus untuk varian tertentu (saiz/warna)
+Notifikasi Pratempur: Pemberitahuan apabila produk akan tersedia untuk pratempur
+Kemasukan Baharu: Dimaklumkan apabila penjual menambah produk baharu
+Pemberitahuan Pelancaran: Amaran untuk pelancaran produk yang dijadualkan
+Cara menetapkan pemberitahuan stok:
+
+Pada halaman produk habis stok
+Klik pada butang "Beritahu Saya Apabila Tersedia"
+Confirm e-mel atau nombor telefon anda
+Pilih varian yang dikehendaki (jika berkenaan)
+Terima pemberitahuan apabila produk kembali dalam stok
+10.3 Pilihan Pembayaran dan Kewangan
+10.3.1 Pembayaran Ansuran
+Pilihan pembayaran fleksibel:
+
+Ansuran 0% Faedah: Pembayaran dipecahkan kepada ansuran bulanan tanpa faedah
+Bank yang Terlibat: Maybank, CIMB, AmBank, RHB, Hong Leong Bank
+Tempoh Tersedia: 3, 6, 12, 18, atau 24 bulan
+Pengesahan: Automatik dan segera
+Kelayakan Produk: Biasanya tersedia untuk pembelian melebihi RM500
+Kelayakan Kad: Tertakluk kepada ketersediaan bank dan status kad
+Bayaran Pemprosesan: Mungkin dikenakan mengikut bank
+Cara membuat pembayaran ansuran:
+
+Tambah produk ke troli dan pergi ke checkout
+Pada halaman pembayaran, pilih kaedah pembayaran Kad Kredit
+Tik kotak "Bayar secara Ansuran"
+Pilih bank kad kredit dan tempoh ansuran
+Masukkan butiran kad kredit
+Ikuti arahan untuk pengesahan
+Terima pengesahan bahawa ansuran telah diluluskan
+10.3.2 Program KrediBintang
+Kredit platform untuk pembelian:
+
+Kredit Diluluskan Segera: Kelulusan cepat untuk pengguna yang layak
+Had: RM500-RM5,000 berdasarkan kelayakan
+Bayaran Balik: Bayaran bulanan fleksibel
+Kadar Faedah: 1.5% sebulan ke atas baki tertunggak
+Tempoh Bayaran: 30 hari tanpa faedah, kemudian faedah dikenakan
+Penambahan Had: Meningkat dengan rekod pembayaran baik
+Permohonan: Tersedia melalui aplikasi untuk pengguna berdaftar dengan 6+ bulan sejarah pembelian
+Cara memohon dan menggunakan KrediBintang:
+
+Pergi ke "Dompet" > "KrediBintang" dalam aplikasi
+Klik "Mohon Sekarang"
+Isi maklumat yang diperlukan dan muat naik dokumen
+Terima keputusan kelulusan dan had
+Semasa checkout, pilih "KrediBintang" sebagai kaedah pembayaran
+Semak dan keluarkan jumlah yang diperlukan
+Pantau dan bayar balik melalui tab "KrediBintang"
+10.3.3 Bayaran Balik Tunai
+Program ganjaran tunai balik:
+
+Tunai Balik Standard: 0.5% tunai balik untuk semua pembelian
+Promosi Tunai Balik: Hingga 10% untuk kategori dan penjual tertentu
+Pengaktifan: Tersedia untuk semua pengguna yang berdaftar
+Penebusan: Automatik sebagai kredit pembelian untuk pesanan akan datang
+Had Bulanan: Sehingga RM100 tunai balik standard sebulan
+Tempoh Sah: 3 bulan dari tarikh perolehan
+Peluang Bonus: Tunai balik tambahan untuk pembayaran melalui TokoBintang Pay
+Cara memantau tunai balik anda:
+
+Log masuk ke akaun TokoBintang anda
+Pergi ke "Dompet" > "Tunai Balik"
+Lihat tunai balik terkumpul, penebusan, dan yang akan tamat tempoh
+Gunakan secara automatik semasa checkout
+Lihat sejarah transaksi tunai balik di tab "Sejarah"
+10.3.4 Program Bayar Kemudian
+Teruskan dengan pembelian, bayar kemudian:
+
+Proses: Pembelian sekarang, bayar dalam masa 30 hari tanpa caj
+Penyedia: Kerjasama dengan Atome, Grab PayLater, FavePay Later
+Kelayakan: Tertakluk kepada kriteria penyedia perkhidmatan
+Had: Bermula dari RM100 - RM3,000
+Caj Lewat: Dikenakan jika bayaran lewat
+Pemilihan: Semasa checkout, pilih penyedia "Bayar Kemudian"
+Pengesahan: Selesaikan pengesahan di aplikasi/laman web penyedia
+Cara menggunakan perkhidmatan Bayar Kemudian:
+
+Tambah produk ke troli dan pergi ke checkout
+Pada halaman pembayaran, pilih "Bayar Kemudian"
+Pilih penyedia keutamaan anda (Atome, Grab PayLater, dll.)
+Anda akan dialihkan ke laman web/aplikasi penyedia
+Sahkan identiti dan teliti terma
+Setelah diluluskan, anda akan dialihkan kembali untuk menyelesaikan pesanan
+Bayar balik mengikut terma penyedia
+10.4 Tip Profesional untuk Pembeli
+10.4.1 Mengoptimumkan Carian
+Teknik carian lanjutan untuk hasil yang lebih baik:
+
+Menggunakan Petik: "baju kurung moden" untuk padanan tepat frasa
+Penapis Carian: Gabungkan pelbagai penapis (harga + penarafan + penghantaran percuma)
+Kata Kunci Variasi: Cuba "skirt panjang", "skirt labuh", "skirt maxi" untuk hasil berbeza
+Carian Kod Model: Untuk elektronik, cari dengan kod model tepat
+Akronim vs Spelling Penuh: Cuba kedua-dua "TV LED" dan "televisyen diod pemancar cahaya"
+Keutamaan Penapis: Tetapkan penapis mengikut keutamaan (harga dulu, kemudian lokasi)
+Cari dalam Kedai: Hadkan carian dalam kedai tertentu dengan pengkhususan
+Sintaks bermanfaat:
+
+"-kata" untuk mengecualikan (cari "baju -kanak-kanak" untuk pakaian dewasa sahaja)
+"minValue-maxValue" untuk julat (cari "telefon 800-1200" untuk telefon dalam julat harga)
+10.4.2 Memaksimumkan Penjimatan
+Strategi untuk penjimatan maksimum:
+
+Gabungan Baucar: Gabungkan baucar platform, baucar kedai, dan baucar bank
+Aktiviti Membawa Baucar: Selesaikan tugasan dalam aplikasi untuk baucar
+Pembelian Gabungan: Beli dari penjual yang sama untuk diskaun penghantaran
+Peristiwa Deposit: Dapatkan baucar dengan membuat deposit awal untuk jualan besar
+Notifikasi Flash Sale: Tetapkan peringatan untuk flash sale
+Pembayaran Pintar: Gunakan kaedah pembayaran dengan cashback terbaik
+Promosi Musim Tengah: Beli semasa promosi kurang popular untuk tawaran lebih baik
+Pembelian Kilat: Untuk item popular, simpan ke wishlist dan checkout segera semasa jualan bermula
+10.4.3 Pengurusan Ulasan
+Panduan untuk ulasan dan penarafan berimpak:
+
+Bukti Bersama Ulasan: Sertakan gambar berkualiti tinggi untuk ulasan yang berguna
+Struktur Ulasan: Susun dengan "Pro", "Cons", dan "Summary" untuk kejelasan
+Soalan-Jawapan: Lihat dan jawab soalan pengguna lain tentang produk yang anda beli
+Kemaskini Ulasan: Kemaskini ulasan anda selepas penggunaan jangka panjang
+Laporkan Ulasan: Laporkan ulasan yang tidak berkaitan atau mengelirukan
+Metrik Berguna: Nyatakan butiran seperti saiz, dimensi sebenar, warna dalam ulasan
+Konteks Penggunaan: Terangkan bagaimana anda menggunakan produk untuk membantu pembeli lain
+10.4.4 Keselamatan dan Pengesahan
+Langkah-langkah untuk membeli-belah dengan selamat:
+
+Pembelian Keaslian: Cari logo "Authentic Guarantee" atau "100% Original"
+Pembelian dari TokoMall: Kedai dengan pengesahan kedai rasmi
+Semak Metrik Kedai: Periksa penarafan dan sejarah penjual
+Amaran Tawaran Terlalu Baik: Berwaspada terhadap harga yang tidak realistik
+Log Masuk Selamat: Gunakan 2FA dan kata laluan unik
+URL yang Betul: Pastikan anda di laman web/aplikasi rasmi
+Pembayaran Selamat: Elakkan pemindahan wang terus atau luar platform
+Transaksi Mencurigakan: Laporkan permintaan untuk komunikasi luar platform
+11. Sokongan Pelanggan dan Bantuan
+11.1 Saluran Sokongan
+11.1.1 Pusat Bantuan Dalam Talian
+Sumber sokongan kendiri:
+
+Carian Pangkalan Pengetahuan: Telusuri artikel, tutorial, dan FAQ
+Panduan Langkah demi Langkah: Arahan visual untuk proses umum
+Video Bagaimana: Tutorial visual untuk tugas kompleks
+Soalan Lazim: Jawapan kepada pertanyaan biasa
+Panduan Pemecahan Masalah: Cara menyelesaikan masalah biasa
+Dokumen Dasar: Polisi rasmi tentang pemulangan, penghantaran, dll.
+Cara mengakses:
+
+Log masuk ke akaun TokoBintang anda
+Klik "Bantuan" di menu navigasi bawah
+Pilih kategori masalah atau gunakan bar carian
+Telusuri artikel atau jawapan yang berkaitan
+Alamat URL: help.tokobintang.com.my
+
+11.1.2 Khidmat Pelanggan Langsung
+Saluran sokongan manusia:
+
+Live Chat: Segera, tersedia 24/7 melalui aplikasi dan laman web
+E-mel: support@tokobintang.com.my (respons dalam masa 24 jam)
+Pusat Panggilan: 1-800-88-TOKO (8656), 9 pagi - 6 petang, setiap hari
+Sokongan Media Sosial: Melalui Facebook dan Twitter
+Borang Web: Untuk pertanyaan khusus dan terperinci
+Masa respons biasa:
+
+Live Chat: 2-5 minit
+E-mel: 12-24 jam
+Telefon: 5-15 minit masa menunggu
+Media Sosial: 2-4 jam
+Borang Web: 12-24 jam
+11.1.3 Sokongan Pesanan Khusus
+Bantuan untuk pesanan tertentu:
+
+Pelacak Pesanan: Khusus untuk maklumat pengesanan terperinci
+Butang "Bantuan Pesanan": Dalam halaman pesanan anda
+Bantuan Pemulangan: Pasukan khusus untuk pemulangan dan bayaran balik
+Resolusi Pertikaian: Sokongan untuk masalah dengan penjual
+Sokongan Pembayaran: Bantuan dengan isu pembayaran
+Isu biasa yang ditangani:
+
+Pesanan tertunggak
+Item hilang atau rosak
+Ketidakpatuhan produk
+Konflik dengan penjual
+Masalah penghantaran
+11.1.4 Sokongan Penjual
+Bantuan khusus untuk penjual:
+
+Pusat Bantuan Penjual: Portal bantuan khusus untuk penjual
+Pengurus Akaun: Untuk penjual TokoBintang Verified
+Program Mentor: Bimbingan dari penjual berpengalaman
+Forum Penjual: Komuniti untuk perkongsian amalan terbaik
+Webinar dan Latihan: Sesi pendidikan untuk penjual
+Pusat Panggilan Penjual: Khusus untuk isu penjual
+11.2 Melaporkan Isu
+11.2.1 Proses Laporan Masalah
+Langkah-langkah melaporkan masalah:
+
+Kenal Pasti Masalah: Tentukan kategori dan keutamaan masalah
+Kumpul Bukti: Tangkap skrin, foto, atau dokumen berkaitan
+Pilih Saluran: Tentukan saluran berdasarkan keperluan
+Huraikan Masalah: Berikan penerangan terperinci dan ringkas
+Bekalkan Maklumat: ID pesanan, nama penjual, dll.
+Tentukan Penyelesaian: Nyatakan hasil yang dikehendaki
+Ikuti Kemaskini: Semak notifikasi untuk maklum balas
+Keutamaan masalah:
+
+Kritikal: Isu keselamatan, penipuan, transaksi besar bermasalah
+Tinggi: Pesanan tidak diterima, bayaran salah
+Sederhana: Kelewatan penghantaran, pertikaian kualiti
+Rendah: Pertanyaan umum, cadangan, maklum balas
+11.2.2 Melaporkan Produk Berbahaya atau Palsu
+Proses khusus untuk isu serius:
+
+Produk Berbahaya: Item yang mengancam keselamatan
+Barangan Palsu: Produk yang meniru jenama atau reka bentuk
+Kandungan Haram: Produk yang melanggar undang-undang
+Proses pelaporan:
+
+Di halaman produk, klik "Laporkan"
+Pilih jenis pelanggaran
+Berikan butiran dan bukti
+Kemukakan laporan
+Pasukan keselamatan akan menyiasat
+Tindakan akan diambil jika perlu (biasanya dalam masa 24-48 jam)
+11.2.3 Melaporkan Penipuan atau Pelanggaran Keselamatan
+Proses untuk isu keselamatan serius:
+
+Cubaan Phishing: E-mel atau mesej mencurigakan
+Aktiviti Mencurigakan: Akses tidak dibenarkan ke akaun
+Pelanggaran Privasi: Isu berkenaan data peribadi
+Pelanggaran Keselamatan Pembayaran: Transaksi tidak dibenarkan
+Saluran pelaporan khusus:
+
+E-mel khusus: security@tokobintang.com.my
+Talian Penting: 1-800-88-SAFE (7233)
+Borang Dalam Talian: tokobintang.com.my/report-security
+Tindakan segera yang perlu diambil:
+
+Tukar kata laluan
+Hidupkan 2FA jika belum
+Semak sejarah transaksi untuk aktiviti mencurigakan
+Laporkan transaksi tidak dibenarkan segera
+Hubungi bank jika maklumat pembayaran terlibat
+11.2.4 Sistem Tiket Sokongan
+Cara mengesan dan menguruskan permintaan bantuan:
+
+ID Tiket Unik: Diberikan untuk setiap permintaan bantuan
+Panel Status: Semak status tiket di akaun anda
+Pemberitahuan Kemaskini: Terima e-mel atau notifikasi dalam aplikasi
+Balasan ke Thread: Tambah maklumat ke tiket sedia ada
+Kemaskini Automatik: Pemberitahuan untuk perubahan status
+Arkib Tiket: Akses sejarah semua pertanyaan sebelumnya
+Status tiket biasa:
+
+Diterima: Tiket telah dihantar
+Dalam Semakan: Pasukan sokongan sedang menyemak
+Memerlukan Maklumat: Maklumat tambahan diperlukan
+Dalam Tindakan: Penyelesaian sedang dilaksanakan
+Disemak oleh Penjual: Menunggu maklum balas dari penjual
+Diselesaikan: Masalah telah ditangani
+Ditutup: Tiket telah ditutup
+11.3 Proses Eskalasi
+11.3.1 Bila dan Bagaimana untuk Mengeskalasi
+Garis panduan untuk menentukan masa mengeskalasi:
+
+Tiada maklum balas dalam tempoh masa yang dijanjikan
+Penyelesaian yang ditawarkan tidak mencukupi
+Wakil sokongan tidak dapat menyelesaikan masalah
+Kes kompleks memerlukan keputusan peringkat lebih tinggi
+Masalah berulang walaupun selepas penyelesaian
+Langkah-langkah eskalasi:
+
+Rujuk kepada ID Tiket asal
+Hubungi saluran sokongan
+Nyatakan dengan jelas: "Saya ingin mengeskalasi isu ini"
+Berikan sebab untuk eskalasi
+Nyatakan hasil yang dikehendaki
+Minta ID Eskalasi dan jangkaan masa tindak balas
+11.3.2 Peringkat Resolusi
+Hierarki penyelesaian masalah:
+
+Tahap 1 - Sokongan Barisan Hadapan: Wakil sokongan pelanggan biasa
+Tahap 2 - Pakar Kes: Kakitangan dengan pengetahuan dan alat lebih lanjut
+Tahap 3 - Pengurus Perkhidmatan Pelanggan: Penyeliaan dan penyelesaian kompleks
+Tahap 4 - Resolusi Eksekutif: Untuk kes yang memerlukan pengecualian atau kelulusan khas
+Tahap 5 - Resolusi Pihak Pengurusan: Untuk kes berprofil tinggi atau berpotensi media
+Peningkatan automatik berlaku untuk:
+
+Isu keselamatan dan penipuan
+Masalah pembayaran besar
+Syarikat berprofil tinggi
+Masalah berpotensi undang-undang
+Pertikaian panjang yang tidak selesai
+11.3.3 Program Advokasi Pelanggan
+Untuk kes kompleks atau berpanjangan:
+
+Pengurus Kes Khusus: Orang hubungan tunggal untuk keseluruhan resolusi
+Program TokoPriority: Untuk pelanggan VIP dan Platinum
+Penyelesaian Kes Kompleks: Untuk masalah yang melibatkan berbilang pihak
+Fast-Track Resolution: Proses yang dipercepatkan untuk kes-kes tertentu
+Pemantauan Pasca-Resolusi: Susulan untuk memastikan penyelesaian kekal
+Cara mengakses:
+
+Secara automatik ditawarkan untuk kes yang memenuhi kriteria
+Boleh diminta semasa eskalasi
+Tersedia untuk ahli TokoMall atau tahap Platinum
+Melalui program advokasi khas
+11.3.4 Arbitrasi dan Penyelesaian Pertikaian
+Proses untuk pertikaian yang tidak dapat diselesaikan:
+
+TokoBintang Guarantee Protection: Arbitrasi platform neutral
+Prosedur Pengantaraan: Dialog terpandu antara pembeli dan penjual
+Siasatan Adil & Penghakiman: Keputusan berdasarkan bukti yang dikemukakan
+Pilihan Rayuan: Untuk keputusan yang dipertikaikan
+Resolusi Terakhir: Keputusan yang mengikat selepas rayuan
+Proses arbitrasi biasa:
+
+Minta arbitrasi melalui halaman pesanan
+Kemukakan semua bukti dalam tempoh 48 jam
+Penjual diberi masa untuk memberi respons
+Penilai neutral mengkaji semua bukti
+Keputusan dikeluarkan dalam masa 3-5 hari
+Jika tidak puas hati, rayuan harus difailkan dalam masa 24 jam
+Keputusan rayuan adalah muktamad
+11.4 Program Maklum Balas
+11.4.1 TokoBintang Listens
+Program maklum balas pengguna:
+
+Tinjauan Kepuasan: Selepas interaksi sokongan
+Temu Bual Pengguna: Perbualan mendalam untuk maklum balas terperinci
+Program Panel Pengguna: Kumpulan fokus untuk ujian ciri baharu
+Imbasan Pengguna Aktif: Jangkauan proaktif kepada pengguna aktif
+Maklum Balas Produk: Maklum balas tentang pembangunan produk
+Ujian Beta: Program pengujian ciri baharu dan antara muka
+Cara mengambil bahagian:
+
+Terima jemputan melalui e-mel/aplikasi, ATAU
+Pergi ke tokobintang.com.my/listens untuk mendaftar
+Lengkapkan profil maklum balas anda
+Terima pemberitahuan untuk peluang maklum balas
+Ganjaran penyertaan:
+
+TokoCoins untuk tinjauan yang diisi
+Baucar untuk temu bual atau kumpulan fokus
+Akses awal ke ciri baharu untuk penguji beta
+Program Influencer TokoBintang untuk penyumbang teratas
+11.4.2 Cadangan Ciri
+Saluran untuk mencadangkan penambahbaikan:
+
+Portal Idea: Hantar dan undi cadangan ciri
+Forum Komuniti: Bincang idea dengan pengguna lain
+Program Ujian Beta: Uji dan beri maklum balas tentang ciri yang akan datang
+TokoBintang Labs: Ciri ujian yang masih dalam pembangunan
+Program Pakar Pengguna: Penasihat khas untuk bahagian platform tertentu
+Cara menghantar cadangan:
+
+Pergi ke tokobintang.com.my/ideas
+Log masuk ke akaun TokoBintang anda
+Klik "Hantar Idea Baharu"
+Pilih kategori dan isi keterangan
+Tambah imej atau video jika berkenaan
+Hantar untuk pertimbangan
+Proses semakan idea:
+
+Semakan awal dalam masa 5 hari
+Idea disiarkan untuk undian komuniti
+Idea popular disemak oleh pasukan produk
+Status dikemas kini ke "Dalam Semakan", "Dirancang", "Sedang Dibangunkan", atau "Dilaksanakan"
+Pemberitahuan apabila status berubah
+11.4.3 Program Laporan Bug
+Proses untuk melaporkan masalah teknikal:
+
+Portal Laporan Bug: Antara muka khusus untuk isu teknikal
+Tapisan Keutamaan: Sistem triage untuk isu kritikal
+Status Pelacakan: Ikuti kemajuan penyelesaian
+Ujian Pengguna: Uji pembaikan sebelum dikeluarkan
+Program Ganjaran Bug: Ganjaran untuk laporan bug penting
+Cara melaporkan bug:
+
+Di aplikasi/web, pergi ke Menu > Bantuan > Laporkan Bug
+Pilih kategori dan kepentingan
+Berikan langkah-langkah terperinci untuk meniru masalah
+Lampirkan tangkapan skrin atau skrin rakaman
+Sertakan maklumat peranti dan versi aplikasi
+Hantar dan terima ID Laporan Bug unik
+Status laporan bug:
+
+Diterima: Laporan dihantar dengan berjaya
+Disahkan: Bug disahkan oleh pasukan QA
+Dalam Kerja: Pembetulan sedang dibangunkan
+Diselesaikan: Pembetulan telah dikeluarkan
+Tidak Dapat Disahkan: Tidak dapat meniru isu
+Dirancang: Akan ditangani dalam kemas kini masa hadapan
+11.4.4 Temu Bual Pemulangan dan Pembatalan
+Proses untuk memahami kehilangan pelanggan:
+
+Soal Selidik Pemulangan: Mengumpul sebab untuk pemulangan
