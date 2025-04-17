@@ -9,10 +9,10 @@ import time # To measure time if needed
 # --- Configuration (Match your app_v3.py and reindex.py) ---
 INDEX_PATH = "faiss_malay_ecommerce_kb_index"
 # IMPORTANT: Use the SAME embedding model currently configured in your app/reindex scripts!
-EMBEDDING_MODEL_NAME = "mesolitica/mistral-embedding-191m-8k-contrastive"
+EMBEDDING_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 # Retrieval settings to test (match app_v3.py)
 SEARCH_TYPE = "similarity" # Or "similarity"
-SEARCH_K = 3
+SEARCH_K = 5
 #SEARCH_FETCH_K = 10
 
 # --- Queries to Test ---
@@ -58,13 +58,11 @@ except Exception as e:
     exit() # Exit script if index fails
 
 # --- Create Retriever ---
-print(f"\nCreating retriever (Type: {SEARCH_TYPE}, k: {SEARCH_K}, fetch_k: {SEARCH_FETCH_K})...")
-try:
-    retriever = vector_store.as_retriever(
-        search_type=SEARCH_TYPE,
-        search_kwargs={'k': SEARCH_K, 'fetch_k': SEARCH_FETCH_K} # Adjust if testing different params
-    )
-    print(">> Retriever created.")
+retriever = vector_store.as_retriever(
+    search_type=SEARCH_TYPE,
+    search_kwargs={'k': SEARCH_K}
+)
+print(f">> Retriever created (Type: {SEARCH_TYPE}, k: {SEARCH_K}).") # Update print statement
 except Exception as e:
     print(f"FATAL: Error creating retriever: {e}")
     exit()
