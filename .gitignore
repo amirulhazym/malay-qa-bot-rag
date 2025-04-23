@@ -79,6 +79,8 @@ revolab*.png
 streamlit*.png
 ui*.jpg
 uiux*.png
+app_v3.py
+app_new.py
 
 # Ensure these are still ignored
 p3env/
@@ -87,3 +89,25 @@ __pycache__/
 # Ensure these are NOT ignored (remove lines if present)
 # faiss_malay_ecommerce_kb_index/
 # knowledge_base/
+
+# Ignore old app versions/duplicates
+app2.py
+app_v*.py
+*_needtofix.py
+*_testing.py
+
+# Ignore temporary/debug scripts
+debug_*.py
+custom_embedder.py # Assuming this was temporary
+
+# Ignore copies
+*Copy.txt
+*copy.txt
+
+# Ignore other potentially unwanted files/folders
+# Add anything else specific here
+
+# --- Ensure these are NOT ignored ---
+# Make sure lines starting with '#' are before these if they existed:
+# !faiss_malay_ecommerce_kb_index/ # Example if it was ignored before
+# !knowledge_base/
