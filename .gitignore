@@ -111,3 +111,29 @@ custom_embedder.py # Assuming this was temporary
 # Make sure lines starting with '#' are before these if they existed:
 # !faiss_malay_ecommerce_kb_index/ # Example if it was ignored before
 # !knowledge_base/
+
+# Ignore temporary/debug scripts
+# debug_*.py
+# custom_embedder.py
+
+# Ignore copies
+*Copy.txt
+
+# Ignore old app versions if any (based on previous issues)
+app_v*.py
+*_testing.py
+app2.py # If this was an old version
+
+
+# --- Ensure essential files/folders are NOT ignored ---
+!app.py
+!reindex.py
+!01-FineTuning-QA.ipynb
+!02-RAG-Pipeline.ipynb
+!requirements.txt
+!README.md
+!faiss_malay_ecommerce_kb_index/
+!knowledge_base/
+!squad_format_qa_pairs.json
+!ecommerce_malay_qa.csv
+#.gitattributes # Usually added by LFS, not manual ignore
