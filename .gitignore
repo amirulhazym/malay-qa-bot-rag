@@ -137,3 +137,6 @@ app2.py # If this was an old version
 !squad_format_qa_pairs.json
 !ecommerce_malay_qa.csv
 #.gitattributes # Usually added by LFS, not manual ignore
+
+/p3env2/
+p3env2/
