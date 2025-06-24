@@ -1,3 +1,13 @@
+---
+title: AuraCart AI Assistant
+emoji: 🛒
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+app_file: v2_multilingual_api/frontend/app.py
+pinned: false
+---
+
 # Advanced Conversational AI for E-Commerce: V1 vs. V2
 
 This repository showcases the evolution of a RAG-based chatbot, demonstrating a clear progression from a self-hosted prototype (v1) to a professional, API-driven conversational AI (v2).
