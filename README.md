@@ -31,3 +31,4 @@ This version is the original project, serving as a technical baseline.
 
 *   **Architecture (`/v1_malay_selfhosted`):** A single Streamlit application using a self-hosted `mt5-small` model and a local FAISS index.
 *   **Knowledge Base:** `/knowledge_base/v1_malay`
+
