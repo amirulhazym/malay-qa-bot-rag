@@ -5,7 +5,7 @@ colorFrom: blue
 colorTo: green
 sdk: streamlit
 app_file: launcher.py
-python_version: 3.10
+python_version: "3.10"
 pinned: false
 ---
 
