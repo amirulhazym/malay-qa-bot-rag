@@ -4,8 +4,7 @@ FROM python:3.10-slim
 # Set the working directory inside the container
 WORKDIR /code
 
-# --- FIX #2: Install curl ---
-# Install system-level dependencies required by our app, Git LFS, AND curl for our health check
+# Install system-level dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     git \
     git-lfs \
@@ -13,9 +12,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && git lfs install \
     && rm -rf /var/lib/apt/lists/*
 
-# --- FIX #1: Set a local cache directory ---
-# This environment variable tells all Hugging Face libraries to save models
-# inside our app's directory at /code/.cache, which we have permission to write to.
+# Set a local cache directory inside our workspace
 ENV HF_HOME=/code/.cache
 
 # Copy the requirements file first to leverage Docker cache
@@ -27,6 +24,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the rest of the application code into the container
 COPY . .
+
+# --- THE DEFINITIVE FIX ---
+# Change the owner of the /code directory to the user the app will run as.
+# The user is 'user' which has ID 1000. This grants write permissions.
+RUN chown -R 1000:1000 /code
 
 # Make our startup script executable
 RUN chmod +x ./setup.sh
