@@ -3,7 +3,6 @@ title: AuraCart AI Assistant
 emoji: 🛒
 colorFrom: blue
 colorTo: green
-sdk: gradio
 python_version: 3.10
 pinned: false
 ---
