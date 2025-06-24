@@ -4,7 +4,6 @@ emoji: 🛒
 colorFrom: blue
 colorTo: green
 sdk: streamlit
-app_file: v2_multilingual_api/frontend/app.py
 pinned: false
 ---
 
