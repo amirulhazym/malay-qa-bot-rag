@@ -24,7 +24,7 @@ print("Initializing services...")
 pc = Pinecone(api_key=PINECONE_API_KEY)
 index = pc.Index("auracart-multilingual-kb")
 genai.configure(api_key=GEMINI_API_KEY)
-generation_model = genai.GenerativeModel('gemini-2.5-flash-lite-preview-06-17')
+generation_model = genai.GenerativeModel('gemini-2.5-flash-lite')
 print("Services initialized.")
 
 app = FastAPI()
