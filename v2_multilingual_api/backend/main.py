@@ -1,4 +1,4 @@
-# --- Full, Final, and Verified Code for v2_multilingual_api/backend/main.py ---
+# --- v2_multilingual_api/backend/main.py ---
 
 import os
 import json # <-- FIX 1: Added the missing json import
