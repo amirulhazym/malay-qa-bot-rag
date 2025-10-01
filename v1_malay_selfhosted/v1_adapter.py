@@ -10,7 +10,7 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
 
 # --- 1. Constants and Configuration (Adapted from self-testing-app.py) ---
 # CRITICAL: Point to the NEUTRALIZED index for a fair evaluation.
-INDEX_SAVE_PATH = "faiss_v1_neutral_kb_index" 
+INDEX_SAVE_PATH = "v1_malay_selfhosted/faiss_v1_neutral_kb_index" 
 EMBEDDING_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 LLM_CHECKPOINT = "google/flan-t5-small"
 SEARCH_K = 2 # The optimal setting we found for V1
@@ -86,9 +86,18 @@ def get_v1_rag_response(question: str):
         return {"answer": "Error: V1 Chain not loaded.", "contexts": []}
         
     # LangChain v1 used .invoke(), which is equivalent to calling the chain.
-    result = QA_CHAIN_V1.invoke({"query": question})
+    try:
+        result = QA_CHAIN_V1.invoke({"query": question})
     
-    answer = result.get('result', "")
-    contexts = [doc.page_content for doc in result.get('source_documents', [])]
+        answer = result.get('result', "")
+        contexts = [doc.page_content for doc in result.get('source_documents', [])]
     
-    return {"answer": answer, "contexts": contexts}
+        if not answer or not answer.strip():
+            answer = "No answer generated."
+
+        return {"answer": answer, "contexts": contexts}
+
+    except Exception as e:
+        # If the entire chain fails for any reason, return a clear error.
+        print(f"--- V1 CHAIN FAILED for question: '{question}' with error: {e} ---")
+        return {"answer": "Error during generation.", "contexts": []}
