@@ -1,4 +1,4 @@
-# Full, Upgraded Code for: v2_multilingual_api/frontend/app.py
+# v2_multilingual_api/frontend/app.py
 
 import streamlit as st
 import requests

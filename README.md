@@ -31,40 +31,7 @@ A key component of this project was the development of a **formal evaluation fra
 
 This flowchart illustrates the project's journey, highlighting the limitations of the V1 prototype that directly motivated the architectural upgrade to the V2 system.
 
-```mermaid
-flowchart TD
-    subgraph "V1: Self-Hosted Monolithic Prototype (`app.py`)"
-        A[User] -- Interacts with --> B{Streamlit UI & Backend Logic};
-        B -- Runs Internal RAG --> C[RAG Pipeline];
-        C -- Retrieves from --> D[Local FAISS Index];
-        C -- Generates with --> E[Local FLAN-T5-Small];
-        E -- Returns Answer/Fallback --> B;
-    end
-
-    B --> F{"<div style='text-align: left; font-weight:bold;'>Limitations Identified</div><div style='text-align: left;'>- <b>LLM Generation Failure:</b> Local model (FLAN-T5) often failed, requiring a fallback.<br/>- <b>Retrieval Inconsistency:</b> Basic similarity search was unreliable for nuanced queries.<br/>- <b>Monolithic Design:</b> UI and AI logic tightly coupled, hard to scale.<br/>- <b>Single Language:</b> Only supported Malay.</div>"};
-
-    F -- Decision: <br/>Upgrade to Professional API Architecture --> G;
-
-    subgraph "V2: Decoupled API Architecture"
-        G(User) -- Interacts with --> H["Frontend<br/>(Streamlit)"];
-        H -- API Request --> I["Backend<br/>(FastAPI on Docker)"];
-        I -- Returns Answer --> H;
-    end
-
-    subgraph "V2: Advanced RAG Pipeline (Backend Logic)"
-        I -- Triggers --> J(1. Retrieve: Query Pinecone);
-        J -- Returns Top 20 Candidates --> K(2. Re-rank: Cross-Encoder);
-        K -- Returns Top 4 Contexts --> L(3. Generate: Prompt Gemini);
-        L -- Returns Final Answer --> I;
-    end
-
-    subgraph "External Cloud Services"
-        J --> M[Pinecone Vector Database];
-        L --> N[Google Gemini API];
-    end
-
-    style Z fill:#FFCCCC,stroke:#A00,stroke-width:2px
-```
+![System Arch](images/system_architecture.png)
 
 ## ⭐ Core Features (V2)
 

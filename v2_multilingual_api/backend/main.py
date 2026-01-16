@@ -1,7 +1,7 @@
 # --- v2_multilingual_api/backend/main.py ---
 
 import os
-import json # <-- FIX 1: Added the missing json import
+import json
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
 from dotenv import load_dotenv
@@ -49,8 +49,8 @@ class SuggestionResponse(BaseModel):
 
 @app.post("/api/ask", response_model=QueryResponse)
 def ask_question(request: QueryRequest):
-    # --- FIX 2: Corrected the retrieval and source handling logic ---
     
+    # --- Corrected the retrieval and source handling logic ---
     # 1. Retrieve
     query_embedding = retriever_model.encode(request.question).tolist()
     retrieved_docs = index.query(vector=query_embedding, top_k=20, include_metadata=True)
@@ -81,7 +81,6 @@ def ask_question(request: QueryRequest):
         }
         for doc in top_docs
     ]
-    # --- END OF FIX 2 ---
     
     history_str = "\n".join([f"User: {h.get('user', '')}\nBot: {h.get('bot', '')}" for h in request.history])
 
